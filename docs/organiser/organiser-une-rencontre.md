@@ -94,6 +94,8 @@ Sinon une solution alternative est d’organiser des sessions en duo parfois tri
 Pensez qu'il existe des studios commerciaux mais également des studios associatifs qui proposent des tarifs beaucoup moins élevés ...
 Si vous organisez une jam chez vous et que vous voulez faire payer, c'est possible mais dans ce cas, le coût de location doit être annoncé en toute clarté à tous les participants avant la réalisation de la jam.
 
+Sur https://www.quickstudio.com vous pourrez trouver des studios en location avec parfois des plannings de réservation. Certains studios ne permettent pas de réserver par ce site, il faut téléphoner ou envoyer un mail.
+
 Dans tous les cas, tout le monde doit payer à parts égales la location de studio.
 
 ### Spectateur(s)
