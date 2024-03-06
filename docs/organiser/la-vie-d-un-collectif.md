@@ -149,7 +149,7 @@ Dans un collectif, il y a différents rôles :
 - le(s) chef(s) d’orchestre ;
 - le(s) référent(s)
 
-### Rôle du leader de collectif
+### Rôle du leader de collectif
 Un leader est un facilitateur. Un meneur d'équipe c'est quelqu'un qui met sur les rails et s'efface quand tout va bien. Par contre, il faut savoir intervenir quand ça dérape et que certains sont laissés sur le carreau à tort. Le rôle du leader n'est pas forcément de tout diriger de manière audible mais de faire en sorte que le collectif soit huilé et que l'organisation convienne au plus grand nombre tout en étant fidèle à la vision que le leader en a (sa vision peut évoluer avec le collectif).
 
 ### Rôle du chef d’orchestre
