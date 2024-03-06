@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ### Documentation écrite
 
-Pour savoir ce qu'est Discord et les concepts derrire cette application, voici le lien [d'introduction à Discord](https://support.discord.com/hc/fr/articles/360045138571-Guide-de-Discord-pour-d%C3%A9butants) : 
+Pour savoir ce qu'est Discord et les concepts derrière cette application, voici le lien [d'introduction à Discord](https://support.discord.com/hc/fr/articles/360045138571-Guide-de-Discord-pour-d%C3%A9butants) : 
 
 ### Petite vidéo courte
 
