@@ -5,7 +5,7 @@ sidebar_position: 2
 
 Créer un collectif, c’est réfléchir ensemble (avec les membres du collectif) aux styles de musique que l’on veut aborder, le niveau des participants que l’on désire et en fonction du style, les instruments dont on a besoin pour constituer le répertoire ! Un ou des objectifs peuvent aussi conduire le collectif (faire des concerts, jammer pour le plaisir, travailler le son, développer l’improvisation … ).
 
-Chaque collectif est présenté dans le salon **#présentations** sous la catégorie Collectifs avec un rond jaune. Pour créer un post sur le salon Discord **#présentations** , le membre doit avoir le rôle discord @leader-collectif . Par contre, pour répondre à un post, il faut être inscrit (et donc avoir rempli une fiche d’inscription ZIKAPANAM, c'est GRATUIT pour commencer).
+Chaque collectif est présenté dans le salon **#présentations** sous la catégorie Collectifs avec un rond jaune. Pour créer un post sur le salon Discord **#présentations** , le membre doit avoir le rôle discord @leader-collectif . Par contre, pour répondre à un post, il faut être inscrit (et donc avoir rempli une fiche d’inscription ZIKAPANAM, c'est GRATUIT pour commencer et vous pouvez un ou deux essais).
 
 
 ## Présentation du collectif
@@ -60,7 +60,7 @@ Parfois, le recrutement interne à l’association ne suffit pas … Il faut alo
 
 Mes conseils :
 
-Rédiger votre annonce avec soin et faites la relire (par moi par exemple Laurent_Sch ou quelqu’un d’autre) pour avoir des retours concrets immédiats.
+Rédigez votre annonce avec soin et faites-la relire (par moi par exemple Laurent_Sch ou quelqu’un d’autre) pour avoir des retours concrets immédiats.
 - Rester positif dans votre attitude et votre communication
 - Définir clairement les contours de votre projet de collectif (But, lieu privilégié, instruments recherchés, si possible les horaires et le jour des rencontres, la fréquence, le niveau requis ...)
 - Être transparent sur le fait que vous recrutez dans le cadre de notre association et n'hésitez pas à partager ce lien : [Zikapanam | À propos](https://www.blog.zikapanam.fr/about)
@@ -97,7 +97,7 @@ Ce nom constituera le libellé de la catégorie qui regroupera vos salons privé
 
 ### Émoji du collectif 
 
-Vous devrez sélectionner un émoji emblême de votre collectif.
+Vous devrez sélectionner un émoji emblème de votre collectif.
 
 ### Les salons privés
 
@@ -110,11 +110,11 @@ Lors du recrutement, les communications se font soit en messages privés, soit s
 Une fois que vous avez décidé avec le collectif de faire route ensemble avec le candidat, le leader fait une demande à l’administrateur pour que le candidat soit officiellement membre du collectif sur discord.
 Ce membre peut être occasionnel ou régulier selon les prérogatives du leader,de ses besoins et des possibilités et motivations du candidat.
 
-Au bout de maximum deux essais, le candidat devra cotiser si il veut rester dans votre collectif. La cotisation ici est surtout une marque d'engagement et reste modique.
+Au bout de maximum deux essais, le candidat devra cotiser s'il veut rester dans votre collectif. La cotisation ici est surtout une marque d'engagement et reste modique.
 
 ## Organisation du collectif
 
-Un collectif n’a de sens que si il contient beaucoup de musiciens sinon c’est simplement un groupe conventionnel mais qui est assez limitant pour les participants même si on commence souvent par là.
+Un collectif n’a de sens que s'il contient beaucoup de musiciens sinon c’est simplement un groupe conventionnel (un lineup) mais qui est assez limitant pour les participants même si on commence souvent par là.
 
 ### Lineups
 

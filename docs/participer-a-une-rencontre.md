@@ -15,7 +15,7 @@ Il existe trois types de rencontres :
 
 Pour participer à ces rencontres, il faut être membre du collectif qui organise la rencontre.
 
-Il faut donc démarcher son leader et voir si il peut vous satisfaire d'abord par un essai ou deux puis par une place de suppléant ou de titulaire. Ces deux derniers cas nécessitent d'être cotisant.
+Il faut donc démarcher son leader et voir s'il peut vous satisfaire d'abord par un essai ou deux puis par une place de suppléant ou de titulaire. Ces deux derniers cas nécessitent d'être cotisant.
 
 Un calendrier des rencontres en collectif et ouvertes est disponible à cette adresse : [Calendrier](https://www.blog.zikapanam.fr/calendriers)
 
