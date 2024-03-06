@@ -30,7 +30,7 @@ L'organisation d'une soirée nécessite plusieurs étapes :
 
 - Trouver des lieux à démarcher situés sur Paris intra-muros ou petite conronne acceptant le ou les styles que vous projetez de jouer ;
 - Recueillir les conditions de chaque lieu (matériél à disposition, créneau horaire, dépenses à prévoire, conditions d'accueil - boissons, repas ...) afin de constituer une shortlist de lieu ;
-- Démarcher les lieux retenus en fonction des critères imposés par la logistique disponible, le matériel et la situation géographiqe des musiciens et du public (très souvent se rendre sur place est assez efficace ! Si vous pouvez, passez un coup de téléphone pour vérifier que le responsable de la programmation sera présent lors de votre passage).
+- Démarcher les lieux retenus en fonction des critères imposés par la logistique disponible, le matériel et la situation géographique des musiciens et du public (très souvent se rendre sur place est assez efficace ! Si vous pouvez, passez un coup de téléphone pour vérifier que le responsable de la programmation sera présent lors de votre passage).
 
 ## Diffuser l'information
 
@@ -40,6 +40,6 @@ Elle dispose aussi de Discords, Facebooks, YouTube   et Instagrams sur lesquelle
 
 ## Réaliser l'événement
 
-Même si la plupart du temps, ça se passe bien, prépatez-vous à palier aux absences de dernières minutes (maladie ou imprévus) car annuler un événement au dernier moment est du plus mauvais effet et encore plus si des frais ont été engagés et pourtant ça fait partie du jeu.
+Même si la plupart du temps, ça se passe bien, préparez-vous à palier aux absences de dernières minutes (maladie ou imprévus) car annuler un événement au dernier moment est du plus mauvais effet et encore plus si des frais ont été engagés et pourtant ça fait partie du jeu.
 
-N'hésitez pas à faire des listes de matériel à ramener pour ne rien oublier et prenez toutes les dispositions nécessaires, ne laissez rien au hasard. Organiser, c'est faire confiance à l'orga et aux participants.
+N'hésitez pas à faire des listes de matériel à ramener pour ne rien oublier et prenez toutes les dispositions nécessaires, ne laissez rien au hasard. Organiser, c'est faire confiance à l'orga et aux participants mais il vaut mieux se préparer et se dire les choses que de rester sur des malentendus.
