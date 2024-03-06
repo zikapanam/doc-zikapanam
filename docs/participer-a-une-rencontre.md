@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 # Participer à une rencontre
 
@@ -9,7 +9,7 @@ Il existe trois types de rencontres :
 
 - les rencontres en collectif ;
 - les rencontres ouvertes à tous les membres ;
-- les événements publiques ouvertes à tous (cotisants ou non).
+- les événements publics ouvertes à tous (cotisants ou non).
 
 ### Les rencontres en collectif
 
@@ -27,11 +27,11 @@ Les rencontres ouvertes à tous les membres cotisants sont proposées par des or
 Un calendrier des rencontres en collectif et ouvertes est disponible à cette adresse : [Calendrier](https://www.blog.zikapanam.fr/calendriers)
 
 
-### Les événements publiques
+### Les événements publics
 
-Les événements  publiques sont souvent des jams sessions et/ou des scènes ouvertes organisées par l'association afin d'attirer de nouveaux adhérents. Leurs accès est très souvent ouvert à tous les musiciens motivés (cotisants ou pas).
+Les événements  publics sont souvent des jams sessions et/ou des scènes ouvertes organisées par l'association afin d'attirer de nouveaux adhérents. Leurs accès est très souvent ouvert à tous les musiciens motivés (cotisants ou pas).
 
-Les événements publiques sont partagés sur [Facebook](https://www.facebook.com/ParisJamClub)
+Les événements publics sont partagés sur [Facebook](https://www.facebook.com/ParisJamClub)
 
 ## Calendrier des rencontres
 
@@ -51,8 +51,8 @@ Trois possibilités:
 - l'inscription est sur demande : rendez-vous sur le fil de discussion de la rencontre pour demander à l'organisateur si vous pouvez participer. (Utilisé surtout dans le cadre des rencontres ouvertes)
 - l'inscription est close : vous ne pouvez plus vous inscrire pour le moment, la rencontre est complète, mais je vous conseille de manifester tout de même votre intérêt pour une prochaine fois et/ou peut-être qu'avec un peu de chance, l'organisateur ouvrira une place supplémentaire pour vous !
 
-### Les événements publiques
+### Les événements publics
 
-Les événements publiques sont partagés sur [Facebook](https://www.facebook.com/ParisJamClub/events)
+Les événements publics sont partagés sur [Facebook](https://www.facebook.com/ParisJamClub/events)
 
 Lisez bien le descriptif de l'événement car parfois une inscription est nécessaire à l'événement.
