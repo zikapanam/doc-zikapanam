@@ -8,8 +8,8 @@ sidebar_position: 4
 Il existe trois types de rencontres :
 
 - les rencontres en collectif ;
-- les rencontres ouvertes à tous les membres ;
-- les événements publics ouvertes à tous (cotisants ou non).
+- les rencontres ouvertes (à tous les membres) ;
+- les événements publics (ouverts à tous, cotisants ou non).
 
 ### Les rencontres en collectif
 
