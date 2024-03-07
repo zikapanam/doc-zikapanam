@@ -39,7 +39,7 @@ Les événements publics sont partagés sur [Facebook](https://www.facebook.com/
 
 ## Calendrier des rencontres
 
-<img src="/img/Laurent.jpg" width="450" alt="Laurent, Le Président"/>
+<img src="/img/agenda.png" width="450" alt="Calendriers"/>
 
 ### Rencontres ouvertes et en collectif 
 
