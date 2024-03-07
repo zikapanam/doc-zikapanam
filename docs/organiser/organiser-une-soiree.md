@@ -3,6 +3,8 @@ sidebar_position: 3
 ---
 # Organiser une soirée
 
+![Soirée Truskel](/img/E68A4185-Päul_CUVEILLIER.jpg)
+
 L'organisation de soirées implique de nombreuses personnes et on peut vraiment dire que c'est un travail d'équipe !
 
 Ce travail est passionnant et motive de plus en plus de monde dans notre association.

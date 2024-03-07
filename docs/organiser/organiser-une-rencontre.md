@@ -3,6 +3,9 @@ sidebar_position: 1
 ---
 # Organiser une rencontre
 
+
+![Session en Studio](/img/studio_hf.png)
+
 ## Qu'est-ce qu'une rencontre
 
 ### Rencontres informelles

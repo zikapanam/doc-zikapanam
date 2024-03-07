@@ -3,6 +3,8 @@ sidebar_position: 2
 ---
 # La vie d'un collectif
 
+<img src="/img/Laurent.jpg" width="450" alt="Laurent, Le Président"/>
+
 Créer un collectif, c’est réfléchir ensemble (avec les membres du collectif) aux styles de musique que l’on veut aborder, le niveau des participants que l’on désire et en fonction du style, les instruments dont on a besoin pour constituer le répertoire ! Un ou des objectifs peuvent aussi conduire le collectif (faire des concerts, jammer pour le plaisir, travailler le son, développer l’improvisation … ).
 
 Chaque collectif est présenté dans le salon **#présentations** sous la catégorie Collectifs avec un rond jaune. Pour créer un post sur le salon Discord **#présentations** , le membre doit avoir le rôle discord @leader-collectif . Par contre, pour répondre à un post, il faut être inscrit (et donc avoir rempli une fiche d’inscription ZIKAPANAM, c'est GRATUIT pour commencer et vous pouvez un ou deux essais).
@@ -115,6 +117,10 @@ Au bout de maximum deux essais, le candidat devra cotiser s'il veut rester dans 
 ## Organisation du collectif
 
 Un collectif n’a de sens que s'il contient beaucoup de musiciens sinon c’est simplement un groupe conventionnel (un lineup) mais qui est assez limitant pour les participants même si on commence souvent par là.
+
+En effet, lorsqu'un collectif contient beaucoup de musiciens, il peut plus facilement organiser des remplacements de dernière minute lorsque c'est nécessaire (même si cela peut s'organiser aussi avec la communauté). Il est vrai aussi que la probabilité d'avoir des bonnes volontés bénévoles pour organiser des événements trasnversaux pour faire vivre le collectif et resserrer les liens sont plus probables ! 
+
+Certains collectifs organisent des jams en mettant plusieurs postes en binômes, trinômes ou plus. Du coup, tout le monde est interchangeable et les sessions jams sont rarement annulées ! Les linueps éphémères trouvent toujours des musiciens motivés.
 
 ### Lineups
 
