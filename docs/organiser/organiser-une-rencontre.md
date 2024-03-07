@@ -87,7 +87,7 @@ Dans tous les cas, tout le monde doit payer à parts égales la location de stud
 
 Il est recommandé lorsque cela est possible gratuitement en fonction du nombre de musiciens, de la taille du studio réservé et de la politique du lieu dans lequel vous avez réservé, de laisser une place pour un invité / spectateur.
 
-Cela permet aux nouveaux arrivants (voir aux anciens) de découvrir l’ambiance d'une jam et de les rassurer ou même de faire connaissance avec les membres de Zikapanam.
+Cela permet aux nouveaux arrivants (voire aux anciens) de découvrir l’ambiance d'une jam et de les rassurer ou même de faire connaissance avec les membres de Zikapanam.
 
 SVP ne fermez pas la porte aux demandeurs de ce genre d’interactions sauf si vous avez une bonne raison.
 
