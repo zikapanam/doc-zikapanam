@@ -12,7 +12,7 @@ L'association gère deux communautés :
 - MIP : Musiciens Intermédiaires et débutants de Paris
 - PJC : Paris Jam Club (intermédiaires-avancés et avancés)
 
-Voici des indications pour [évaluer votre niveau](/docs/evaluer_son_niveau.md) afin de vous orienter correctement dans l'une ou l'autre des communautés.
+Voici des indications pour [évaluer votre niveau](/docs/evaluer-son-niveau.md) afin de vous orienter correctement dans l'une ou l'autre des communautés.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T9djMv31qE0?si=KxSdi90O9A3h3BMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
