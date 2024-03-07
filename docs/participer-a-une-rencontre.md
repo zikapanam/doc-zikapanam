@@ -3,6 +3,8 @@ sidebar_position: 5
 ---
 # Participer à une rencontre
 
+![Batterie](/img/E68A4003-Paul_CUVEILLIER.jpg)
+
 ## Les différents types de rencontres
 
 Il existe trois types de rencontres :
@@ -35,6 +37,7 @@ Les événements publics sont partagés sur [Facebook](https://www.facebook.com/
 
 ## Calendrier des rencontres
 
+<img src="/img/agenda.png" width="450" alt="Agenda, MIP & PJC"/>
 
 ### Rencontres ouvertes et en collectif 
 
