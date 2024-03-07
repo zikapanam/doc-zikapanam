@@ -6,6 +6,8 @@ sidebar_position: 4
 
 ![Basse](/img/E68A4076_Paul_CUVEILLIER.jpg)
 
+Photo par Paul CUVEILLIER [Instagram](https://www.instagram.com/paulo_pict)
+
 ## Rencontres informelles
 
 Ce sont des rencontres dans des lieux sans instrument comme par exemple les rencontres autour d'un verre organisées par l'association afin

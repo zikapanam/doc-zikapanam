@@ -4,6 +4,7 @@ sidebar_position: 6
 # Participer à une rencontre
 
 ![Batterie](/img/E68A4003-Paul_CUVEILLIER.jpg)
+Photo par Paul CUVEILLIER [Instagram](https://www.instagram.com/paulo_pict)
 
 ## Les différents types de rencontres
 

@@ -4,6 +4,7 @@ sidebar_position: 3
 # Organiser une soirée
 
 ![Soirée Truskel](/img/E68A4185-Päul_CUVEILLIER.jpg)
+Photo par Paul CUVEILLIER [Instagram](https://www.instagram.com/paulo_pict)
 
 L'organisation de soirées implique de nombreuses personnes et on peut vraiment dire que c'est un travail d'équipe !
 
