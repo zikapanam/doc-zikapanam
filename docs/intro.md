@@ -24,5 +24,5 @@ Afin de participer aux activités proposées par les bénévoles de l'associatio
 
 Les adultes de tous âges en capacité de faire de la musique et d'y prendre du plaisir peuvent participer à nos activités !
 
-Nous acceptons aussi les adolescents de 16 ans ou plus accompagnés dans leurs activités au sein de l'association d'un parent aux yeux de la lois, adulte et musicien participant lui aussi.
+Nous acceptons aussi les adolescents de 16 ans ou plus accompagnés dans leurs activités au sein de l'association d'un parent aux yeux de la loi, adulte et musicien participant lui aussi.
 
