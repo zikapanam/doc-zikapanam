@@ -77,7 +77,6 @@ La location de studio le soir en semaine et le weekend est souvent problématiqu
 Sinon une solution alternative est d’organiser des sessions en duo parfois trio au dernier moment car le tarif duo/trio est parmi les moins chers et peut en général se caser dans n’importe quelle taille de studio sans surcoût.
 
 Pensez qu'il existe des studios commerciaux mais également des studios associatifs qui proposent des tarifs beaucoup moins élevés ...
-Si vous organisez une jam chez vous, ça doit être à titre gracieux.
 
 Sur https://www.quickstudio.com vous pourrez trouver des studios en location avec parfois des plannings de réservation. Certains studios ne permettent pas de réserver par ce site, il faut téléphoner ou envoyer un mail.
 
