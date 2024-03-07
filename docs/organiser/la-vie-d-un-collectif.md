@@ -118,9 +118,9 @@ Au bout de maximum deux essais, le candidat devra cotiser s'il veut rester dans 
 
 Un collectif n’a de sens que s'il contient beaucoup de musiciens sinon c’est simplement un groupe conventionnel (un lineup) mais qui est assez limitant pour les participants même si on commence souvent par là.
 
-En effet, lorsqu'un collectif contient beaucoup de musiciens, il peut plus facilement organiser des remplacements de dernière minute lorsque c'est nécessaire (même si cela peut s'organiser aussi avec la communauté). Il est vrai aussi que la probabilité d'avoir des bonnes volontés bénévoles pour organiser des événements transversaux pour faire vivre le collectif et resserrer les liens sont plus probables ! 
+En effet, lorsqu'un collectif contient beaucoup de musiciens, il peut plus facilement organiser des remplacements de dernière minute lorsque c'est nécessaire (même si cela peut s'organiser aussi avec la communauté). Il est vrai aussi que la probabilité d'avoir des bonnes volontés bénévoles pour organiser des événements transversaux afin de faire vivre le collectif et resserrer les liens sont plus probables ! 
 
-Certains collectifs organisent des jams en mettant plusieurs postes en binômes, trinômes ou plus. Du coup, tout le monde est interchangeable et les sessions jams sont rarement annulées ! Les linueps éphémères trouvent toujours des musiciens motivés.
+Certains collectifs organisent des jams en mettant plusieurs postes en binômes, trinômes ou plus. Du coup, tout le monde est interchangeable et les sessions jams régulières sont rarement annulées ! Les linueps éphémères trouvent toujours des musiciens motivés.
 
 ### Lineups
 

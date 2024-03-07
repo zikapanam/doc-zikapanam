@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 # Participer à une rencontre
 
@@ -37,7 +37,7 @@ Les événements publics sont partagés sur [Facebook](https://www.facebook.com/
 
 ## Calendrier des rencontres
 
-<img src="/img/agenda.png" width="450" alt="Agenda, MIP & PJC"/>
+<img src="/img/Laurent.jpg" width="450" alt="Laurent, Le Président"/>
 
 ### Rencontres ouvertes et en collectif 
 
