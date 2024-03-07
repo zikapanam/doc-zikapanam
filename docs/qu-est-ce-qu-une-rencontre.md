@@ -17,7 +17,7 @@ que les membres de l'association se rencontrent et discutent de leurs projets mu
 
 Les rencontres musicales peuvent être de différents types :
 
-- des jamostudios : dans des studios de répétition commerciaux, associatifs ;
+- des jamostudios : dans des studios de répétition commerciaux ou associatifs ;
 - des karaokés : dans des karaokés box par exemple ;
 - des streetjams : dehors par beau temps dans des endroits où cette activité est tolérée ;
 - des jams distancielles : des jams en LIVE par internet en utilisant un logiciel comme [jamulus](https://jamulus.io) ou [sonobus](https://www.sonobus.net) ;
