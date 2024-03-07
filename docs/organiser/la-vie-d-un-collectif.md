@@ -165,16 +165,16 @@ Lorsque les initiateurs de morceaux sont clairement identifiés, chaque initiate
 
 ### Référents
 Un référent est un membre d’un collectif qui prend en charge l’organisation de sessions musicales (ça peut être un créneau dans la semaine en plus de celui proposé par le leader ou une session sur deux / sur trois ...). Il seconde le leader du collectif :
-- il s'assure qu'un line up suffisant est disponible pour ses sessions ;
+- il s'assure qu'un lineup suffisant est disponible pour ses sessions ;
 - Il réserve le studio de répétition pour chacune de ses sessions ;
 - Il se charge de convenir avec ses participants de la liste des chansons au programme de chaque session ;
-- le référent ne se charge pas du recrutement qui est la compétence du responsable du collectif (Sauf accord entre le référent et le responsable) ;
+- le référent ne se charge pas du recrutement qui est la compétence du responsable du collectif (Sauf accord entre le référent et le responsable).
 
-une communication privilégiée doit s'établir entre le référent et le responsable afin que tous les deux aient les informations suffisantes pour mener leurs tâches respectives. À cet effet, un salon #référents peut être ajouté aux salons privés du collectif.
+une communication privilégiée doit s'établir entre le référent et le responsable afin que tous les deux aient les informations suffisantes pour mener leurs tâches respectives. À cet effet, un salon **#référents** peut être ajouté aux salons privés du collectif.
 Les référents ont un rôle important, ils permettent d’accroître la capacité d’accueil d’un collectif et permettent également de venir en aide au leader si besoin.
 
 Si vous voulez devenir référent dans votre collectif, proposez-vous au leader sur ce poste.
 
-**RAPPEL**:
+### RAPPEL 
 
 On est bel et bien dans un contexte amateur, dans une ambiance cool et détendue, peu importe le rôle que vous prenez ou qu’on vous prête, la communication est essentielle. Assurez-vous toujours que vos directives soient acceptées par le plus grand nombre et discutez avec ceux qui ne les acceptent pas pour en connaître la raison et agir si une action/décision est nécessaire.

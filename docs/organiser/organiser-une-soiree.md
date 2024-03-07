@@ -33,7 +33,7 @@ des soirées pour le compte de l'association avec en ligne de mire le ou les lin
 L'organisation d'une soirée nécessite plusieurs étapes :
 
 - Trouver des lieux à démarcher situés sur Paris intra-muros ou petite couronne acceptant le ou les styles que vous projetez de jouer ;
-- Recueillir les conditions de chaque lieu (matériel à disposition, créneau horaire, dépenses à prévoire, conditions d'accueil - boissons, repas ...) afin de constituer une shortlist de lieu ;
+- Recueillir les conditions de chaque lieu (matériel à disposition, créneau horaire, dépenses à prévoir, conditions d'accueil - boissons, repas ...) afin de constituer une shortlist de lieu ;
 - Démarcher les lieux retenus en fonction des critères imposés par la logistique disponible, le matériel et la situation géographique des musiciens et du public (très souvent se rendre sur place est assez efficace ! Si vous pouvez, passez un coup de téléphone pour vérifier que le responsable de la programmation sera présent lors de votre passage).
 
 ## Diffuser l'information
