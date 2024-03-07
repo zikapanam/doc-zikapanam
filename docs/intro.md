@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Zikapanam, c'est quoi ?
 
+![Zikapanam](/img/zikapanam.png)
+
 ## Présentation
 
 Zikapanam est une association à but non lucratif. Son but est d'organiser et de participer à des rencontres musicales (jams, scènes ouvertes et concerts) en studio de répétition ou dans des lieux publics. N'hésitez pas à consulter la documentation ci-dessous pour que les rouages de notre association n'aient plus de secrets pour vous !

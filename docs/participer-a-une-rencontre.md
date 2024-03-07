@@ -47,7 +47,7 @@ Les rencontres en collectif ont des titres précédés d'une clé.
 
 Un calendrier des rencontres en collectif et ouvertes est disponible à cette adresse : [Calendrier](https://www.blog.zikapanam.fr/calendriers)
 
-Lorsque vous cliquez pour obtenir les détails d'une rencontre, ouvrez le lien Discord associé. Vous devez être inscrit à l'association pour pouvoir accéder aux informations de la rencontre. Si la rencontre est en collectif, vous devez en plus faire partie des effectifs Discord du collectif visé pour avoir accès à la rencontre.
+Lorsque vous cliquez pour obtenir les détails d'une rencontre, ouvrez le lien Discord associé. Vous devez être inscrit à l'association pour pouvoir accéder aux informations de la rencontre. Si la rencontre est en collectif (dont le titre est précédé d'une clé), vous devez en plus faire partie des effectifs Discord du collectif visé pour avoir accès à la rencontre.
 
 Une fois sur la rencontre, rendez-vous sur la section "Inscription".
 
