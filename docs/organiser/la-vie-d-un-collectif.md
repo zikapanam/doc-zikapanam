@@ -7,17 +7,17 @@ sidebar_position: 2
 
 Créer un collectif, c’est réfléchir ensemble (avec les membres du collectif) aux styles de musique que l’on veut aborder, le niveau des participants que l’on désire et en fonction du style, les instruments dont on a besoin pour constituer le répertoire ! Un ou des objectifs peuvent aussi conduire le collectif (faire des concerts, jammer pour le plaisir, travailler le son, développer l’improvisation … ).
 
-Chaque collectif est présenté dans le salon **#présentations** sous la catégorie Collectifs avec un rond jaune. Pour créer un post sur le salon Discord **#présentations** , le membre doit avoir le rôle discord @leader-collectif . Par contre, pour répondre à un post, il faut être inscrit (et donc avoir rempli une fiche d’inscription ZIKAPANAM, c'est GRATUIT pour commencer et vous pouvez un ou deux essais).
+Chaque collectif est présenté dans le salon **#présentations** sous la catégorie Collectifs avec un rond jaune. Pour créer un post sur le salon Discord **#présentations** , le membre doit avoir le rôle Discord @leader-collectif. Par contre, pour répondre à un post, il faut être inscrit (et donc avoir rempli une fiche d’inscription ZIKAPANAM, c'est GRATUIT pour commencer et vous pouvez un ou deux essais).
 
 
 ## Présentation du collectif
 
 Une fois que ces éléments sont connus, vous pouvez rédiger une amorce (une annonce) pour intéresser les membres à votre collectif.
 
-Éléments d’informations dans la présentation de ton collectif dans l’ordre d’apparition souhaitable: 
+Éléments d’informations dans la présentation de ton collectif dans l’ordre d’apparition souhaitable : 
 - le but ;
 - le concept / la démarche (apprendre à improviser, faire des covers à la cool …) ;
-- les pré-requis minimum (ex: débutant en improvisation ou débutant tout court). 
+- les pré-requis minimum (exemple : débutant en improvisation ou débutant tout court). 
 - les styles abordés ;
 - les instruments réguliers constituant le lineup minimum à avoir en session ;
 - secteur géographique, lieux de répétitions privilégiés ;
@@ -45,11 +45,11 @@ Le moins possible de rotation des musiciens pour bien se connaître. Si assez de
 ## Annonces de recrutement
 Lorsque le collectif se crée ou même lorsqu’il est en rythme de croisière, il peut arriver qu’un nouveau besoin nécessitant un recrutement.
 
-### Sur discord
+### Sur Discord
 
 Dans ce but, le leader du collectif devra poster une annonce dans **#cherche-musiciens** (rond vert) avec une annonce du style :
 
-  **POSTE(S) À POURVOIR**
+  POSTE(S) À POURVOIR
 
   On cherche un bassiste niveau intermédiaire-avancé ou avancé
 
@@ -109,8 +109,8 @@ Lorsque vous créez un collectif, l’administrateur du Discord vous créera au 
 
 Lors du recrutement, les communications se font soit en messages privés, soit sur le fil de discussion de votre annonce de recrutement et souvent les deux !
 
-Une fois que vous avez décidé avec le collectif de faire route ensemble avec le candidat, le leader fait une demande à l’administrateur pour que le candidat soit officiellement membre du collectif sur discord.
-Ce membre peut être occasionnel ou régulier selon les prérogatives du leader,de ses besoins et des possibilités et motivations du candidat.
+Une fois que vous avez décidé avec le collectif de faire route ensemble avec le candidat, le leader fait une demande à l’administrateur pour que le candidat soit officiellement membre du collectif sur Discord.
+Ce membre peut être occasionnel ou régulier selon les prérogatives du leader, de ses besoins et des possibilités et motivations du candidat.
 
 Au bout de maximum deux essais, le candidat devra cotiser s'il veut rester dans votre collectif. La cotisation ici est surtout une marque d'engagement et reste modique.
 

@@ -26,22 +26,22 @@ Tous les membres cotisants de l’association Zikapanam peuvent organiser une ja
 
 Une proposition de rencontre est un simple message détaillant le/les styles de la jam, les participants, les instruments recherchés, le lieu où se déroulera la jam et éventuellement une liste de morceaux / propositions à étudier si c'est une jam préparée et bien sûr la date et l'heure. 
 
-Les rencontres sont postées grâce à un formulaire internet assez simple à utiliser. Le robot (bot) reçoit votre description, l'écrit dans un message sur discord et crée un fil de discussion associé.
+Les rencontres sont postées grâce à un formulaire internet assez simple à utiliser. Le robot (bot) reçoit votre description, l'écrit dans un message sur Discord et crée un fil de discussion associé.
 
-Le bot discord envoie des rappels deux semaines avant pour vous inviter à préparer la rencontre, une semaine avant pour que vous confirmiez votre participation et deux heures avant pour vous demander de vous y rendre ainsi que pour la réalisation de l’événement c’est-à-dire établir la liste des présents et des absents dans le fil de discussion associé à votre rencontre (message discord).
+Le bot Discord envoie des rappels deux semaines avant pour vous inviter à préparer la rencontre, une semaine avant pour que vous confirmiez votre participation et deux heures avant pour vous demander de vous y rendre ainsi que pour la réalisation de l’événement c’est-à-dire établir la liste des présents et des absents dans le fil de discussion associé à votre rencontre (message Discord).
 
 Référez-vous à cet article pour savoir [comment vous inscrire à une rencontre et comment consulter l'agenda des rencontres](/docs/participer-a-une-rencontre)
 
 ### Discussions sur un fil public
 
-En même temps que les musiciens, le/les spectateurs s’inscrivent (si vous en acceptez), vous pouvez discuter de l’organisation de la jam dans le fil de discussion associé. Tous les membres ayant accès au salon dans lequel est déclaré la rencontre (ex: **#rencontres-ouvertes**), auront accès à votre fil de discussion et pourront suivre vos discussions s'ils le souhaitent.
+En même temps que les musiciens, le/les spectateurs s’inscrivent (si vous acceptez ces derniers), vous pouvez discuter de l’organisation de la jam dans le fil de discussion associé. Tous les membres ayant accès au salon dans lequel est déclaré la rencontre (exemple : **#rencontres-ouvertes**), auront accès à votre fil de discussion et pourront suivre vos discussions s'ils le souhaitent.
 
 ### Liste de morceaux ou pas ?
 
 Le programme de la jam (càd la liste des morceaux) peut être construit de trois façons différentes :
 - Soit il est fixé à l’avance et annoncé dans la proposition de jam (ainsi il n’y a pas de surprise). Les musiciens intéressés participeront en toute connaissance de cause.
-- Soit défini ensemble mais sachez que ce processus est beaucoup plus long surtout si les participants à votre jam découvrent discord ...
-En général, on préfère commencer par une liste de morceau imposée puis après la première jam, on recueille en LIVE les suggestions de morceaux par exemple. Si les participants ont l'habitude de discord et sont réactifs, ce n'est pas un souci.
+- Soit défini ensemble mais sachez que ce processus est beaucoup plus long surtout si les participants à votre jam découvrent Discord ...
+En général, on préfère commencer par une liste de morceau imposée puis après la première jam, on recueille en LIVE les suggestions de morceaux par exemple. Si les participants ont l'habitude de Discord et sont réactifs, ce n'est pas un souci.
 - Soit sans programme du tout : chacun arrive avec un thème, une idée et on la développe dans le style attendu.
 
 Bien sûr il peut ne pas y avoir de setlist à l’avance, comme pour le jazz par exemple, mais cela suppose que les participants puissent lire/interpréter les grilles du realbook ou d’irealpro sans préparation ou presque.
@@ -50,7 +50,7 @@ Pour un groupe intermédiaire avec peu d’expérience en jam, il est recommand�
 
 ### L'inscription obligatoire 
 
-Il est préférable que la participation à un jam ou un karaoké soit précédé d’une inscription. Cela permet de booker sa jam et donc de maximiser les chances qu’il y ait du monde (sauf imprévus).
+Il est préférable que la participation à une jam ou un karaoké soit précédée d’une inscription. Cela permet de booker sa jam et donc de maximiser les chances qu’il y ait du monde (sauf imprévus).
 
 Les codes couleurs des rôles dans Discord:
 - Violet : Nouvel arrivant (n’a pas encore fait de jams),
@@ -63,7 +63,7 @@ On accède aux rôles du membre sur sa fiche (clic gauche sur le pseudo ou appui
 
 La sélection des participants est à la charge unique de l’organisateur de la rencontre.
 
-Le recrutement lorsqu’il y a des postes non pourvus sur votre jam se fait sur le forum **#cherche-musiciens** en indiquant le tag recrutement-jam et le ou les instruments recherchés. Vous pouvez aussi mentionner le rôle discord de l'instrument ou des instruments qui vous intéressent.
+Le recrutement lorsqu’il y a des postes non pourvus sur votre jam se fait sur le forum **#cherche-musiciens** en indiquant le tag recrutement-jam et le ou les instruments recherchés. Vous pouvez aussi mentionner le rôle Discord de l'instrument ou des instruments qui vous intéressent.
 
 Le salon **#cherche-musiciens** sert uniquement à recruter et pas à discuter des détails de la jam !!! Merci d'en tenir compte dans vos échanges pour éviter les spammer toute la communauté.
 
@@ -104,7 +104,10 @@ Si la location devait être annulée faute de participants, cela ne poserait en 
 Lors de leur arrivée, les membres déclarent leur volonté en matière de diffusion audio et vidéo lors de leur inscription.
 
 Pour publier vos démos de jams, vous avez deux possibilités : 
-- soit vous téléchargez vos fichiers MP3 sur Discord (aujourd'hui cette solution est bcp plus praticable car Discord a relevé la taille maximale des fichiers uploadés à 25 MO - date: 06/03/2024 )
+- soit vous téléchargez vos fichiers MP3 sur Discord (aujourd'hui cette solution est bcp plus praticable car Discord a relevé la taille maximale des fichiers uploadés à 25 MO)
+
+date : 06/03/2024
+
 - soit vous mettez un lien vers le cloud (Google Drive / kDrive / iCloud / Dropbox ...) pour chacune de vos démos.
 
  Vous pouvez télécharger ou mettre vos liens dans le fil de discussion adossé à la proposition de jam. Si vous choisissez cette option, la diffusion est limitée aux personnes ayant accès au salon de jam utilisé. (Les non-inscrits n'auront pas accès). 

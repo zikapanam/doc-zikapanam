@@ -20,27 +20,27 @@ Il est assez souvent difficile d'évaluer son niveau car on a rarement une vue g
 ## Intermédiaire (Ok MIP)
 - Développement de la technique instrumentale,
 - Connaissances théoriques acquises,
-    * Pour le chant : apprend à déterminer la tonalité qui lui convient sur une chanson en autonomie à partir d'un piano, d'une guitare ou autre).
-    * Pour batteur : Apprend à faire des rythmes, développe son vocabulaire rythmique
+    * Le chant apprend à déterminer la tonalité qui lui convient sur une chanson en autonomie à partir d'un piano, d'une guitare ou autre).
+    * Le batteur apprend à faire des rythmes, développe son vocabulaire rythmique
 - Développement de la pratique sur ces connaissances théoriques,
     * Début du développement de l'oreille musicale (écoute du groupe /improvisation, reconnaissance des intervalles/accords)
-    * Expérience de groupe (écoute et commence s'adapter au jeu des autres)
+    * Expérience de groupe (écoute et commence à s'adapter au jeu des autres)
 
 <img src="/img/pjc.png" width="250" alt="PJC : Paris Jam Club"/>
 
 ## Intermédiaire avancé (Ok PJC)
 - À l'aise sur son instrument (technique instrumentale acquise),
 - Connaissances théoriques acquises,
-    * Pour le chant : sait déterminer la tonalité qui lui convient sur une chanson en autonomie à partir d'un piano, d'une guitare ou autre.
-    * Pour batteur : développe son vocabulaire rythmique + (ghost notes, roulements, moulins ...)
+    * Le chant sait déterminer la tonalité qui lui convient sur une chanson en autonomie à partir d'un piano, d'une guitare ou autre.
+    * Le batteur développe son vocabulaire rythmique + (ghost notes, roulements, moulins ...)
 - Développement de la pratique sur ces connaissances théoriques.
 - Oreille en développement.
 - Expérience de groupe (écoute et s'adapte au jeu des autres)
 ## Avancé (Ok PJC)
 - À l'aise sur son instrument (technique instrumentale acquise),
 - Connaissances théoriques acquises,.
-    * Pour le chant : sait déterminer rapidement à partir d'une note de référence, la tonalité qui lui convient sur une chanson.
-    * Pour batteur : Maîtrise des ghost notes, roulement, moulins ...
+    * Le chant sait déterminer rapidement à partir d'une note de référence, la tonalité qui lui convient sur une chanson.
+    * Le batteur maîtrise des ghost notes, roulement, moulins ...
 - Pratique des connaissances théoriques acquises.
 - Oreille parfaite et rapide.
 - Écoute et réaction au jeu des autres
