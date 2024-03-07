@@ -118,7 +118,7 @@ Au bout de maximum deux essais, le candidat devra cotiser s'il veut rester dans 
 
 Un collectif n’a de sens que s'il contient beaucoup de musiciens sinon c’est simplement un groupe conventionnel (un lineup) mais qui est assez limitant pour les participants même si on commence souvent par là.
 
-En effet, lorsqu'un collectif contient beaucoup de musiciens, il peut plus facilement organiser des remplacements de dernière minute lorsque c'est nécessaire (même si cela peut s'organiser aussi avec la communauté). Il est vrai aussi que la probabilité d'avoir des bonnes volontés bénévoles pour organiser des événements trasnversaux pour faire vivre le collectif et resserrer les liens sont plus probables ! 
+En effet, lorsqu'un collectif contient beaucoup de musiciens, il peut plus facilement organiser des remplacements de dernière minute lorsque c'est nécessaire (même si cela peut s'organiser aussi avec la communauté). Il est vrai aussi que la probabilité d'avoir des bonnes volontés bénévoles pour organiser des événements transversaux pour faire vivre le collectif et resserrer les liens sont plus probables ! 
 
 Certains collectifs organisent des jams en mettant plusieurs postes en binômes, trinômes ou plus. Du coup, tout le monde est interchangeable et les sessions jams sont rarement annulées ! Les linueps éphémères trouvent toujours des musiciens motivés.
 
@@ -157,6 +157,8 @@ Dans un collectif, il y a différents rôles :
 
 ### Rôle du leader de collectif
 Un leader est un facilitateur. Un meneur d'équipe c'est quelqu'un qui met sur les rails et s'efface quand tout va bien. Par contre, il faut savoir intervenir quand ça dérape et que certains sont laissés sur le carreau à tort. Le rôle du leader n'est pas forcément de tout diriger de manière audible mais de faire en sorte que le collectif soit huilé et que l'organisation convienne au plus grand nombre tout en étant fidèle à la vision que le leader en a (sa vision peut évoluer avec le collectif).
+
+Le leader est en charge du recrutement pour son collectif et ses lineups. Il peut aussi décider de déléguer à un ou plusieurs de ses référents.
 
 ### Rôle du chef d’orchestre
 Lorsque les initiateurs de morceaux sont clairement identifiés, chaque initiateur (participant au collectif) devient chef d’orchestre à son tour et propose sa vision pour la mise en place de son morceau. Sinon il est possible qu’une personne plus expérimentée prenne le lead et dirige le collectif et que ce ne soit pas forcément le leader. Tant que ça convient à tout le monde, il n’y a pas de souci.
