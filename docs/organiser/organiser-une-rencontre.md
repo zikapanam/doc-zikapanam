@@ -52,12 +52,16 @@ Pour un groupe intermédiaire avec peu d’expérience en jam, il est recommand�
 
 Il est préférable que la participation à une jam ou un karaoké soit précédée d’une inscription. Cela permet de booker sa jam et donc de maximiser les chances qu’il y ait du monde (sauf imprévus).
 
-Les codes couleurs des rôles dans Discord:
+:::tip
+
+Les codes couleurs des principaux rôles dans Discord:
 - Violet : Nouvel arrivant (n’a pas encore fait de jams),
 - Vert : mbr-certifié (au moins fait une jam présentiel mais pas cotisant),
 - Bleu : mbr-asso (membre cotisant sur l'année en cours),
 - rouge : leader de collectif,
 - orange : référent d'un lineup dans un collectif.
+
+:::
 
 On accède aux rôles du membre sur sa fiche (clic gauche sur le pseudo ou appui long sur téléphone). Vous pourrez ainsi connaître le/les instruments du membre, le/les styles de musique de prédilection, ...
 
