@@ -28,7 +28,7 @@ L'association gère deux communautés :
 
 :::info
 
-- **Niveau :** intermédiaire-avancé ou avancé (Évaluer son niveau ?)
+- **Niveau :** intermédiaire-avancé ou avancé ([Évaluer son niveau ?](/evaluer-son-niveau.md))
 - **Discord (PJC) :** [Lien d'invitation (Cliquez ici pour rejoindre le Discord PJC)](https://discord.gg/Ad2EfNXPeB)
 - **Email :** contact-pjc@zikapanam.fr
 - **Linktree :** https://linktr.ee/JamsMusicales
@@ -55,7 +55,7 @@ Les différents collectifs :
 
 :::info
 
-- **Niveau :** intermédiaire ou débutant
+- **Niveau :** intermédiaire ou débutant ([Évaluer son niveau ?](/evaluer-son-niveau.md))
 - **Discord (MIP) :** [Lien d'invitation (Cliquez ici pour rejoindre le Discord MIP)](https://discord.gg/DBKNAFcSem)
 - **Email :** contact-mip@zikapanam.fr
 - **Linktree :** https://linktr.ee/Musiciens.Interdebs.Parisiens
