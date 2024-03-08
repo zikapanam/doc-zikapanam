@@ -17,7 +17,7 @@ Cette application permet aussi de faire des appels vocaux et vidéos en groupe.
 
 L'application permet de ne mettre à disposition que les informations vraiment utiles pour chaque profil d'utilisateur. Chaque type de profil est identifié par un code couleur.
 
-:::tip
+:::info
 
 Les codes couleurs des principaux rôles/profils utilisateurs dans Discord:
 - Violet : Nouvel arrivant (n’a pas encore fait de jams),

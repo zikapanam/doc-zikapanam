@@ -52,7 +52,7 @@ Pour un groupe intermédiaire avec peu d’expérience en jam, il est recommand�
 
 Il est préférable que la participation à une jam ou un karaoké soit précédée d’une inscription. Cela permet de booker sa jam et donc de maximiser les chances qu’il y ait du monde (sauf imprévus).
 
-:::tip
+:::info
 
 Les codes couleurs des principaux rôles dans Discord:
 - Violet : Nouvel arrivant (n’a pas encore fait de jams),
