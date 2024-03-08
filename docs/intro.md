@@ -16,7 +16,11 @@ L'association gère deux communautés :
 
 Voici des indications pour [évaluer votre niveau](/docs/evaluer-son-niveau.md) afin de vous orienter correctement dans l'une ou l'autre des communautés.
 
+:::tip
+
 Pour avoir une vision d'ensemble de ce que propose l'association Zikapanam actuellement ainsi que le coût modique de la cotisation : [Zikapanam | À propos](https://www.blog.zikapanam.fr/about).
+
+:::
 
 ## Qui peut s'inscrire ?
 

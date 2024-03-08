@@ -23,7 +23,7 @@ Une fois que ces éléments sont connus, vous pouvez rédiger une amorce (une an
 - secteur géographique, lieux de répétitions privilégiés ;
 - rythmes des répétitions (ttes les semaines, ttes les deux semaines …) ainsi que le jour de la semaine et les horaires des répétitions ou des jams.
 
-Par exemple:
+:::note[exemple]
 
 🎯 **But** : travailler des standards de jazz
 
@@ -41,6 +41,7 @@ Le moins possible de rotation des musiciens pour bien se connaître. Si assez de
 
 🕰️ **Fréquence** : tous les 15 jours le vendredi de 20h à 22h (hors congés scolaires sauf disponibilités) à compter du 15/09/2023
 
+:::
 
 ## Annonces de recrutement
 Lorsque le collectif se crée ou même lorsqu’il est en rythme de croisière, il peut arriver qu’un nouveau besoin nécessite un recrutement.
@@ -49,12 +50,15 @@ Lorsque le collectif se crée ou même lorsqu’il est en rythme de croisière, 
 
 Dans ce but, le leader du collectif devra poster une annonce dans **#cherche-musiciens** (rond vert) avec une annonce du style :
 
+:::note[exemple]
+
   POSTE(S) À POURVOIR
 
   On cherche un bassiste niveau intermédiaire-avancé ou avancé
 
   Si intéressé merci de me laisser un message sur ce fil ou en privé
 
+:::
 
 ### Étendre le recrutement
 
