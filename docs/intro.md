@@ -34,7 +34,7 @@ L'association gère deux communautés :
 - **Linktree :** https://linktr.ee/JamsMusicales
 - **Facebook :** https://www.facebook.com/ParisJamClub
 - **YouTube :** [Paris Jam Club (Playlists de vidéos)](https://www.youtube.com/@parisjamclub/playlists)
-
+- **Calendrier :** [Paris Jam Club](https://www.blog.zikapanam.fr/calendriers#PJC)
 :::
 
 Les différents collectifs :
@@ -60,6 +60,7 @@ Les différents collectifs :
 - **Email :** contact-mip@zikapanam.fr
 - **Linktree :** https://linktr.ee/Musiciens.Interdebs.Parisiens
 - **Facebook :** https://www.facebook.com/musiciens.interdebs.parisiens
+- **Calendrier :** [Musiciens Interdebs Parisiens](https://www.blog.zikapanam.fr/calendriers#MIP)
 
 :::
 
