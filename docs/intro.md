@@ -69,7 +69,7 @@ Les différents collectifs :
 - Collectif Ultra Heavy Riffs (Jeanne-Charlotte) : Du rock au métal [Présentation](https://discord.com/channels/1038909359712895058/1052703682799599666/1052703682799599666) ;
 - Collectif Les Grands Classiques (Maurice) : Tubes internationaux autour de la variété française, de la pop/rock, de la soul mais également du punk/Rock/Grunge (Plusieurs lineups avec influences différentes) [Présentation](https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992) ;
 - Collectif Oldies but Goldies (Yann) : Jazz [Présentation](https://discord.com/channels/1038909359712895058/1150086345532899388/1150086345532899388) ;
-- Collectif Panam AfroFuze (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. [Présentation](https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432) ;
+- Collectif Panam AfroFuzers (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. [Présentation](https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432) ;
 - Collectif Into The Groove (Pierre-Henri) : Soul, RnB, Funk. [Présentation](https://discord.com/channels/1038909359712895058/1131556262530793482/1131556262530793482) ;
 
 ... D'autres à venir tout au long de l'année !
