@@ -57,11 +57,11 @@ Trois possibilités:
 - l'inscription est close : vous ne pouvez plus vous inscrire pour le moment, la rencontre est complète, mais je vous conseille de manifester tout de même votre intérêt pour une prochaine fois et/ou peut-être qu'avec un peu de chance, l'organisateur ouvrira une place supplémentaire pour vous !
 
 :::tip
-1. Lorsqu'une jam ou un collectif cherche des musiciens pour compléter son lineup, elle met une annonce dans le forum **#cherche-musiciens** à rond vert.
+1. Lorsqu'une jam ou un collectif cherche des musiciens pour compléter son lineup, il met une annonce dans le forum **#cherche-musiciens** à rond vert.
 
 2. Vous pouvez être le premier sur les propositions de rencontres ouvertes (jams ou karaokés) en surveillant aussi le salon **#rencontres-ouvertes** à rond rouge.
 
-3. Si un collectif vous intéresse, n'hésitez pas à vous manifester spontanément sur le salon **#présentations** à rond jaune.
+3. Si un collectif vous intéresse, n'hésitez pas à vous manifester spontanément sur le salon **#présentations** à rond jaune dans le fil de discussion associé au collectif.
 :::
 
 
