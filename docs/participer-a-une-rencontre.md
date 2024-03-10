@@ -60,6 +60,8 @@ Trois possibilités:
 1. Lorsqu'une jam ou un collectif cherche des musiciens pour compléter son lineup, elle met une annonce dans le forum **#cherche-musiciens** à rond vert.
 
 2. Vous pouvez être le premier sur les propositions de rencontres ouvertes (jams ou karaokés) en surveillant aussi le salon **#rencontres-ouvertes** à rond rouge.
+
+3. Si un collectif vous intéresse, n'hésitez pas à vous manifester spontanément sur le salon **#présentations** à rond jaune.
 :::
 
 
