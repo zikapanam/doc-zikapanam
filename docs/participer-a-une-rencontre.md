@@ -56,6 +56,14 @@ Trois possibilités:
 - l'inscription est sur demande : rendez-vous sur le fil de discussion de la rencontre pour demander à l'organisateur si vous pouvez participer. (Utilisé surtout dans le cadre des rencontres ouvertes)
 - l'inscription est close : vous ne pouvez plus vous inscrire pour le moment, la rencontre est complète, mais je vous conseille de manifester tout de même votre intérêt pour une prochaine fois et/ou peut-être qu'avec un peu de chance, l'organisateur ouvrira une place supplémentaire pour vous !
 
+:::tip
+1. Lorsqu'une jam ou un collectif cherche des musiciens pour compléter son lineup, elle met une annonce dans le forum **#cherche-musiciens** à rond vert.
+
+2. Vous pouvez être le premier sur les propositions de rencontres ouvertes (jams ou karaokés) en surveillant aussi le salon **#rencontres-ouvertes** à rond rouge.
+:::
+
+
+
 ### Les événements publics
 
 Les événements publics sont partagés sur [Facebook](https://www.facebook.com/ParisJamClub/events)
