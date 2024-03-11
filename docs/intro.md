@@ -18,6 +18,12 @@ Les adultes de tous âges en capacité de faire de la musique et d'y prendre du 
 
 Nous acceptons aussi les adolescents de 16 ans ou plus accompagnés dans leurs activités au sein de l'association d'un parent aux yeux de la loi, adulte et musicien participant lui aussi.
 
+## Où ont lieu les rencontres ?
+
+Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite couronne. Des personnes de toute l'Île de france nous rejoignent.
+
+[Voici une carte des lieux fréquentés.](https://jamclub.zikapanam.fr/location_map)
+
 ## Communautés
 
 L'association gère deux communautés :
