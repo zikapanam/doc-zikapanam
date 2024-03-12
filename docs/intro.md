@@ -10,6 +10,16 @@ sidebar_position: 1
 
 Zikapanam est une association à but non lucratif. Son but est d'organiser et de participer à des rencontres musicales (jams, répétitions, scènes ouvertes et concerts) en studio de répétition ou dans des lieux publics. N'hésitez pas à consulter la documentation ci-dessous pour que les rouages de notre association n'aient plus de secrets pour vous !
 
+## Présentation en vidéo
+
+### Un autre regard sur la musique
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T9djMv31qE0?si=JM9zVnh1f9WqImHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### 26/07/2023 : C'est quoi le concept ?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B17kMVDJILc?si=4gj1rO6qMrviZNWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Qui peut s'inscrire ?
 
 Afin de participer aux activités proposées par les bénévoles de l'association, vous devez être couvert par une assurance responsabilité civile (souvent incluse dans l'assurance habitation). Vérfiez ce point auprès de votre assureur, c'est important !
