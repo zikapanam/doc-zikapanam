@@ -6,7 +6,7 @@ sidebar_position: 8
 
 L'association est basée entièrement sur le bénévolat ... L'association a cependant des frais de fonctionnement qu'il faut bien payer.
 
-Dans la suite de cet article, je vais vous faire part des principaux postes de dépenses de l'association.
+Dans la suite de cet article, je vais vous faire part des principaux postes de recettes et surtout de dépenses de l'association.
 
 ## Trésorière de l'association
 
