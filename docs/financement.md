@@ -12,6 +12,11 @@ Dans la suite de cet article, je vais vous faire part des principaux postes de d
 
 Sachez qu'en la personne Nathalie MILLOT qui est la trésorière de l'association, toutes les dépenses sont réfléchies et on ne dépense pas un seul sous à la légère. On essaie dans la mesure du possible que les dépenses puissent être comprises par l'ensemble de nos membres cotisants mais également qu'elles aient un ancrage le plus large possible dans l'association.
 
+
+## Poste de recettes 
+
+L'unique recette est constitué par les cotisations à ce jour.
+
 ## Postes de dépenses
 
 ### Communication
