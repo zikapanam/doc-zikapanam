@@ -113,4 +113,13 @@ date : 06/03/2024
 
 - soit vous mettez un lien vers le cloud (Google Drive / kDrive / iCloud / Dropbox ...) pour chacune de vos démos.
 
- Vous pouvez télécharger ou mettre vos liens dans le fil de discussion adossé à la proposition de jam. Si vous choisissez cette option, la diffusion est limitée aux personnes ayant accès au salon de jam utilisé. (Les non-inscrits n'auront pas accès). 
+ Vous pouvez télécharger ou mettre vos liens dans le fil de discussion adossé à la proposition de jam. Si vous choisissez cette option, la diffusion est limitée aux personnes ayant accès au salon de jam utilisé. (Les non-inscrits n'auront pas accès).
+
+ ## Saisie d'une rencontre
+
+Le système d'enregistrement des rencontres s'appelle ZapAPP et a été développé par notre association pour notre usage.
+
+Le principe est simple, on saisit des données dans un formulaire internet qui fonctionne sur ordinateur ou mobile et on envoie la saisie au bot qui publie la rencontre sur Discord (jusqu'à une ou deux minutes après l'envoi) et dans le calendrier de l'association (jusqu'à 24h après l'envoi). 
+
+[Consultez ce doc](https://docs.google.com/document/d/1FKXJUnDX1S1y4mT7jh6S6Cvvz__qZNgOmbK1GcPJjQE/edit?usp=drive_link) pour savoir comment procéder à la diffusion d'une rencontre informelle ou musicale (uniquement si vous êtes cotisant)
+
