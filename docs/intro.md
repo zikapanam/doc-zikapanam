@@ -56,8 +56,8 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::
 ### Les différents collectifs
 
-- Collectif concert Blues (AIMP - Laurent) [Présentation](https://discord.com/channels/893372971073277962/1119721934490451988) ;
-- Collectif concert Multi (Soul, Funk, Pop, Rock, Groove) (AIMP - Laurent) [Présentation](https://discord.com/channels/893372971073277962/1119721934490451988) ;
+- Collectif concert Blues (Laurent) [Présentation](https://discord.com/channels/893372971073277962/1119721934490451988) ;
+- Collectif concert Multi (Soul, Funk, Pop, Rock, Groove) (Laurent) [Présentation](https://discord.com/channels/893372971073277962/1119721934490451988) ;
 - Collectif Vulfans (Reprises de Vulfpeck - Yoann) [Présentation](https://discord.com/channels/893372971073277962/1119742878604873759) ;
 - Collectif Jazz-Funk ツ (Clément) [Présentation](https://discord.com/channels/893372971073277962/1128235531113869342/1128235531113869342) ; 
 - Collectif Repassez-moi le standard ! (Jazz - Fred) [Présentation](https://discord.com/channels/893372971073277962/1122424995939889164) .
