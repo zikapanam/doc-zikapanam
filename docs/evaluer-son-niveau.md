@@ -20,7 +20,7 @@ Il est assez souvent difficile d'évaluer son niveau car on a rarement une vue g
 ## Intermédiaire (Ok MIP)
 - Développement de la technique instrumentale,
 - Connaissances théoriques acquises,
-    * Le chant apprend à déterminer la tonalité qui lui convient sur une chanson en autonomie à partir d'un piano, d'une guitare ou autre).
+    * Le chant apprend à déterminer la tonalité qui lui convient sur une chanson en autonomie à partir d'un piano, d'une guitare ou autre.
     * Le batteur apprend à faire des rythmes, développe son vocabulaire rythmique
 - Développement de la pratique sur ces connaissances théoriques,
     * Début du développement de l'oreille musicale (écoute du groupe /improvisation, reconnaissance des intervalles/accords)

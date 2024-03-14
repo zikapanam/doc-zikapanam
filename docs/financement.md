@@ -25,7 +25,7 @@ L'unique recette est constitué par les cotisations à ce jour.
 
 En 2022, nous avions fait des petits frais pour le logo et des flyers ...
 
-Lorsque le nouveau logo et la nouvelle organisation de l'association sera acté et réalisé, nous pensons à faire faire un kakémono et peut-être aussi des nouveaux flyers à distribuer lors de nos soirées dans les bars parisiens. Cela nous donnera encore plus de visibilité (même si elle est déjà largement satisfaisante).
+Lorsque le nouveau logo et la nouvelle organisation de l'association seront actés et réalisés, nous pensons à faire faire un kakémono et peut-être aussi des nouveaux flyers à distribuer lors de nos soirées dans les bars parisiens. Cela nous donnera encore plus de visibilité (même si elle est déjà largement satisfaisante).
 
 ### Banque, assurance
 
@@ -41,7 +41,7 @@ Tout ça a un coût non négligeable sur l'année et comme tout augmente ces der
 
 À vrai dire les deux ont leur avantages et inconvénients ...
 
-La promotion de nos évènements est essentiel et nous devons trouver un rythme d'engagement qui convienne à tous les membres pour éviter de les épuiser et que chaque évènement reste une fête.
+La promotion de nos évènements est essentielle et nous devons trouver un rythme d'engagement qui convienne à tous les membres pour éviter de les épuiser et que chaque évènement reste une fête.
 
 #### Animer un bar
 
@@ -61,6 +61,6 @@ Mais nous y réfléchissons. L'association ne peut mettre des entrées payantes 
 
 ## Rêve qu'on aimerait bien réaliser ...
 
-Trouver un ou plusieurs spots dans lesquels l'association puisse organiser librement ces soirées sans contraintes que les nôtres, juste pour le plaisir !
+Trouver un ou plusieurs spots dans lesquels l'association puisse organiser librement ces soirées, juste pour le plaisir !
 
 Un lieu culturel disposant d'une belle scène avec une capacité minimum de 50 personnes. 
