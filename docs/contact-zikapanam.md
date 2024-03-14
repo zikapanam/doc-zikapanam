@@ -11,7 +11,7 @@ sidebar_position: 9
 - **Email :** contact@zikapanam.fr
 - **Linktree :** https://linktr.ee/zikapanam
 - **Facebook :** https://www.facebook.com/zikapanam
-- **YouTube :** [Paris Jam Club (Playlists de vidéos)](https://www.youtube.com/@zikapanam)
+- **YouTube :** https://www.youtube.com/@assozikapanam
 
 :::
 
