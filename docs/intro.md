@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Zikapanam, c'est quoi ?
+***« La musique, ensemble ! »***
 
 ![Zikapanam](/img/zikapanam.png)
 
