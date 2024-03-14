@@ -49,6 +49,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 - **Email :** contact-pjc@zikapanam.fr
 - **Linktree :** https://linktr.ee/JamsMusicales
 - **Facebook :** https://www.facebook.com/ParisJamClub
+- **Instagram :** https://www.instagram.com/ParisJamClub
 - **YouTube :** [Paris Jam Club (Playlists de vidéos)](https://www.youtube.com/@parisjamclub/playlists)
 - **Calendrier :** [Paris Jam Club](https://www.blog.zikapanam.fr/calendriers#PJC)
 :::
@@ -74,6 +75,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 - **Discord (MIP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord MIP)](https://discord.gg/DBKNAFcSem)**
 - **Email :** contact-mip@zikapanam.fr
 - **Linktree :** https://linktr.ee/Musiciens.Interdebs.Parisiens
+- **Instagram :** https://www.instagram.com/Musiciens.Interdebs.Parisiens
 - **Facebook :** https://www.facebook.com/musiciens.interdebs.parisiens
 - **Calendrier :** [Musiciens Interdebs Parisiens](https://www.blog.zikapanam.fr/calendriers#MIP)
 
