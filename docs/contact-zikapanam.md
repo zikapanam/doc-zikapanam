@@ -4,14 +4,24 @@ sidebar_position: 9
 
 # Contact
 
-## Fiche
+## Fiches
 
 :::info
+
+**Association Zikapanam**
 
 - **Email :** contact@zikapanam.fr
 - **Linktree :** https://linktr.ee/zikapanam
 - **Facebook :** https://www.facebook.com/zikapanam
 - **YouTube :** https://www.youtube.com/@assozikapanam
+
+:::
+
+:::tip
+
+- Fiche de la communauté **[Paris Jam Club](https://www.doc.zikapanam.fr/docs/intro#paris-jam-club)**
+
+- Fiche de la communauté **[Musiciens Interdebs Parisiens](https://www.doc.zikapanam.fr/docs/intro#musiciens-interdebs-parisiens)**
 
 :::
 
