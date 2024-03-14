@@ -4,6 +4,8 @@ sidebar_position: 8
 
 # Financement
 
+![Tire-lire](/img/tire-lire-diane-helentjaris-5f1RsK-pyZQ-unsplash.jpg)
+
 L'association est basée entièrement sur le bénévolat ... L'association a cependant des frais de fonctionnement qu'il faut bien payer.
 
 Dans la suite de cet article, je vais vous faire part des principaux postes de recettes et surtout de dépenses de l'association.

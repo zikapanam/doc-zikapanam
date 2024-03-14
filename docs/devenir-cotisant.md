@@ -3,6 +3,8 @@ sidebar_position: 7
 ---
 # Inscription et cotisation
 
+![Registration](/img/registration-phil-desforges-L0K-87Ybwio-unsplash.jpg)
+
 ## L'inscription
 
 L'inscription est l'action de se connecter à l'un de nos Discords et de remplir une fiche d'inscription pour se faire connaître de l'association.
