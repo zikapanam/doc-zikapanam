@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Association Zikapanam',
-  tagline: 'La musique ensemble',
+  tagline: 'La musique, ensemble !',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -34,7 +34,6 @@ const config = {
     defaultLocale: 'fr',
     locales: ['fr'],
   },
-
   presets: [
     [
       'classic',
@@ -60,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/zikapanam.png',
       navbar: {
         title: 'Association Zikapanam',
         logo: {
@@ -74,30 +73,21 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
+          {
+            position: 'left',
+            label: 'Blog',
+            href: 'https://www.blog.zikapanam.fr',
+          },
+          {
+            position: 'left',
+            label: 'JamClub',
+            href: 'https://jamclub.zikapanam.fr',
+          },
+
         ],
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Blog',
-            items: [
-              {
-                label: 'Blog',
-                href: 'https://www.blog.zikapanam.fr',
-              },
-            ],
-          },
-          {
-            title: 'Jamclub',
-            items: [
-              {
-                label: 'Site Internet',
-                href: 'https://jamclub.zikapanam.fr',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Association Zikapanam, fait avec Docusaurus.`,
       },
       prism: {
@@ -105,6 +95,34 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-};
+    plugins: [
+      async function (context, options) {
+        return {
+          name: 'docusaurus-plugin-body',
+          loadContent: async () => {
+            // ...
+          },
+          injectHtmlTags({content}) {
+            return {
+              postBodyTags: [`<script type='text/javascript'>
+              var _gauges = _gauges || [];
+              (function() {
+              var t   = document.createElement('script');
+              t.type  = 'text/javascript';
+              t.async = true;
+              t.id    = 'gauges-tracker';
+              t.setAttribute('data-site-id', '65f4b25c10c5505dd7cbd30d');
+              t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
+              t.src = 'https://d2fuc4clr7gvcn.cloudfront.net/track.js';
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(t, s);
+               })();
+              </script>`],
+            };
+          },
+        };
+      }
+    ],  
+  };
 
 export default config;
