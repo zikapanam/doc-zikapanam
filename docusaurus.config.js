@@ -104,19 +104,14 @@ const config = {
           },
           injectHtmlTags({content}) {
             return {
-              postBodyTags: [`<script type='text/javascript'>
-              var _gauges = _gauges || [];
-              (function() {
-              var t   = document.createElement('script');
-              t.type  = 'text/javascript';
-              t.async = true;
-              t.id    = 'gauges-tracker';
-              t.setAttribute('data-site-id', '65f4b25c10c5505dd7cbd30d');
-              t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
-              t.src = 'https://d2fuc4clr7gvcn.cloudfront.net/track.js';
-              var s = document.getElementsByTagName('script')[0];
-              s.parentNode.insertBefore(t, s);
-               })();
+              postBodyTags: [`<!-- Google tag (gtag.js) -->
+              <script async src="https://www.googletagmanager.com/gtag/js?id=G-55H6JCM7TH"></script>
+              <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+              
+                gtag('config', 'G-55H6JCM7TH');
               </script>`],
             };
           },
