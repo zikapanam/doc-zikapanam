@@ -51,7 +51,11 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-      }),
+        gtag: {
+          trackingID: 'G-55H6JCM7TH',
+          anonymizeIP: true,
+        },
+      }),    
     ],
   ],
 
@@ -98,17 +102,3 @@ const config = {
   };
 
 export default config;
-
-module.exports = {
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        gtag: {
-          trackingID: 'G-55H6JCM7TH',
-          anonymizeIP: true,
-        },
-      },
-    ],
-  ],
-};
