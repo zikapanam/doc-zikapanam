@@ -95,29 +95,20 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-    plugins: [
-      async function (context, options) {
-        return {
-          name: 'docusaurus-plugin-body',
-          loadContent: async () => {
-            // ...
-          },
-          injectHtmlTags({content}) {
-            return {
-              postBodyTags: [`<!-- Google tag (gtag.js) -->
-              <script async src="https://www.googletagmanager.com/gtag/js?id=G-55H6JCM7TH"></script>
-              <script>
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){dataLayer.push(arguments);}
-                gtag('js', new Date());
-              
-                gtag('config', 'G-55H6JCM7TH');
-              </script>`],
-            };
-          },
-        };
-      }
-    ],  
   };
 
 export default config;
+
+module.exports = {
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        gtag: {
+          trackingID: 'G-55H6JCM7TH',
+          anonymizeIP: true,
+        },
+      },
+    ],
+  ],
+};
