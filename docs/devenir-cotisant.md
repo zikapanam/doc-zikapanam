@@ -7,7 +7,7 @@ sidebar_position: 7
 
 ## L'inscription
 
-L'inscription est l'action de se connecter à l'un de nos Discords et de remplir une fiche d'inscription pour se faire connaître de l'association.
+L'inscription est l'action de se connecter à notre serveur Discord Zikapanam et de remplir une fiche d'inscription pour se faire connaître de l'association.
 
 Procédez de la façon suivante :
 1. Connectez-vous à un de nos serveurs Discord en cliquant sur un des liens d'invitation Discord [sur cette page](/docs/intro.md#communautés)

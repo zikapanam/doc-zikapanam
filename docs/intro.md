@@ -46,7 +46,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::info
 
 - **Niveau :** intermédiaire-avancé ou avancé ([Évaluer son niveau ?](/evaluer-son-niveau.md))
-- **Discord (PJC) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord PJC)](https://discord.gg/Ad2EfNXPeB)**
+- **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://discord.gg/DBKNAFcSem)** <!-- https://discord.gg/Ad2EfNXPeB -->
 - **Email :** contact-pjc@zikapanam.fr
 - **Linktree :** https://linktr.ee/JamsMusicales
 - **Facebook :** https://www.facebook.com/ParisJamClub
@@ -56,11 +56,11 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::
 ### Les différents collectifs
 
-- Collectif concert Blues (Laurent) [Présentation](https://discord.com/channels/893372971073277962/1119721934490451988) ;
-- Collectif concert Multi (Soul, Funk, Pop, Rock, Groove) (Laurent) [Présentation](https://discord.com/channels/893372971073277962/1119721934490451988) ;
-- Collectif Vulfans (Reprises de Vulfpeck - Yoann) [Présentation](https://discord.com/channels/893372971073277962/1119742878604873759) ;
-- Collectif Jazz-Funk ツ (Clément) [Présentation](https://discord.com/channels/893372971073277962/1128235531113869342/1128235531113869342) ; 
-- Collectif Repassez-moi le standard ! (Jazz - Fred) [Présentation](https://discord.com/channels/893372971073277962/1122424995939889164) .
+- Collectif concert Blues (Laurent) [Présentation](https://discord.com/channels/1038909359712895058/1220523981296238642/1220523981296238642) ; <!-- https://discord.com/channels/893372971073277962/1119721934490451988 -->
+- Collectif concert Multi (Soul, Funk, Pop, Rock, Groove) (Laurent) [Présentation](https://discord.com/channels/1038909359712895058/1220523981296238642/1220523981296238642) ; <!-- https://discord.com/channels/893372971073277962/1119721934490451988 -->
+- Collectif Vulfans (Reprises de Vulfpeck - Yoann) <!-- [Présentation](https://discord.com/channels/893372971073277962/1119742878604873759) --> ;
+- Collectif Jazz-Funk ツ (Clément) <!-- [Présentation](https://discord.com/channels/893372971073277962/1128235531113869342/1128235531113869342) --> ; 
+- Collectif Repassez-moi le standard ! (Jazz - Fred) <!-- [Présentation](https://discord.com/channels/893372971073277962/1122424995939889164) --> .
 
 ... D'autres à venir tout au long de l'année grâce à vous !
 
@@ -73,7 +73,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::info
 
 - **Niveau :** intermédiaire ou débutant ([Évaluer son niveau ?](/evaluer-son-niveau.md))
-- **Discord (MIP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord MIP)](https://discord.gg/DBKNAFcSem)**
+- **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://discord.gg/DBKNAFcSem)**
 - **Email :** contact-mip@zikapanam.fr
 - **Linktree :** https://linktr.ee/Musiciens.Interdebs.Parisiens
 - **Instagram :** https://www.instagram.com/Musiciens.Interdebs.Parisiens
