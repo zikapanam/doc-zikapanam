@@ -74,12 +74,17 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'DocSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: "Documentation",
           },
           {
             position: 'left',
             label: 'Témoignages',
             href: 'https://www.blog.zikapanam.fr/testimonials',
+          },
+          {
+            position: 'left',
+            label: 'Calendriers',
+            href: 'https://www.blog.zikapanam.fr/calendriers',
           },
           {
             position: 'left',
