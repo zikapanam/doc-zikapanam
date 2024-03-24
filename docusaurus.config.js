@@ -78,6 +78,11 @@ const config = {
           },
           {
             position: 'left',
+            label: 'Témoignages',
+            href: 'https://www.blog.zikapanam.fr/testimonials',
+          },
+          {
+            position: 'left',
             label: 'Blog',
             href: 'https://www.blog.zikapanam.fr',
           },
