@@ -30,7 +30,7 @@ Nous avons deux communautés qui catégorisent les nouveaux arrivants :
 
 ## Venir à notre rencontre
 
-Dans les rencontres autour d'un verre que l'association organise régulièrement (Une fois par mois en dehors des périodes de fin d'année et d'été) et qui ont un certain succès qui ne se dément pas (10 à 20 personnes à chaque fois), les musiciens de l'association mais aussi des extérieurs viennent se renseigner et discuter sur les activités de notre association. C'est parfois le premier contact qu'ils ont avec nous et sont plongés directement au cœur de ce qui fait la vitrine de notre association : L'esprit de communauté ouverte, accueillante et bienveillante.
+Dans les rencontres autour d'un verre que l'association organise régulièrement (une fois par mois en dehors des périodes de fin d'année et d'été) et qui ont un certain succès qui ne se dément pas (10 à 20 personnes à chaque fois), les musiciens de l'association mais aussi des extérieurs viennent se renseigner et discuter sur les activités de notre association. C'est parfois le premier contact qu'ils ont avec nous et sont plongés directement au cœur de ce qui fait la vitrine de notre association : L'esprit de communauté ouverte, accueillante et bienveillante.
 
 ## Évolution de notre association
 

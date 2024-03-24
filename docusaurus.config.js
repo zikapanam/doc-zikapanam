@@ -38,7 +38,7 @@ const config = {
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+        ({
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
@@ -46,8 +46,7 @@ const config = {
 /*          editUrl:
             'https://github.com/zikapanam/doc-zikapanam/tree/main/packages/create-docusaurus/templates/shared/',
         */        
-       },
-
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
