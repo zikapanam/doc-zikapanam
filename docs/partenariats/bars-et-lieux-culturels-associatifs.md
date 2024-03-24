@@ -3,7 +3,9 @@ sidebar_position: 1
 ---
 # Bars et lieux culturels associatifs
 
-![Soirée concert+jams](/img/cafe-concert.jpg)
+Concerts, jams et scènes ouvertes.
+
+![Soirée concert+jam](/img/cafe-concert.jpg)
 
 ## Ce que nous faisons actuellement
 

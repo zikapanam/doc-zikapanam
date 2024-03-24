@@ -3,6 +3,8 @@ sidebar_position: 2
 ---
 # École et professeurs de musique
 
+Encourager la pratique en groupe de vos élèves.
+
 ![École et professeurs de musique](/img/marius-masalar-rPOmLGwai2w-unsplash.jpg)
 
 ## Le constat
