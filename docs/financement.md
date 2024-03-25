@@ -39,7 +39,7 @@ Tout ça a un coût non négligeable sur l'année et comme tout augmente ces der
 
 ### Louer une salle de concert ou animer un bar
 
-À vrai dire les deux ont leur avantages et inconvénients ...
+À vrai dire les deux ont leurs avantages et inconvénients ...
 
 La promotion de nos évènements est essentielle et nous devons trouver un rythme d'engagement qui convienne à tous les membres pour éviter de les épuiser et que chaque évènement reste une fête.
 
