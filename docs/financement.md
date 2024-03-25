@@ -17,7 +17,7 @@ Sachez qu'en la personne de Nathalie_Mil qui est la trésorière de l'associatio
 
 ## Poste de recettes 
 
-L'unique recette est constitué par les cotisations à ce jour.
+L'unique recette est constituée par les cotisations à ce jour.
 
 ## Postes de dépenses
 
