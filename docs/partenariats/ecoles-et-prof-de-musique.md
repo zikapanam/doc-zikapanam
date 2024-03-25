@@ -19,7 +19,7 @@ Les profils que nous accueillons en débutants et intermédiaires ont parfois l'
 
 Notre association a pour objectif de promouvoir la pratique en groupe à travers des collectifs spécialisés dans différents styles qui vont du jazz au métal (musiques actuelles) mais aussi des rencontres musicales ponctuelles pour ceux qui ne peuvent pas s'engager régulièrement.
 
-Notre structure est entièrement bénévole et se construit avec les bonnes volontés sous la bienveillance du Bureau de l'association. Elle organise des rencontres musicales (sessions dans des studios de répétition, jams, scènes ouvertes, concerts) dans un cadre amateur pour des amateurs.
+Notre structure est entièrement bénévole et se construit avec les bonnes volontés et l'appui bienveillant du Bureau de l'association. Elle organise des rencontres musicales (sessions dans des studios de répétition, jams, scènes ouvertes, concerts) dans un cadre amateur pour des amateurs.
 
 Notre association propose à une population adulte d'organiser des rencontres musicales et fournit des outils applicatifs pour le faire. Elle met en relation des musiciens adultes de tous âges et de tout niveau. 
 
@@ -30,7 +30,7 @@ Nous avons deux communautés qui catégorisent les nouveaux arrivants :
 
 ## Venir à notre rencontre
 
-Dans les rencontres autour d'un verre que l'association organise régulièrement (une fois par mois en dehors des périodes de fin d'année et d'été) et qui ont un certain succès qui ne se dément pas (10 à 20 personnes à chaque fois), les musiciens de l'association mais aussi des extérieurs viennent se renseigner et discuter sur les activités de notre association. C'est parfois le premier contact qu'ils ont avec nous et sont plongés directement au cœur de ce qui fait la vitrine de notre association : L'esprit de communauté ouverte, accueillante et bienveillante.
+Dans les rencontres autour d'un verre que l'association organise régulièrement (une fois par mois en dehors des périodes de fin d'année et d'été) et qui ont un certain succès qui ne se dément pas (10 à 20 personnes à chaque fois), les musiciens de l'association mais aussi des extérieurs viennent se renseigner et discuter sur les activités de notre association. C'est parfois le premier contact qu'ils ont avec nous et sont plongés directement au cœur de ce qui unit profondément notre association : L'esprit de communauté ouverte, accueillante et bienveillante.
 
 ## Évolution de notre association
 
