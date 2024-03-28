@@ -56,11 +56,11 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::
 ### Les différents collectifs
 
-- Collectif concert Blues (Laurent) [Présentation](https://discord.com/channels/1038909359712895058/1220523981296238642/1220523981296238642) ; <!-- https://discord.com/channels/893372971073277962/1119721934490451988 -->
-- Collectif concert Multi (Soul, Funk, Pop, Rock, Groove) (Laurent) [Présentation](https://discord.com/channels/1038909359712895058/1220523981296238642/1220523981296238642) ; <!-- https://discord.com/channels/893372971073277962/1119721934490451988 -->
-- Collectif Vulfans (Reprises de Vulfpeck - Yoann) <!-- [Présentation](https://discord.com/channels/893372971073277962/1119742878604873759) --> ;
-- Collectif Jazz-Funk ツ (Clément) <!-- [Présentation](https://discord.com/channels/893372971073277962/1128235531113869342/1128235531113869342) --> ; 
-- Collectif Repassez-moi le standard ! (Jazz - Fred) <!-- [Présentation](https://discord.com/channels/893372971073277962/1122424995939889164) --> .
+- Collectif concert Blues (Laurent_Sch) [Présentation](https://discord.com/channels/1038909359712895058/1220523981296238642/1220523981296238642) ; 
+- Collectif concert Multi (Soul, Funk, Pop, Rock, Groove) (Laurent_Sch) [Présentation](https://discord.com/channels/1038909359712895058/1220523981296238642/1220523981296238642) ; 
+- Collectif Vulfans (Reprises de Vulfpeck - Yoann_All)  ;
+- Collectif Jazz-Funk ツ (Clément_Per)  ; 
+- Collectif Repassez-moi le standard ! (Jazz - Fred_Ble) [Présentation](https://discord.com/channels/1038909359712895058/1221022482270650399/1221022482270650399) .
 
 ... D'autres à venir tout au long de l'année grâce à vous !
 
@@ -84,11 +84,11 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 
 ### Les différents collectifs
 
-- Collectif Ultra Heavy Riffs (Jeanne-Charlotte) : Du rock au métal [Présentation](https://discord.com/channels/1038909359712895058/1052703682799599666/1052703682799599666) ;
-- Collectif Les Grands Classiques (Maurice) : Tubes internationaux autour de la variété française, de la pop/rock, de la soul mais également du punk/Rock/Grunge (Plusieurs lineups avec influences différentes) [Présentation](https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992) ;
-- Collectif Oldies but Goldies (Yann) : Jazz [Présentation](https://discord.com/channels/1038909359712895058/1150086345532899388/1150086345532899388) ;
-- Collectif Panam AfroFuzers (Paul) : Jazz, Blues, Soul, Funk, Afro Beat. [Présentation](https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432) ;
-- Collectif Into The Groove (Pierre-Henri) : Soul, RnB, Funk. [Présentation](https://discord.com/channels/1038909359712895058/1131556262530793482/1131556262530793482) ;
+- Collectif Ultra Heavy Riffs (JeanneCharlotte_Wat) : Du rock au métal [Présentation](https://discord.com/channels/1038909359712895058/1052703682799599666/1052703682799599666) ;
+- Collectif Les Grands Classiques (Maurice_Ang) : Tubes internationaux autour de la variété française, de la pop/rock, de la soul mais également du punk/Rock/Grunge (Plusieurs lineups avec influences différentes) [Présentation](https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992) ;
+- Collectif Oldies but Goldies (Yann_Leb) : Jazz [Présentation](https://discord.com/channels/1038909359712895058/1150086345532899388/1150086345532899388) ;
+- Collectif Panam AfroFuzers (Paul_Kac) : Jazz, Blues, Soul, Funk, Afro Beat. [Présentation](https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432) ;
+- Collectif Into The Groove (PierreHenri_Nod) : Soul, RnB, Funk. [Présentation](https://discord.com/channels/1038909359712895058/1131556262530793482/1131556262530793482) ;
 
 ... D'autres à venir tout au long de l'année grâce à vous !
 	
