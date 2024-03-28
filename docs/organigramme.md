@@ -69,12 +69,12 @@ Voici les missions du référent musical :
 
 ### Chargé.e web et développement informatique
 
-Il est en charge de la maintenance technique du blog et du site de documentation Zikapanam :
+Il est en charge de la maintenance technique du blog, du site de documentation Zikapanam et de la solution ZapAPP :
 
 Voici ses missions :
 - il développe ou met en place des solutions pour servir les besoins de navigabilité des utilisateurs, des rédacteurs du blog et de la documentation ;
 - il met en place et s'assure de la conformité à la RGPD des outils d'analyse.
-- il maintient la solution ZapAPP (interface à Discord en javascript)
+- il maintient la solution maison ZapAPP
 
 ### Leaders de collectif
 
@@ -82,4 +82,4 @@ Les leaders ainsi que leur(s) collectif(s) sont rappelés là :
 
 - [PJC : Collectifs et leaders](intro#les-diff%C3%A9rents-collectifs)
 
-- [MIP : Collectifs et leaders](/intro#les-diff%C3%A9rents-collectifs-1)
+- [MIP : Collectifs et leaders](intro#les-diff%C3%A9rents-collectifs-1)
