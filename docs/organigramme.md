@@ -80,6 +80,6 @@ Voici ses missions :
 
 Les leaders ainsi que leur(s) collectif(s) sont rappelés là :
 
-- [PJC : Collectifs et leaders](intro#les-diff%C3%A9rents-collectifs)
+- [PJC : Collectifs et leaders](/docs/intro#les-diff%C3%A9rents-collectifs)
 
-- [MIP : Collectifs et leaders](intro#les-diff%C3%A9rents-collectifs-1)
+- [MIP : Collectifs et leaders](/docs/intro#les-diff%C3%A9rents-collectifs-1)
