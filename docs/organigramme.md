@@ -80,6 +80,8 @@ Voici les missions du référent musical :
 
 ## Leaders de collectif
 
+Consultez [le rôle du leader](/docs/organiser/la-vie-d-un-collectif#r%C3%B4le-du-leader-de-collectif) dans la fiche sur la vie d'un collectif.
+
 Les leaders ainsi que leur(s) collectif(s) sont rappelés là :
 
 - [PJC : Collectifs et leaders](/docs/intro#les-diff%C3%A9rents-collectifs)
