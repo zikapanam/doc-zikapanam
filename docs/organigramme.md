@@ -32,7 +32,7 @@ Le Bureau fait partie du CA avec en plus :
 - Yoann_All
 - Fred_Ble
 
-## Autres postes
+## Cellule de communication
 
 ### Chargé.e de communication
 
@@ -58,16 +58,6 @@ Voici ses missions :
 - il gère les membres qui font trop d'absences ou de lapins ;
 - il fait les rappels sur les cotisations.
 
-### Référents musicaux pour l'organisation de soirées
-
-Les référents musicaux organisent des soirées pour l'association. ils sont au plus prêt des musiciens intéressés et de leurs besoins.
-
-Voici les missions du référent musical :
-- il contacte les lieux culturels (bars, salles de concerts ...) pour leur proposer des jams, scènes ouvertes ou concerts (voir des combinaisons) ;
-- il booke les formations issus de notre association en priorité sur leurs événements ;
-- il dresse la fiche technique des lieux qui accueillent leurs événements ;
-- il communique aux musiciens le matériel disponible et celui qui doit être ramené pour l'occasion.
-
 ### Chargé.e web et développement informatique
 
 Il est en charge de la maintenance technique du blog, du site de documentation Zikapanam et de la solution ZapAPP :
@@ -77,7 +67,18 @@ Voici ses missions :
 - il met en place et s'assure de la conformité à la RGPD des outils d'analyse.
 - il maintient la solution maison ZapAPP
 
-### Leaders de collectif
+## Organisateurs de soirées
+
+Ils organisent des soirées pour l'association. ils sont au plus prêt des musiciens intéressés et de leurs besoins.
+
+Voici les missions du référent musical :
+- il contacte les lieux culturels (bars, salles de concerts ...) pour leur proposer des jams, scènes ouvertes ou concerts (voir des combinaisons) ;
+- il booke les formations issus de notre association en priorité sur leurs événements ;
+- il dresse la fiche technique des lieux qui accueillent leurs événements ;
+- il communique aux musiciens le matériel disponible et celui qui doit être ramené pour l'occasion.
+
+
+## Leaders de collectif
 
 Les leaders ainsi que leur(s) collectif(s) sont rappelés là :
 
