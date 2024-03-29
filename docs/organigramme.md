@@ -11,7 +11,7 @@ L'association Zikapanam à but non lucratif est organisée autour d'un Bureau, d
 
 ## Le Bureau
 
-Le Bureau (qui fait partie du CA) est composé de :
+Le Bureau est issu du CA et est composé de :
 
 - un Président (Laurent_Sch) ;
 - une Trésorière (Nathalie_Mil) ;
@@ -28,7 +28,7 @@ Il statue sur toutes les orientations à prendre par l'association :
 - discute de l'organisation de l'association et des évolutions nécessaires.
 - prodigue ses conseils et apporte un soutien au Bureau lorsque c'est nécessaire.
 
-Le Bureau fait partie du CA avec en plus :
+Le CA est composé du Bureau et des membres suivants :
 - Yoann_All
 - Fred_Ble
 
@@ -64,8 +64,8 @@ Il est en charge de la maintenance technique du blog, du site de documentation Z
 
 Voici ses missions :
 - il développe ou met en place des solutions pour servir les besoins de navigabilité des utilisateurs, des rédacteurs du blog et de la documentation ;
-- il met en place et s'assure de la conformité à la RGPD des outils d'analyse.
-- il maintient la solution maison ZapAPP
+- il met en place et s'assure de la conformité RGPD des outils d'analyse ainsi que du traitement et de la durée de conservation des données personnelles des membres ;
+- il maintient la solution maison ZapAPP.
 
 ## Organisateurs de soirées
 

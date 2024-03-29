@@ -85,7 +85,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 ### Les différents collectifs
 
 - Collectif Ultra Heavy Riffs (JeanneCharlotte_Wat) : Du rock au métal [Présentation](https://discord.com/channels/1038909359712895058/1052703682799599666/1052703682799599666) ;
-- Collectif Les Grands Classiques (Maurice_Ang) : Tubes internationaux autour de la variété française, de la pop/rock, de la soul mais également du punk/Rock/Grunge (Plusieurs lineups avec influences différentes) [Présentation](https://discord.com/channels/1038909359712895058/1062782176501972992/1062782176501972992) ;
+- Collectif Les Grands Classiques (Maurice_Ang) : Tubes internationaux autour de la variété française, de la pop/rock, de la soul mais également du punk/Rock/Grunge (Plusieurs lineups avec influences différentes) [Présentation](https://discord.com/channels/1038909359712895058/1193978188402008194/1193978188402008194) ;
 - Collectif Oldies but Goldies (Yann_Leb) : Jazz [Présentation](https://discord.com/channels/1038909359712895058/1150086345532899388/1150086345532899388) ;
 - Collectif Panam AfroFuzers (Paul_Kac) : Jazz, Blues, Soul, Funk, Afro Beat. [Présentation](https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432) ;
 - Collectif Into The Groove (PierreHenri_Nod) : Soul, RnB, Funk. [Présentation](https://discord.com/channels/1038909359712895058/1131556262530793482/1131556262530793482) ;
