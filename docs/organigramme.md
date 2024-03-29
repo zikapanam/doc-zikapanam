@@ -5,7 +5,7 @@ sidebar_position: 10
 # L'organigramme
 
 L'association Zikapanam à but non lucratif est organisé autour d'un Bureau, d'un conseil d'administration, d'une cellule de communication 
-et des organisateurs d'événements.
+, des organisateurs d'événements et surtout des leaders de collectif.
 
 ![Organigramme Zikapanam](/img/zikapanam-organigramme.jpg)
 
