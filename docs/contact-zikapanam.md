@@ -19,9 +19,9 @@ sidebar_position: 9
 
 :::tip
 
-- Fiche de la communauté **[Paris Jam Club](https://www.doc.zikapanam.fr/docs/intro#paris-jam-club)**
+- Fiche de la communauté **[Avancés 🦁](/docs/intro#communaut%C3%A9-des-avanc%C3%A9s-)**
 
-- Fiche de la communauté **[Musiciens Interdebs Parisiens](https://www.doc.zikapanam.fr/docs/intro#musiciens-interdebs-parisiens)**
+- Fiche de la communauté **[Interdebs 🐤](/docs/intro#communaut%C3%A9-des-interdebs-)**
 
 :::
 

@@ -51,7 +51,7 @@ Procédez de la façon suivante :
 
 1. La cotisation des personnes qui s'inscrivent à partir de septembre sera valable jusqu'à la fin de l'année civile n+1. 
 
-2. La cotisation est valable pour toutes les activités dans notre association (MIP et/ou PJC). Actuellement, il n'y a pas de limites au nombre de lineups que vous pouvez intégrer tant que le besoin est là.
+2. La cotisation est valable pour toutes les activités dans notre association. Actuellement, il n'y a pas de limites au nombre de lineups que vous pouvez intégrer tant que le besoin est là.
 
 :::
 
