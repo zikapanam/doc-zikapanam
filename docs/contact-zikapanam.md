@@ -11,9 +11,11 @@ sidebar_position: 9
 **Association Zikapanam**
 
 - **Email :** contact@zikapanam.fr
-- **Linktree :** https://linktr.ee/zikapanam
-- **Facebook :** https://www.facebook.com/zikapanam
-- **YouTube :** https://www.youtube.com/@assozikapanam
+- **Linktree :** https://linktr.ee/AssoZikapanam
+- **Facebook :** https://www.facebook.com/AssoZikapanam
+- **Instagram :** https://www.instagram.com/AssoZikapanam
+- **YouTube :** https://www.youtube.com/@assozikapanam1
+
 
 :::
 
