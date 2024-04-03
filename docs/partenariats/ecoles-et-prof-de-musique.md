@@ -25,8 +25,8 @@ Notre association propose à une population adulte d'organiser des rencontres mu
 
 Nous avons deux communautés qui catégorisent les nouveaux arrivants :
 
-- Interdebs 🐤 : Musiciens intermédiaires et débutants 
-- Avancés 🦁 : Musiciens intermédiaires-avancés et avancés (amateurs, semi-pro et pro)
+- Interdebs 😎 : Musiciens intermédiaires et débutants 
+- Avancés 🎆 : Musiciens intermédiaires-avancés et avancés (amateurs, semi-pro et pro)
 
 ## Venir à notre rencontre
 

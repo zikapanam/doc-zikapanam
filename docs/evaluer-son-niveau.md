@@ -10,14 +10,14 @@ Il est assez souvent difficile d'évaluer son niveau car on a rarement une vue g
 
 <img src="/img/interdebs.png" width="300"/>
 
-## Débutant (Ok Interdebs 🐤)
+## Débutant (Ok Interdebs 😎)
 - Apprentissage de la technique instrumentale
 - Pas d'expérience de groupe
-## Intermédiaire débutant (Ok Interdebs 🐤)
+## Intermédiaire débutant (Ok Interdebs 😎)
 - Développement de la technique instrumentale,
 - Apprentissage de la théorie (do chromatique, savoir reconnaître les mesures binaires/ternaires; composition des accords et arpèges et composition d'une gamme)
 - Expérience de groupe (apprentissage de l'écoute des autres)
-## Intermédiaire (Ok Interdebs 🐤)
+## Intermédiaire (Ok Interdebs 😎)
 - Développement de la technique instrumentale,
 - Connaissances théoriques acquises,
     * Le chant apprend à déterminer la tonalité qui lui convient sur une chanson en autonomie à partir d'un piano, d'une guitare ou autre.
@@ -28,7 +28,7 @@ Il est assez souvent difficile d'évaluer son niveau car on a rarement une vue g
 
 <img src="/img/avances.png" width="300"/>
 
-## Intermédiaire avancé (Ok Avancés 🦁)
+## Intermédiaire avancé (Ok Avancés 🎆)
 - À l'aise sur son instrument (technique instrumentale acquise),
 - Connaissances théoriques acquises,
     * Le chant sait déterminer la tonalité qui lui convient sur une chanson en autonomie à partir d'un piano, d'une guitare ou autre.
@@ -36,7 +36,7 @@ Il est assez souvent difficile d'évaluer son niveau car on a rarement une vue g
 - Développement de la pratique sur ces connaissances théoriques.
 - Oreille en développement.
 - Expérience de groupe (écoute et s'adapte au jeu des autres)
-## Avancé (Ok Avancés 🦁)
+## Avancé (Ok Avancés 🎆)
 - À l'aise sur son instrument (technique instrumentale acquise),
 - Connaissances théoriques acquises,.
     * Le chant sait déterminer rapidement à partir d'une note de référence, la tonalité qui lui convient sur une chanson.

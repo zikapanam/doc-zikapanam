@@ -84,6 +84,6 @@ Consultez [le rôle du leader](/docs/organiser/la-vie-d-un-collectif#r%C3%B4le-d
 
 Les leaders ainsi que leur(s) collectif(s) sont rappelés là :
 
-- [Avancés 🦁 : Collectifs et leaders](/docs/intro#les-diff%C3%A9rents-collectifs-des-avanc%C3%A9s-)
+- [Avancés 🎆 : Collectifs et leaders](/docs/intro#les-diff%C3%A9rents-collectifs-des-avanc%C3%A9s-)
 
-- [Interdebs 🐤 : Collectifs et leaders](/docs/intro#les-diff%C3%A9rents-collectifs-des-interdebs-)
+- [Interdebs 😎 : Collectifs et leaders](/docs/intro#les-diff%C3%A9rents-collectifs-des-interdebs-)
