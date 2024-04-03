@@ -8,6 +8,8 @@ sidebar_position: 2
 
 Il est assez souvent difficile d'évaluer son niveau car on a rarement une vue globale de l'apprentissage nécessaire lorsqu'on évolue, alors voici une proposition correspondant à ma vision actuelle sur le sujet :
 
+<img src="/img/interdebs.png" width="300"/>
+
 ## Débutant (Ok Interdebs 🐤)
 - Apprentissage de la technique instrumentale
 - Pas d'expérience de groupe
@@ -23,6 +25,8 @@ Il est assez souvent difficile d'évaluer son niveau car on a rarement une vue g
 - Développement de la pratique sur ces connaissances théoriques,
     * Début du développement de l'oreille musicale (écoute du groupe /improvisation, reconnaissance des intervalles/accords)
     * Expérience de groupe (écoute et commence à s'adapter au jeu des autres)
+
+<img src="/img/avances.png" width="300"/>
 
 ## Intermédiaire avancé (Ok Avancés 🦁)
 - À l'aise sur son instrument (technique instrumentale acquise),
