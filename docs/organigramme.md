@@ -87,3 +87,27 @@ Les leaders ainsi que leur(s) collectif(s) sont rappelés là :
 - [Avancés 🎆 : Collectifs et leaders](/docs/intro#les-diff%C3%A9rents-collectifs-des-avanc%C3%A9s-)
 
 - [Interdebs 😎 : Collectifs et leaders](/docs/intro#les-diff%C3%A9rents-collectifs-des-interdebs-)
+
+
+## Les photographes
+
+Nos photographes sont amateurs et bénévoles et sont au nombre de 5 à nous avoir rejoint.
+Ils couvrent la plupart de nos événements selon leurs disponibilités et permettent à notre association d'avoir de la matière pour alimenter principalement notre instagram.
+
+Leur vision artistique et l'appréciation de leurs œuvres par nos followers a un impact direct sur les interactions observées sur nos réseaux sociaux.
+
+Un Grand Merci à eux !
+
+Pour rappel, l'association a une organisation entièrement bénévole.
+
+
+Voici les galeries avec des extraits du travail déjà réalisé sur des photos ramenées en petits formats. Ce format vous donnera un aperçu de la patte de chacun de nos photographes.
+
+Pour les avoir en meilleure qualité, n'hésitez pas à consulter nos réseaux sociaux !
+
+Paul CUVEILLIER : [Sa galerie Zikapanam](https://photos.app.goo.gl/7uJVJq3U3tsdYm468)
+
+Marie-Laure OLMI : [Sa galerie Zikapanam](https://photos.app.goo.gl/UvDNLZQ2977ryK778)
+
+Eric LEBOULANGER : [Sa galerie Zikapanam](https://photos.app.goo.gl/h4SQBbfHSFpukwRr9)
+
