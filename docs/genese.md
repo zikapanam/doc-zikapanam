@@ -2,6 +2,9 @@
 sidebar_position: 12
 ---
 # La génèse
+
+La génèse de l'association Zikapanam.
+
 ![Histoire](/img/lire-nong-v-9pw4TKvT3po-unsplash.jpg)
 
 ## Au départ ...
