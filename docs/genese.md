@@ -33,7 +33,7 @@ Nous allons alors avec les quatre fondateurs (Laurent, Nathalie, Yoann et Fred) 
 
 Un peu après la finalisation de la création de l'association en octobre 2022, la communauté MIP (Musiciens Intermédiaires et débutants de Paris) est créée en novembre 2022 sous l'impulsion d'un membre fondateur Fred. MIP s'inspire dans son organisation et ses outils de mon expérience avec le collectif PITN !
 
-### Fusion des univers MIP et PJC
+### Fusion des univers MIP et PJC
 
 MIP devient les Interdebs et PJC devient les Avancés pour une meilleure compréhension des deux communautés gérées par l'association. Les réseaux sociaux sont rationalisés (une page facebook, une page instagram, une page youtube, un linktree). 
 
