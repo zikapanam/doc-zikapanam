@@ -6,7 +6,7 @@ sidebar_position: 12
 
 Vous cherchez des formations musicales pour animer une soirée dans votre lieu dédié à la culture ?
 
-Voici quelques exemples de formations amateures que nous pourrions vous propser dans le périmètre de notre association.
+Voici quelques exemples de formations amateures que nous pourrions vous proposer dans le périmètre de notre association.
 
 - [🍓 Strawberry Jam | Bento](https://bento.me/strawberry-jam-band) [Pop / Groove]
 - [🌞 Soulstice 🌞 | Bento](https://bento.me/soulstice-band)  [Soul / Funk]
