@@ -19,5 +19,5 @@ Nous avons des formations dans de nombreux styles (du jazz au métal) qui sont i
 
 ## Ce que nous proposons
 
-Nous avons toute une organisation pour faire la promo de nos événements avant, pendant et après les événements. Chaque lieu que nous visitons est mis à l'honneur sur nos réseaux sociaux et se fait connaître auprès de nos sympathisants qui commencent à être assez nombreux (plus de 900 sur nos Discords mais à cela s'ajoute la newsletter plus de 300 contacts et les réseaux sociaux Facebook et Instagram).
+Nous avons toute une organisation pour faire la promo de nos événements avant, pendant et après les événements. Chaque lieu que nous visitons est mis à l'honneur sur nos réseaux sociaux et se fait connaître auprès de nos sympathisants qui commencent à être assez nombreux (plus de 500 sur nos Discords mais à cela s'ajoute la newsletter plus de 350 contacts et les réseaux sociaux Facebook et Instagram).
 
