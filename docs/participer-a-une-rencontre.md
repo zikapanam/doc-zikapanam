@@ -73,6 +73,6 @@ Trois possibilités:
 
 ### Les événements publics
 
-Les événements publics sont partagés sur [Facebook](https://www.facebook.com/ParisJamClub/events)
+Les événements publics sont partagés sur [Facebook](https://www.facebook.com/AssoZikapanam/events)
 
 Lisez bien le descriptif de l'événement car parfois une inscription est nécessaire à l'événement.
