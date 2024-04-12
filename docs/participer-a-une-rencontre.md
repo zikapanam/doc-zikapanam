@@ -39,7 +39,7 @@ Un calendrier des rencontres en collectif et ouvertes est disponible à cette ad
 Les événements  publics sont souvent des jams sessions et/ou des scènes ouvertes organisées par l'association afin d'attirer de nouveaux adhérents. Leurs accès est très souvent ouvert à tous les musiciens motivés (cotisants ou pas).
 
 Les événements publics sont partagés :
-- sur [Facebook](https://www.facebook.com/ParisJamClub) 
+- sur [Facebook](https://www.facebook.com/AssoZikapanam/events) 
 - ou alternativement sur [calendrier Concert / Jam / Scène Ouverte](/docs/calendriers#concerts--jams--scènes-ouvertes)
 
 ## Calendrier des rencontres
