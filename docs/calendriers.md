@@ -10,10 +10,14 @@ sidebar_position: 7
 
 ## Rencontres
 
-### Calendrier Interdebs 😎
+### Calendrier Interdebs
+
+ 😎
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FParis&bgcolor=%23ffffff&title=Toutes%20les%20rencontres%20interdebs&showPrint=0&showCalendars=0&mode=AGENDA&showTabs=0&src=MmdzMnNmamNraHBvMnBnYWpsaHQxZDZkNWtmbTFiY2FAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4" width="600" height="600" frameborder="0" scrolling="no"></iframe>
 
-### Calendrier Avancés 🎆
+### Calendrier Avancés
+
+ 🎆
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FParis&bgcolor=%23ffffff&title=Toutes%20les%20rencontres%20avanc%C3%A9s&showPrint=0&showCalendars=0&mode=AGENDA&showTabs=0&src=YWNqbXQwcmprZW9ldWIzaW4zam01NGlucW02bzUwb3VAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%239E69AF" width="600" height="600" frameborder="0" scrolling="no"></iframe>

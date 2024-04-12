@@ -84,7 +84,7 @@ const config = {
           {
             position: 'left',
             label: 'Calendriers',
-            href: 'https://www.blog.zikapanam.fr/calendriers',
+            href: '/docs/calendriers',
           },
           {
             position: 'left',

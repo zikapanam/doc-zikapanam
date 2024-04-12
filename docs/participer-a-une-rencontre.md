@@ -40,7 +40,7 @@ Les événements  publics sont souvent des jams sessions et/ou des scènes ouver
 
 Les événements publics sont partagés :
 - sur [Facebook](https://www.facebook.com/ParisJamClub) 
-- ou alternativement sur [calendrier Concert / Jam / Scène Ouverte](/docs/calendriers#concert--jam--sc%C3%A8ne-ouverte)
+- ou alternativement sur [calendrier Concert / Jam / Scène Ouverte](/docs/calendriers#concerts--jams--scènes-ouvertes)
 
 ## Calendrier des rencontres
 
