@@ -44,5 +44,5 @@ L'atelier d'impro disparaît définitivement et  est remplacé par certains col
 
 ## Épilogue
 
-L'association Zikapanam avait une petite centaine de membres en septembre 2023 après 1 an d'existence. En avril 2024, 160 membres ont rejoint ses rangs et elle compte aussi beaucoup de sympathisants !
+L'association Zikapanam avait une petite centaine de membres en septembre 2023 après 1 an d'existence. En avril 2024, 160 membres ont rejoint ses rangs et elle compte aussi beaucoup de sympathisants ! (520 sur Discord, 350 sur la newsletter, 300 Facebook / Instagram )
 
