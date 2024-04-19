@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# École et professeurs de musique
+# Écoles et professeurs de musique
 
 Encourager la pratique en groupe de vos élèves.
 
