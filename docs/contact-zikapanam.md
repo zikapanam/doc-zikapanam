@@ -15,7 +15,14 @@ sidebar_position: 10
 - **Facebook :** https://www.facebook.com/AssoZikapanam
 - **Instagram :** https://www.instagram.com/AssoZikapanam
 - **YouTube :** https://www.youtube.com/@assozikapanam1
+- **Keskonfai :** https://www.keskonfai.fr/@asso_zikapanam
 
+:::
+
+
+:::info
+
+Rendez-vous sur [Flux RSS & Newsletter](/docs/flux-rss) pour tout savoir sur l'asso Zikapanam !
 
 :::
 
@@ -26,10 +33,3 @@ sidebar_position: 10
 - Fiche de la communauté **[Interdebs 😎](/docs/intro#communaut%C3%A9-des-interdebs-)**
 
 :::
-
-## Newsletter
-
-Pour s'inscrire à la newsletter :
-
-- vous pouvez le faire lors de votre inscription à l'association.
-- vous pouvez ne pas attendre et vous inscrire à la newsletter à partir du Blog https://www.blog.zikapanam.fr
