@@ -12,5 +12,7 @@ Voici quelques exemples de formations amateures que nous pourrions vous proposer
 - [💙 The SwampS](https://bento.me/the-swamps-band) [Blues / Blues Rock]
 - [🌞 Soulstice 🌞](https://bento.me/soulstice-band)  [Soul / Funk]
 - [🍓 Strawberry Jam](https://bento.me/strawberry-jam-band) [Pop / Groove]
+- [Katia Jamming Band 🎷](https://bento.me/katia-jamming-band) [Soul / Bossa]
+
 
 Sinon vous pouvez aussi nous laisser carte blanche et nous confier le recrutement des groupes amateures qui animeront votre soirée.
