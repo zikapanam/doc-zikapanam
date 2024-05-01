@@ -14,7 +14,9 @@ Punchline : ***« La musique, ensemble ! »***
 
 ➡️ N'oubliez pas d'activer le son !
 
-[Playlist de nos formations sur Instagram (extraits courts)](https://www.instagram.com/stories/highlights/17958256673742805/)
+[Playlist de shorts sur YouTube](https://www.youtube.com/playlist?list=PLmSDsAPX_w7CWPixuQy0aY9lcT2dG49yY)
+
+[Playlist de stories sur Instagram](https://www.instagram.com/stories/highlights/17958256673742805/)
 
 ## La Grande Jam de l'asso !
 
