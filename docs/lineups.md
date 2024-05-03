@@ -14,6 +14,6 @@ Voici quelques exemples de formations amateures que nous pourrions vous proposer
 - [🍓 Strawberry Jam](https://bento.me/strawberry-jam-band) [Pop / Groove]
 - [Katia Jamming Band 🎷](https://bento.me/katia-jamming-band) [Soul / Bossa]
 - [FREEBIRD](https://bento.me/freebird) [Folk / Blues / Rock]
-- [Les mousquetaires 🎷](https://bento.me/mousquetaires-jazz)
+- [Les mousquetaires 🎷](https://bento.me/mousquetaires-jazz) [Jazz]
 
 Sinon vous pouvez aussi nous laisser carte blanche et nous confier le recrutement des groupes amateures qui animeront votre soirée.
