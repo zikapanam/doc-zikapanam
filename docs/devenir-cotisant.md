@@ -24,10 +24,9 @@ L'association est basée entièrement sur le bénévolat.
 
 Chaque année civile vous devez renouveler votre cotisation. Il n'y a pas d'abonnement, le renouvellement est une action volontaire de votre part.
 
-Vous avez trois options :
+Vous avez quatres options :
 
 - vous voulez participer aux jams publics organisées par l'association dans les bars, vous n'avez pas besoin d'être cotisant.
-
 - vous voulez organiser des rencontres, il faut être cotisant dès la première rencontre.
 - vous voulez participer à des concerts organisés par l'association, il faut être cotisant dès le premier concert.
 - vous voulez participer à des rencontres non publiques, vous devez être inscrit et avez jusqu'à deux essais pour vous faire un avis avant de cotiser.
