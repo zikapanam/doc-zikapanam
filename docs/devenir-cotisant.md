@@ -10,7 +10,7 @@ sidebar_position: 8
 L'inscription est l'action de se connecter à notre serveur Discord Zikapanam et de remplir une fiche d'inscription pour se faire connaître de l'association.
 
 Procédez de la façon suivante :
-1. Connectez-vous à un de nos serveurs Discord en cliquant sur un des liens d'invitation Discord [sur cette page](/docs/intro.md#communautés)
+1. Connectez-vous à notre serveur Discord en cliquant sur un des liens d'invitation Discord [sur cette page](/docs/intro.md#communautés)
 2. Remplissez une fiche d'inscription (Aucun paiement à cette étape)
 
 Elle permet une fois validée par le Bureau de l'association, d'accéder à des salons privés supplémentaires sur le Discord.
@@ -26,7 +26,7 @@ Chaque année civile vous devez renouveler votre cotisation. Il n'y a pas d'abon
 
 Vous avez quatre options :
 
-- vous voulez participer aux jams publics organisées par l'association dans les bars, vous n'avez pas besoin d'être cotisant.
+- vous voulez participer aux jams publics organisées par l'association dans les bars, vous n'avez pas besoin d'être inscrit ou cotisant.
 - vous voulez organiser des rencontres, il faut être cotisant dès la première rencontre.
 - vous voulez participer à des concerts organisés par l'association, il faut être cotisant dès le premier concert.
 - vous voulez participer à des rencontres non publics, vous devez être inscrit et avez jusqu'à deux essais pour vous faire un avis avant de cotiser.
