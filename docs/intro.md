@@ -43,7 +43,7 @@ Nous acceptons aussi les adolescents de 16 ans ou plus accompagnés dans leurs a
 
 Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite couronne. Des personnes de toute l'Île de france nous rejoignent.
 
-[Voici une carte des lieux fréquentés.](https://jamclub.zikapanam.fr/location_map)
+[Voici une carte des lieux fréquentés.](https://www.blog.zikapanam.fr/lieux.html)
 
 ## Communauté des avancés 🎆
 
