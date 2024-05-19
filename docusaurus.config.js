@@ -90,13 +90,13 @@ const config = {
             position: 'left',
             label: 'Blog',
             href: 'https://www.blog.zikapanam.fr',
-          },
+          }/*,
           {
             position: 'left',
             label: 'JamClub',
             href: 'https://jamclub.zikapanam.fr',
           },
-
+*/
         ],
       },
       footer: {
