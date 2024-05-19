@@ -9,13 +9,17 @@ sidebar_position: 1
 
 ## Présentation
 
-Zikapanam est une association à but non lucratif. Son but est d'organiser et de participer à des rencontres musicales (jams, répétitions, scènes ouvertes et concerts) en studio de répétition ou dans des lieux publics.
+Zikapanam est une association à but non lucratif. Son but est d'organiser et de participer à des rencontres musicales (jams, répétitions, scènes ouvertes et concerts) en studio de répétition ou dans des lieux publics. Elle a pratiqué jusqu'à aujourd'hui des musiques actuelles (du jazz au métal) et s'ouvre maintenant aussi (mai 2024) à la musique trad et à la musique de chambre.
 
 L'association gère deux communautés :
 - interdebs : Les intermédiaires et les débutants représentés par cet émoji : 😎
 - avancés : Les intermédiaires-avancés et avancés représentés par cet émoji : 🎆
 
 N'hésitez pas à consulter la documentation ci-dessous pour que les rouages de notre association n'aient plus de secrets pour vous !
+
+**Musique trad (source wikipedia):** L’expression « musiques traditionnelles » désigne des pratiques musicales issues de la tradition orale d’aires géographiques et culturelles définies.
+
+**Musique de chambre (source wikipedia):** Une œuvre de musique de chambre est une composition musicale destinée à un petit ensemble de cordes, bois, cuivres ou percussions, qui traditionnellement et avant l'affirmation des concerts publics, pouvait tenir dans la « grande chambre » d'un palais. Chaque partie est écrite pour un seul instrumentiste sans qu'il y ait à l'origine ni chef d'orchestre ni soliste attitré. Si certaines voix sont doublées ou triplées, particulièrement dans les cordes, on parle d'orchestre de chambre ; au-delà, on parle d'orchestre, avec le qualificatif de sa composition instrumentale (symphonique, à cordes, d'harmonie, de fanfare).
 
 ## Présentation en vidéo
 
