@@ -54,10 +54,15 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 - **Niveau :** intermédiaires-avancés ou avancés ([Évaluer son niveau ?](/evaluer-son-niveau.md))
 - **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://discord.gg/DBKNAFcSem)** <!-- https://discord.gg/Ad2EfNXPeB -->
 - **Email :** contact@zikapanam.fr
+- **Bento :** https://bento.me/AssoZikapanam
+- **Keskonfai :** https://www.keskonfai.fr/@AssoZikapanam
+- **Mastodon :** https://musicians.tody/AssoZikapanam
+- **Pixelfed :** https://pixelfed.fr/i/web/profile/691195821697027725
 - **Linktree :** https://linktr.ee/AssoZikapanam
 - **Facebook :** https://www.facebook.com/AssoZikapanam
 - **Instagram :** https://www.instagram.com/AssoZikapanam
 - **YouTube :** [Asso Zikapanam (Playlists de vidéos)](https://www.youtube.com/@AssoZikapanam1/playlists)
+
 - **Calendriers :** [Avancés 🎆](https://www.blog.zikapanam.fr/calendriers#avances) 
 :::
 ### Les différents collectifs des avancés 🎆
@@ -81,6 +86,10 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 - **Niveau :** intermédiaire ou débutant ([Évaluer son niveau ?](/evaluer-son-niveau.md))
 - **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://discord.gg/DBKNAFcSem)**
 - **Email :** contact@zikapanam.fr
+- **Bento :** https://bento.me/AssoZikapanam
+- **Keskonfai :** https://www.keskonfai.fr/@AssoZikapanam
+- **Mastodon :** https://musicians.tody/AssoZikapanam
+- **Pixelfed :** https://pixelfed.fr/i/web/profile/691195821697027725
 - **Linktree :** https://linktr.ee/AssoZikapanam
 - **Facebook :** https://www.facebook.com/AssoZikapanam
 - **Instagram :** https://www.instagram.com/AssoZikapanam
