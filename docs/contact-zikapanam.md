@@ -13,7 +13,7 @@ sidebar_position: 10
 - **Email :** contact@zikapanam.fr
 - **Bento :** https://bento.me/AssoZikapanam
 - **Keskonfai :** https://www.keskonfai.fr/@Asso_Zikapanam
-- **Mastodon :** https://musicians.tody/AssoZikapanam
+- **Mastodon :** https://musicians.today/@AssoZikapanam
 - **Pixelfed :** https://pixelfed.fr/i/web/profile/691195821697027725
 - **Linktree :** https://linktr.ee/AssoZikapanam
 - **Facebook :** https://www.facebook.com/AssoZikapanam
