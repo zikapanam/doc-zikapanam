@@ -44,9 +44,9 @@ Cette bourse est à destination des amateurs uniquement.
 
 ## Diffuser l'information
 
-L'association dispose d'une newsletter dans laquelle elle publie les différents événements prévus pour le mois suivant.
+L'association dispose d'une newsletter dans laquelle elle publie les différents événements publics prévus pour le mois suivant.
 
-Elle dispose aussi de Discords, Facebooks, YouTube   et Instagrams sur lesquelles elles partagent illustrations, photos, vidéos (de concerts précédents, teasers ...), afin de motiver le public qui nous suit à se rendre aux événements programmés.
+Elle dispose aussi de Discord, Facebook, Instagram, YouTube et des réseaux sur le Fediverse sur lesquelles elles partagent illustrations, photos, vidéos (de concerts précédents, teasers ...), afin de motiver le public qui la suit à se rendre aux événements programmés.
 
 ## Réaliser l'événement
 
