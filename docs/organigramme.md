@@ -100,10 +100,12 @@ Un Grand Merci à eux !
 
 Pour rappel, l'association a une organisation entièrement bénévole.
 
-Paul CUVEILLIER : [Sa galerie Zikapanam](https://pixelfed.fr/c/693426445854469946)
+Paul CUVEILLIER (paulo_pict) : [Sa galerie Zikapanam](https://pixelfed.fr/c/693426445854469946)
 
 Marie-Laure OLMI : [Sa galerie Zikapanam](https://pixelfed.fr/c/693426145999757091)
 
-Eric LEBOULANGER : [Sa galerie Zikapanam](https://pixelfed.fr/c/693425711950692112)
+Eric LEBOULANGER (fan_de_phot) : [Sa galerie Zikapanam](https://pixelfed.fr/c/693425711950692112)
 
 Benoît (baltiaphotos) : [Sa galerie Zikapanam](https://pixelfed.fr/c/703963167198910349)
+
+Christian (xitean) : [Sa galerie Zikapanam](https://pixelfed.fr/c/705488344001176734)
