@@ -52,7 +52,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::info
 
 - **Niveau :** intermédiaires-avancés ou avancés ([Évaluer son niveau ?](/evaluer-son-niveau.md))
-- **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://discord.gg/DBKNAFcSem)** <!-- https://discord.gg/Ad2EfNXPeB -->
+- **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://www.blog.zikapanam.fr/invitation-discord)** <!-- https://discord.gg/Ad2EfNXPeB -->
 - **Email :** contact@zikapanam.fr
 - **Bento :** https://bento.me/AssoZikapanam
 - **Keskonfai :** https://keskonfai.fr/@asso_zikapanam
@@ -84,7 +84,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::info
 
 - **Niveau :** intermédiaire ou débutant ([Évaluer son niveau ?](/evaluer-son-niveau.md))
-- **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://discord.gg/DBKNAFcSem)**
+- **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://www.blog.zikapanam.fr/invitation-discord)**
 - **Email :** contact@zikapanam.fr
 - **Bento :** https://bento.me/AssoZikapanam
 - **Keskonfai :** https://keskonfai.fr/@asso_zikapanam

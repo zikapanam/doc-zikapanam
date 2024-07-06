@@ -10,7 +10,7 @@ sidebar_position: 9
 L'inscription est l'action de se connecter à notre serveur Discord Zikapanam et de remplir une fiche d'inscription pour se faire connaître de l'association.
 
 Procédez de la façon suivante :
-1. Connectez-vous à notre serveur Discord en cliquant sur [le lien d'invitation Discord](https://discord.gg/DBKNAFcSem)
+1. Connectez-vous à notre serveur Discord en cliquant sur [le lien d'invitation Discord](https://www.blog.zikapanam.fr/invitation-discord)
 2. Remplissez une fiche d'inscription (Aucun paiement à cette étape)
 
 Elle permet une fois validée par le Bureau de l'association, d'accéder à des salons privés supplémentaires sur le Discord.
