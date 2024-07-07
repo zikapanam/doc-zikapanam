@@ -27,7 +27,7 @@ N'hésitez pas à consulter la documentation ci-dessous pour que les rouages de 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T9djMv31qE0?si=JM9zVnh1f9WqImHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### 28/04/2024 : C'est quoi le concept ?
+### 07/07/2024 : C'est quoi le concept ?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/212xxteS7QA?si=0R1GRMmpj-riGHkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
