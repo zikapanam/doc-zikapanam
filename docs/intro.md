@@ -29,7 +29,7 @@ N'hésitez pas à consulter la documentation ci-dessous pour que les rouages de 
 
 ### 28/04/2024 : C'est quoi le concept ?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u0HDDpIQ4y0?si=yB5ghfTOy1r9UICJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/212xxteS7QA?si=0R1GRMmpj-riGHkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Qui peut s'inscrire ?
 
