@@ -23,9 +23,9 @@ Si vous le faîtes, vous apparaitrez dans les statistiques ... Ce qui peut avoir
 
 L'usage de Discord sur une base régulière est aussi apprécié car vous serez pleinement intégré au fonctionnement de l'asso.
 
-## Recrutement
+## Recrutement
 
-Lorsque vous créez un lineup satellite, vous pouvez mettre un message dans le salon #cherche-musiciens de la forme suivante :
+Lorsque vous créez un lineup satellite, vous pouvez mettre un message dans le salon **#cherche-musiciens** de la forme suivante :
 
 :::note[exemple]
 
@@ -49,6 +49,6 @@ Lorsque vous créez un lineup satellite, vous pouvez mettre un message dans le s
 
 Un lineup satellite peut discuter grâce aux groupes de messages privés sur Discord. Vous êtes limités à 10 personnes cependant et vous devez être amis sur Discord. Si vous êtes plus alors envisagez la création d'un collectif avec vos salons privés (demande à effectuer à @Laurent_Sch ).
 
-## Lecture complémentaire
+## Lecture complémentaire
 
 N'hésitez pas à lire [la vie d'un collectif](/docs/organiser/la-vie-d-un-collectif)
