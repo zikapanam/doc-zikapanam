@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 # Organiser une soirée
 
@@ -21,7 +21,7 @@ Une soirée est soit :
 
 Chaque événement propose ses propres conditions d'accès : parfois il faut procéder à une inscription à l'événement, parfois il suffit simplement de se présenter comme c'est pratiqué assez souvent.
 
-Tous ces événements sont publiés sur Facebook.
+Tous ces événements sont publiés sur Mobilizon ( https://keskonfai.fr/@asso_zikapanam ).
 
 ## Qui organise ?
 
