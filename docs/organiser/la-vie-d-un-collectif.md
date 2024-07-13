@@ -87,9 +87,8 @@ Pour Paris, il y a deux groupes Facebook :
 
 N'hésitez pas à lire le document [Organiser une jam](/docs/organiser/organiser-une-rencontre.md) pour savoir comment remplir/réserver au mieux votre première rencontre dans votre collectif ainsi que les suivantes !
 
-
-
 ## Communiquer avec son collectif
+
 ### Le nom du collectif
 
 Votre collectif peut avoir un nom original ou un nom par défaut :
@@ -164,6 +163,8 @@ Un leader est un facilitateur. Un meneur d'équipe c'est quelqu'un qui met sur l
 
 Le leader est en charge du recrutement pour son collectif et ses lineups. Il peut aussi décider de déléguer à un ou plusieurs de ses référents.
 
+Le leader en s'appuyant sur ses référents (le cas échéant) doit vérifier que tout le monde dans son collectif est cotisant. Chaque candidat a le droit à deux essais max.
+
 ### Rôle du chef d’orchestre
 Lorsque les initiateurs de morceaux sont clairement identifiés, chaque initiateur (participant au collectif) devient chef d’orchestre à son tour et propose sa vision pour la mise en place de son morceau. Sinon il est possible qu’une personne plus expérimentée prenne le lead et dirige le collectif et que ce ne soit pas forcément le leader. Tant que ça convient à tout le monde, il n’y a pas de souci.
 
@@ -172,7 +173,8 @@ Un référent est un membre d’un collectif qui prend en charge l’organisatio
 - il s'assure qu'un lineup suffisant est disponible pour ses sessions ;
 - Il réserve le studio de répétition pour chacune de ses sessions ;
 - Il se charge de convenir avec ses participants de la liste des chansons au programme de chaque session ;
-- le référent ne se charge pas du recrutement qui est la compétence du responsable du collectif (Sauf accord entre le référent et le responsable).
+- le référent ne se charge pas du recrutement qui est la compétence du responsable du collectif (Sauf accord entre le référent et le responsable) ;
+- il doit vérifier que tout son lineup est cotisant au gré des départs et des arrivées dans son lineup.
 
 Une communication privilégiée doit s'établir entre le référent et le responsable afin que tous les deux aient les informations suffisantes pour mener leurs tâches respectives. À cet effet, un salon **#référents** peut être ajouté aux salons privés du collectif.
 Les référents ont un rôle important, ils permettent d’accroître la capacité d’accueil d’un collectif et permettent également de venir en aide au leader si besoin.
