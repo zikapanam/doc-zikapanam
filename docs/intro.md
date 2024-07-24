@@ -58,6 +58,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 - **Keskonfai :** https://keskonfai.fr/@asso_zikapanam
 - **Mastodon :** https://musicians.today/@AssoZikapanam
 - **Pixelfed :** https://pixelfed.fr/i/web/profile/691195821697027725
+- **PeerTube :** https://www.yiny.org/a/asso_zikapanam/video-channels
 - **Linktree :** https://linktr.ee/AssoZikapanam
 - **Facebook :** https://www.facebook.com/AssoZikapanam
 - **Instagram :** https://www.instagram.com/AssoZikapanam
@@ -67,13 +68,15 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::
 ### Les différents collectifs des avancés 🎆
 
-- Collectif concert Blues (Laurent_Sch) [Présentation](https://discord.com/channels/1038909359712895058/1220523981296238642/1220523981296238642) ; 
-- Collectif concert Multi (Soul, Funk, Pop, Rock, Groove) (Laurent_Sch) [Présentation](https://discord.com/channels/1038909359712895058/1220523981296238642/1220523981296238642) ; 
-- Collectif Vulfans (Reprises de Vulfpeck - Yoann_All)  ;
-- Collectif Jazz-Funk ツ (Clément_Per)  ; 
-- Collectif Repassez-moi le standard ! (Jazz - Fred_Ble) [Présentation](https://discord.com/channels/1038909359712895058/1221022482270650399/1221022482270650399) .
+Les collectifs Blues et Groove de l'année dernière se sont réorganisés en lineups satellites pour la plupart. Les relations inter-lineups sont assurés par les dates de concerts communes grâce aux organisateurs d'événements et par le Bureau/CA.
 
-... D'autres à venir tout au long de l'année grâce à vous !
+À ce jour, ces collectifs sont en place :
+- Collectif Repassez-moi le standard ! (Jazz - Fred_Ble) [Présentation](https://discord.com/channels/1038909359712895058/1221022482270650399/1221022482270650399) .
+- Collectif Vulfans (Reprises de Vulfpeck - Yoann_All)  ;
+
+Nous aimerions qu'un collectif Blues soit créé sur le même modèle que le collectif Jazz ci-dessus. L'idée de ce collectif serait d'organiser des sessions jams régulières sur ce style avec des lineups éphémères.
+
+... Tout au long de l'année des collectifs se crééent grâce à vous !
 
 ### Extraits vidéo des avancés 🎆
 
@@ -90,6 +93,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 - **Keskonfai :** https://keskonfai.fr/@asso_zikapanam
 - **Mastodon :** https://musicians.today/@AssoZikapanam
 - **Pixelfed :** https://pixelfed.fr/i/web/profile/691195821697027725
+- **PeerTube :** https://www.yiny.org/a/asso_zikapanam/video-channels
 - **Linktree :** https://linktr.ee/AssoZikapanam
 - **Facebook :** https://www.facebook.com/AssoZikapanam
 - **Instagram :** https://www.instagram.com/AssoZikapanam
