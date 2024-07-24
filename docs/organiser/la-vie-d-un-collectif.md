@@ -134,7 +134,7 @@ communiquer de façon étroite avec le leader de collectif afin de lui remonter 
 
 Des rendez-vous réguliers sont préférables (hebdomadaires, bi-hebdomadaires …). Faîtes le point sur vos dispos et sur votre charge de travail la semaine et le weekend avant de proposer des dates aux participants. Ne proposez que des créneaux sur lesquels vous ne subirez pas de fatigue exagérée car le but est de rester leader ou référent autant que possible …
 Afin de recueillir les dispos de vos membres, je vous propose deux choix :
-- faire un sondage avec Xoyondo ( https://www.xoyondo.com ) 
+- faire un sondage avec Framadate ( https://www.framadate.org ) 
 - ou faire un sondage dans Discord (un message par option). Chacun votera pour la ou les options qu’il souhaite en mettant un émoji adapté.
 
 Enfin choisissez le jour de la semaine et le créneau qui vous intéresse le plus, vous et vos participants.
