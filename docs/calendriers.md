@@ -8,9 +8,9 @@ sidebar_position: 8
 
 Nous sommes sur keskonfai et facebook. Tous nos événements publics y sont inscrits, on y partage aussi des photos, des informations, etc. :
 
-- Agenda Keskonfai éthique (pas de compte nécessaire) : **[Agenda Keskonfai](https://keskonfai.fr/@asso_zikapanam/events)** ! 
+- Agenda Keskonfai éthique (pas de compte nécessaire) : **[Agenda Keskonfai](https://keskonfai.fr/@asso_zikapanam/events)**.
 
-- Agenda Meta avec pub : **[Agenda Facebook](https://www.facebook.com/assozikapanam/events)]
+- Agenda Meta avec pub : **[Agenda Facebook](https://www.facebook.com/assozikapanam/events)**.
 
 ## Rencontres
 
