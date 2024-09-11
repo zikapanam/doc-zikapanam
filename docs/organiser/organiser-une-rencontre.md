@@ -1,5 +1,11 @@
 ---
 sidebar_position: 1
+title: Organiser une rencontre
+description: Les trucs et astuces pour organiser une rencontre le plus efficacement possible.
+keywords:
+  - rencontres
+  - organisateur de jams
+  - rencontres ouvertes ou privés
 ---
 # Organiser une rencontre
 

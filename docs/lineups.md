@@ -1,5 +1,10 @@
 ---
 sidebar_position: 14
+title: Exemples de formations musicales 
+description: Présentation de quelques lineups de l'asosciation
+keywords:
+  - présentation de lineups
+  - bento
 ---
 
 # Exemples de formations musicales

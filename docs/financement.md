@@ -1,5 +1,12 @@
 ---
 sidebar_position: 10
+title: Financement
+description: Les recettes et dépenses de l'association.
+keywords:
+  - financement
+  - recettes
+  - cotisation
+  - dépenses
 ---
 
 # Financement

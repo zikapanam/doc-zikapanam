@@ -1,5 +1,11 @@
 ---
 sidebar_position: 3
+title: Évaluer son niveau
+description: Comment évaluer son niveau de musicien ?
+keywords:
+  - auto-évaluation
+  - musicien
+  - improvisation
 ---
 
 # Évaluer son niveau

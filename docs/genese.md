@@ -1,5 +1,12 @@
 ---
 sidebar_position: 14
+title: La génèse 
+description: La génèse de l'asosciation
+keywords:
+  - génèse
+  - historique
+  - création
+  - aboutissement
 ---
 # La génèse
 

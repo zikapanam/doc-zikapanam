@@ -1,5 +1,13 @@
 ---
 sidebar_position: 4
+title: Découverte de Discord 
+description: La découverte de Discord
+keywords:
+  - Discord
+  - présentation
+  - messagerie communautaire
+  - communication écrite
+  - communication audio / vidéo
 ---
 
 # Découverte de Discord

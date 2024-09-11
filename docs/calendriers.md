@@ -1,5 +1,16 @@
 ---
 sidebar_position: 8
+title: Tous les calendriers 
+description: tous les calendriers / agendas de l'association.
+keywords:
+  - calendriers
+  - agendas
+  - association
+  - jams
+  - répètes
+  - scènes ouvertes
+  - concerts
+  - rencontres sans instruments
 ---
 
 # Tous les calendriers

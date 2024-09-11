@@ -1,5 +1,12 @@
 ---
 sidebar_position: 11
+title: Contact 
+description: La page conctact
+keywords:
+  - association
+  - email
+  - réseaux sociaux
+  - Flux RSS
 ---
 
 # Contact

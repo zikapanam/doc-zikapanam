@@ -1,5 +1,11 @@
 ---
 sidebar_position: 9
+title: Inscription et cotisation
+description: Comment s'inscrire et/ou cotiser. Deux étapes distinctes de l'engagement dans notre association.
+keywords:
+  - association
+  - fiche d'inscription
+  - cotisation
 ---
 # Inscription et cotisation
 

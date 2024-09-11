@@ -1,5 +1,11 @@
 ---
 sidebar_position: 5
+title: Qu'est-ce qu'une rencontre ? 
+description: C'est quoi une rencontre musicale au sein de l'asosciation
+keywords:
+  - rencontre
+  - musique
+  - type de rencontres
 ---
 
 # Qu'est-ce qu'une rencontre ?

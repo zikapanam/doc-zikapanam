@@ -1,5 +1,12 @@
 ---
 sidebar_position: 15
+title: Écouter / voir ! 
+description: Écouter les membres de notre association en jamsostudio ou en concert / jams publics.
+keywords:
+  - écouter
+  - voire
+  - youtube
+  - instagram
 ---
 
 # Écouter / voir !

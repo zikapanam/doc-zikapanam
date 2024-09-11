@@ -1,5 +1,13 @@
 ---
 sidebar_position: 1
+title: Bars et lieux culturels associatifs 
+description: La volonté pour l'association de s'associer à d'autres associations proposant des lieux pour faire de la musique.
+keywords:
+  - association
+  - partenariat
+  - scène
+  - lieux
+  - musique
 ---
 # Bars et lieux culturels associatifs
 

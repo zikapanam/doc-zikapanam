@@ -1,5 +1,14 @@
 ---
 sidebar_position: 12
+title: L'organigramme 
+description: L'organigramme de l'asosciation
+keywords:
+  - organigramme
+  - structure
+  - Comité d'administration
+  - photographes
+  - leaders de collectif
+  - bureau de l'association
 ---
 
 # L'organigramme

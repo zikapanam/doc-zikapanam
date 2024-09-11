@@ -1,5 +1,12 @@
 ---
 sidebar_position: 7
+title: Participer à une rencontre 
+description: Comment participer à une rencontre
+keywords:
+  - rencontre
+  - musique
+  - participer
+  - les types de rencontres
 ---
 # Participer à une rencontre
 

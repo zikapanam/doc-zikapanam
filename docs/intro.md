@@ -1,5 +1,13 @@
 ---
 sidebar_position: 1
+title: Zikapanam c'est quoi
+description: Présentation de l'association, qui peut s'inscrire, où ainsi que les réseaux sociaux et la liste des collectifs 
+keywords:
+  - collectifs
+  - réseaux sociaux
+  - présentation
+  - lieux
+  - styles de musique
 ---
 
 # Zikapanam, c'est quoi ?

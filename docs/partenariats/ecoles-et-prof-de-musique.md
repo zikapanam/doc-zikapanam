@@ -1,5 +1,11 @@
 ---
 sidebar_position: 2
+title: Écoles et professeurs de musique 
+description: La volonté pour l'association de s'associer au écoles de musique et aux professeurs de musique indépendants.
+keywords:
+  - école de musique
+  - professeur de musique
+  - partenariat
 ---
 # Écoles et professeurs de musique
 

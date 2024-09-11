@@ -1,5 +1,13 @@
 ---
 sidebar_position: 4
+title: Organiser une soirée 
+description: Les trucs et astuces pour organiser une soirée concert ou jams dans un lieu public.
+keywords:
+  - organisation
+  - soirée
+  - concert
+  - jam
+  - lieu public
 ---
 # Organiser une soirée
 

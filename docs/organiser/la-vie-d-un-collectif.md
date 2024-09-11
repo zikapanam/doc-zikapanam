@@ -1,5 +1,12 @@
 ---
 sidebar_position: 2
+title: La vie d'un collectif
+description: Organisation d'un collectifs, ses  buts et ses membres clés.
+keywords:
+  - collectif
+  - organisation
+  - structure
+  - leaders
 ---
 # La vie d'un collectif
 

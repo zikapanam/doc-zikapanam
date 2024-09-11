@@ -1,5 +1,12 @@
 ---
 sidebar_position: 3
+title: Lineup satellite 
+description: Les lineups satellites, leur organisation, leurs buts et le rôle de son référent.
+keywords:
+  - lineup
+  - satellite
+  - référent
+  - groupe conventionnel
 ---
 # Lineup satellite
 
