@@ -11,17 +11,30 @@ keywords:
   - scènes ouvertes
   - concerts
   - rencontres sans instruments
+  - groupe whatsapp
 ---
 
 # Tous les calendriers
 
 ## Agenda public : Concerts / Jams / Scènes Ouvertes
 
+### Réseaux sociaux
+
 Nous sommes sur keskonfai et facebook. Tous nos événements publics y sont inscrits, on y partage aussi des photos, des informations, etc. :
 
 - Agenda Keskonfai éthique (pas de compte nécessaire) : **[Agenda Keskonfai](https://keskonfai.fr/@asso_zikapanam/events)**.
 
 - Agenda Meta avec pub : **[Agenda Facebook](https://www.facebook.com/assozikapanam/events)**.
+
+### Messagerie WhatsApp
+
+Si vous êtes intéressés par des styles de jams bien précis, on vous propose de vous abonner à ces groupes WhatsApp. Ces groupes sont en lecture seule. Seul les admins peuvent y publier pour vous communiquer les prochaines dates de jams publics.
+
+En cliquant sur les liens ci-dessous, vous y serez automatiquement abonné si vous êtes connecté à WhatsApp. Vous pourrez vous désabonner à tout instant. Cliquez sur "infos de groupe" une fois dans le groupe pour avoir son descriptif.
+
+- [jam jazz/funk](https://chat.whatsapp.com/HPRbxwqykT1A5ilZoSG5iw)
+- [jam Blues](https://chat.whatsapp.com/I0RFrxuxsQmDqymmkYlqOK)
+- [jam Vamp au sablier](https://chat.whatsapp.com/EJ6ridRew8Y3jQucodVudc)
 
 ## Rencontres
 
