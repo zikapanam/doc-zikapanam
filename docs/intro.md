@@ -73,7 +73,7 @@ Les collectifs Blues et Groove de l'année dernière se sont réorganisés en li
 À ce jour, ces collectifs sont en place :
 - Collectif Repassez-moi le standard ! (Jazz - Fred_Ble) [Présentation](https://discord.com/channels/1038909359712895058/1221022482270650399/1221022482270650399) .
 - Collectif Vulfans (Reprises de Vulfpeck - Yoann_All)  ;
-- Collectif Jams & lineups Metal/Hard Rock ( Laurent_Sch)[Présentation](https://discord.com/channels/1038909359712895058/1279158092994445445) 
+- Collectif Jams & lineups du Rock au Métal ( Laurent_Sch)[Présentation](https://discord.com/channels/1038909359712895058/1279158092994445445) 
 
 Nous aimerions qu'un collectif Blues soit créé sur le même modèle que le collectif Jazz ci-dessus. L'idée de ce collectif serait d'organiser des sessions jams régulières sur ce style avec des lineups éphémères.
 
