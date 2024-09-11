@@ -69,7 +69,16 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/zikapanam.png',
-      navbar: {
+      metadata: [
+        {
+          name: 'description',
+          content: '🎶 Zikapanam | La musique, ensemble ! 🎸 🎤 Jams, répètes, scènes ouvertes & concerts 🎵 Du jazz au métal, de la musique trad à celle de chambre 📍 Paris & petite couronne 🤝 Rejoins-nous'
+        },
+        {
+          name: 'keywords',
+          content: 'musique,musiciens,jams,répétitions,scènes ouvertes,concerts'
+        }
+      ], navbar: {
         title: 'Association Zikapanam',
         logo: {
           alt: 'Zikapanam logo',
