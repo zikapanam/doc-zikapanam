@@ -40,7 +40,7 @@ La cotisation se fait à partir de cette adresse internet : https://auth.helloa
 
 ## Rencontres à venir ?
 
-Les rencontres sont des meeting IRL en petit comité avec ou sans instrument. (jams / karaokés s/ rencontres amicales sans instrument) À cette adresse internet, vous trouverez les agendas partagés de l'association : https://doc.zikapanam.fr/docs/calendriers .
+Les rencontres sont des meeting IRL en petit comité avec ou sans instrument. (jams / karaokés / rencontres amicales sans instrument) À cette adresse internet, vous trouverez les agendas partagés de l'association : https://doc.zikapanam.fr/docs/calendriers .
 
 ## Événements à venir ?
 
