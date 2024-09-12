@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 title: Découverte de Discord 
 description: La découverte de Discord
 keywords:

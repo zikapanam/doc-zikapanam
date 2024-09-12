@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 title: Participer à une rencontre 
 description: Comment participer à une rencontre
 keywords:

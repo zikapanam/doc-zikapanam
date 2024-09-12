@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 17
 title: Exemples de formations musicales 
 description: Présentation de quelques lineups de l'asosciation
 keywords:

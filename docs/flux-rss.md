@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+sidebar_position: 19
 title: Flux RSS & Newsletter
 description: Les flux RSS et l'accès à l'inscription à la newsletter de l'asosciation
 keywords:

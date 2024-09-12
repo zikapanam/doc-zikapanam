@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: Mindmap / Vue d'ensemble 
 description: La mindmap de l'asosciation qui présente une vue d'ensemble.
 keywords:

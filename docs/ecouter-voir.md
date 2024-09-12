@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 18
 title: Écouter / voir ! 
 description: Écouter les membres de notre association en jamsostudio ou en concert / jams publics.
 keywords:
