@@ -16,7 +16,11 @@ keywords:
 
 ## Zikapanam, c'est quoi ?
 
-Zikapanam est une association qui promeut la musique amateure chez les adultes en mettant à disposition des outils pour mettre en relation ses membres et en proposant une messagerie communautaire grâce à Discord qui permet d'organiser des rencontres jams ou karaoké ou sans instrument, en petit comité (en studio de répétition, dehors par beau temps, sur internet grâce à un ordinateur et une carte son, dans des bars ou lieux publics, ou dans un karaoké box) ou des événements publics de types concerts, jams ou scènes ouvertes. 
+Zikapanam est une association qui promeut la musique amateure chez les adultes en mettant à disposition des outils pour mettre en relation ses membres et en proposant une messagerie communautaire. 
+
+Elle utilise Discord pour organiser :
+- des rencontres jams ou karaoké ou sans instrument, en petit comité (en studio de répétition, dehors par beau temps, sur internet grâce à un ordinateur et une carte son, dans des bars ou lieux publics, ou dans un karaoké box) 
+- des événements publics de types concerts, jams ou scènes ouvertes. 
 
 Pour voir plus d'informations sur l'association :
 - son organisation, sa structure, son histoire : https://www.doc.zikapanam.fr/docs/intro/ ;
