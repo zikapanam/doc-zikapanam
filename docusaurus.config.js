@@ -79,7 +79,7 @@ const config = {
           content: 'musique,musiciens,jams,répétitions,scènes ouvertes,concerts'
         }
       ],
-      algolia: {
+/*      algolia: {
         // L'ID de l'application fourni par Algolia
         appId: 'K38URQ167Y',
 
@@ -111,7 +111,7 @@ const config = {
 
         //... autres paramètres de Algolia
       },
-      navbar: {
+  */    navbar: {
         title: 'Association Zikapanam',
         logo: {
           alt: 'Zikapanam logo',
