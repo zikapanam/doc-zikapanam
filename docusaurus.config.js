@@ -93,6 +93,16 @@ const config = {
           },
           {
             position: 'left',
+            label: 'FAQ',
+            href: '/docs/faq',
+          },
+	  {
+            position: 'left',
+            label: '➡️  Inscris-toi !',
+            href: '/docs/devenir-cotisant',
+          },
+          {
+            position: 'left',
             label: 'Témoignages',
             href: 'https://blog.zikapanam.fr/testimonials',
           },
