@@ -78,7 +78,40 @@ const config = {
           name: 'keywords',
           content: 'musique,musiciens,jams,répétitions,scènes ouvertes,concerts'
         }
-      ], navbar: {
+      ],
+      algolia: {
+        // L'ID de l'application fourni par Algolia
+        appId: 'K38URQ167Y',
+
+        // Clé d'API publique : il est possible de la committer en toute sécurité
+        apiKey: 'a1d2973732279ffa508861ab8ffdf8de',
+
+        indexName: 'DOC_ZIKAPANAM_INDEX',
+
+        // Facultatif : voir la section doc ci-dessous
+        contextualSearch: true,
+
+        // Facultatif : Spécifiez les domaines où la navigation doit se faire par window.location au lieu de history.push. Utile lorsque notre configuration Algolia explore plusieurs sites de documentation et que nous voulons naviguer vers eux avec window.location.href.
+        //externalUrlRegex: 'external\\.com|domain\\.com',
+
+        // // Facultatif : Remplace certaines parties des URL des éléments d'Algolia. Utile lorsque vous utilisez le même index de recherche pour de multiples déploiements en utilisant une Url de base différente. Vous pouvez utiliser regexp ou string dans le paramètre `from`. Par exemple : localhost:3000 vs myCompany.com/docs
+        //replaceSearchResultPathname: {
+        //  from: '/docs/', // or as RegExp: /\/docs\//
+        //  to: '/',
+        //},
+
+        // Facultatif : paramètres de recherche de Algolia
+        searchParameters: {},
+
+        // Facultatif : chemin pour la page de recherche qui est activée par défaut (`false` pour le désactiver)
+        searchPagePath: 'search',
+
+        // Facultatif : si la fonctionnalité insights est activée ou non sur Docsearch (`false` par défaut)
+        //insights: false,
+
+        //... autres paramètres de Algolia
+      },
+      navbar: {
         title: 'Association Zikapanam',
         logo: {
           alt: 'Zikapanam logo',
@@ -96,7 +129,7 @@ const config = {
             label: 'FAQ',
             href: '/docs/faq',
           },
-	  {
+          {
             position: 'left',
             label: '➡️  Inscris-toi !',
             href: '/docs/devenir-cotisant',
