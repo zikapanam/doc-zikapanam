@@ -84,7 +84,7 @@ const config = {
         appId: 'K38URQ167Y',
 
         // Clé d'API publique : il est possible de la committer en toute sécurité
-        apiKey: 'a1d2973732279ffa508861ab8ffdf8de',
+        apiKey: '629e05106f658c69969cd23f82ccd39a',
 
         indexName: 'DOC_ZIKAPANAM_INDEX',
 
