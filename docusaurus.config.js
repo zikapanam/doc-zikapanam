@@ -79,14 +79,14 @@ const config = {
           content: 'musique,musiciens,jams,répétitions,scènes ouvertes,concerts'
         }
       ],
-/*      algolia: {
+      algolia: {
         // L'ID de l'application fourni par Algolia
-        appId: 'K38URQ167Y',
+        appId: 'Q3359CH7KA',
 
         // Clé d'API publique : il est possible de la committer en toute sécurité
-        apiKey: '629e05106f658c69969cd23f82ccd39a',
+        apiKey: '016769b2f6834357345a17834b9f0ee0',
 
-        indexName: 'DOC_ZIKAPANAM_INDEX',
+        indexName: 'zikapanam',
 
         // Facultatif : voir la section doc ci-dessous
         contextualSearch: true,
@@ -111,7 +111,7 @@ const config = {
 
         //... autres paramètres de Algolia
       },
-  */    navbar: {
+      navbar: {
         title: 'Association Zikapanam',
         logo: {
           alt: 'Zikapanam logo',
