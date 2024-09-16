@@ -76,7 +76,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::
 ### Les différents collectifs des avancés 🎆
 
-Les collectifs Blues et Groove de l'année dernière se sont réorganisés en lineups satellites pour la plupart. Les relations inter-lineups sont assurés par les dates de concerts communes grâce aux organisateurs d'événements et par le Bureau/CA.
+Il y a des lineups satellites Blues et Groove / Funk.
 
 À ce jour, ces collectifs sont en place :
 - Collectif Repassez-moi le standard ! (Jazz - Fred_Ble) [Présentation](https://discord.com/channels/1038909359712895058/1221022482270650399/1221022482270650399) .
