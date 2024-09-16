@@ -37,7 +37,9 @@ On parle de collectifs, lineups (au sein des collectifs) ou lineups satellites (
 
 L'association organise des soirées régulièrement et propose à ses cotisants de participer à des concerts, jams ou scènes ouvertes dans des lieux publics. Pour organiser ces événements, l'association dispose d'une bourse aux co-plateaux ou les référents de lineup et les leaders de collectifs peuvent inscrire leur(s) lineup(s) aux soirées proposées par les organisateurs de l'association selon les places disponibles et leurs disponibilités.
 
-## Rejoindre le Discord ?
+## Rejoindre la messagerie communautaire gratuite Discord ?
+
+Note : avant toute chose, il faut avoir créé un compte gratuit sur Discord.
 
 Pour rejoindre le Discord de l'association Zikapanam, cliquez sur https://www.blog.zikapanam.fr/invitation-discord .
 
@@ -61,11 +63,7 @@ Les événements sont des meeting dans des lieux avec musiciens et public. À c
 
 Il faut être cotisant. Il est conseillé de lire cette page : https://doc.zikapanam.fr/docs/organiser/organiser-une-rencontre .
 
-## Devenir leader de collectif ?
-
-Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de lire cetta page : https://doc.zikapanam.fr/docs/organiser/la-vie-d-un-collectif .
-
-## Devenir référent d'un lineup dans un collectif ?
+## Devenir leader de collectif ou référent ?
 
 Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de lire cetta page : https://doc.zikapanam.fr/docs/organiser/la-vie-d-un-collectif .
 
