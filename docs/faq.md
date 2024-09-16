@@ -26,6 +26,17 @@ Pour voir plus d'informations sur l'association :
 - son organisation, sa structure, son histoire : https://www.doc.zikapanam.fr/docs/intro/ ;
 - son linktree (répertoire de liens) : https://linktr.ee/assozikapanam .
 
+
+## Comment ça s'organise ?
+
+L'association Zikapanam s'organise de façon complètement bénévole. 
+
+Des membres cotisants prennent le lead pour organiser des groupes de musiciens voir des collectifs dans les styles de musique qu'ils souhaitent. 
+
+On parle de collectifs, lineups (au sein des collectifs) ou lineups satellites (lineups indépendants des collectifs).
+
+L'association organise des soirées régulièrement et propose à ses cotisants de participer à des concerts, jams ou scènes ouvertes dans des lieux publics. Pour organiser ces événements, l'association dispose d'une bourse aux co-plateaux ou les référents de lineup et les leaders de collectifs peuvent inscrire leur(s) lineup(s) aux soirées proposées par les organisateurs de l'association selon les places disponibles et leurs disponibilités.
+
 ## Rejoindre le Discord ?
 
 Pour rejoindre le Discord de l'association Zikapanam, cliquez sur https://www.blog.zikapanam.fr/invitation-discord .
