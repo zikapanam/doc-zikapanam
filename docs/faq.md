@@ -41,7 +41,7 @@ L'association organise des soirées régulièrement et propose à ses cotisants 
 
 Note : avant toute chose, il faut avoir créé un compte gratuit sur Discord.
 
-Pour rejoindre le Discord de l'association Zikapanam, cliquez sur https://www.blog.zikapanam.fr/invitation-discord .
+Pour rejoindre le Discord de l'association Zikapanam, cliquez simplement sur https://www.blog.zikapanam.fr/invitation-discord .
 
 ## Comment m'inscrire ?
 
