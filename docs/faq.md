@@ -30,7 +30,7 @@ Pour voir plus d'informations sur l'association :
 
 Une jam est une rencontre entre musiciens sur scène ou dans un studio de répétition ou un autre lieu sur un ou plusieurs morceaux la plupart du temps des reprises ou des impros spontanées. Ces jams peuvent être préparées (on convient d'une liste de morceaux sur lesquels improviser les arrangements et solos à l'avance) ou non préparées (on convient des idées à développer lors de la jam session).
 
-Les jams public dans l'asso se déroulent souvent après les concerts. Checkez [l'agenda public](https://doc.zikapanam.fr/docs/calendriers) et guêtez le terme JAM dans le titre et dans la description de l'événement public. Ces soirées accueillent sur scène des groupes éphémères constitués par les musiciens volontaires/bénévoles dans la salle. 
+Les jams publics dans l'asso se déroulent souvent après les concerts. Checkez [l'agenda public](https://doc.zikapanam.fr/docs/calendriers) et guêtez le terme JAM dans le titre et dans la description de l'événement public. Ces soirées accueillent sur scène des groupes éphémères constitués par les musiciens volontaires/bénévoles dans la salle. 
 
 ## Comment ça s'organise ?
 
