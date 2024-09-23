@@ -100,8 +100,8 @@ Les leaders ainsi que leur(s) collectif(s) sont rappelés là :
 
 ## Les photographes
 
-Nos photographes sont pour la plupart amateurs et surtout bénévoles et sont au nombre de 5 à nous avoir rejoint.
-Ils couvrent la plupart de nos événements selon leurs disponibilités et permettent à notre association d'avoir de la matière pour alimenter principalement nos réseaux sociaux GAFAM et éthique (Fediverse).
+Nos photographes sont pour la plupart amateurs et surtout bénévoles et forment une équipe.
+Ils couvrent une partie de nos événements selon leurs disponibilités et permettent à notre association d'avoir de la matière pour alimenter principalement nos réseaux sociaux GAFAM et éthique (Fediverse).
 
 Leur vision artistique et l'appréciation de leurs œuvres par nos followers a un impact direct sur les interactions observées sur nos réseaux sociaux.
 
