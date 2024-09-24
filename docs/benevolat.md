@@ -30,7 +30,9 @@ Pour les missions en cours, [c'est par ici](https://www.jeveuxaider.gouv.fr/orga
 
 ## Recrutement permanent
 
-Les membres cotisants de notre association peuvent devenir [leader de collectif](/docs/organiser/la-vie-d-un-collectif) ou [référent dans un lineup](/docs/organiser/lineup-satellite).  Ces missions permettent aux musiciens de découvrir la gestion d'équipe et d'intérêts commun. La plupart des bénévoles qui s'engagent n'ont souvent pas d'expérience en la matière et apprennent sur le tas avec l'aide des autres bénévoles et du Bureau.
+Les membres cotisants de notre association peuvent devenir [leader de collectif](/docs/organiser/la-vie-d-un-collectif) ou [référent dans un lineup](/docs/organiser/lineup-satellite) ou [organisateur de rencontres](/docs/organiser/organiser-une-rencontre).  Ces missions permettent aux musiciens de découvrir la gestion d'équipe et d'intérêts commun. La plupart des bénévoles qui s'engagent n'ont souvent pas d'expérience en la matière et apprennent sur le tas avec l'aide des autres bénévoles et du Bureau.
+
+Nous accueillons également [des organisateurs d'événements](/docs/organiser/organiser-une-soiree) (concerts, jams et scènes ouvertes) si ils sont cotisants à l'asso.
 
 Nous avons très peu de déconvenues si on ramène aux nombres d'adhérents que nous avons. Ces missions durent minimum une saison (septemebre à juin) mais peuvent s'étaler sur plusieurs années ... Les projets peuvent évoluer, grandir ou changer, le leader ou référent est autonome sur ces décisions même si il peut demander de l'aide.
 
