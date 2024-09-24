@@ -1,6 +1,6 @@
 ---
 sidebar_position: 20
-title: Nos missions de bénévolat 
+title: /Bénévolat 
 description: Devenir bénévole dans l'association Zikapanam.
 keywords:
   - bénévolat

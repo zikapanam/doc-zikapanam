@@ -136,7 +136,7 @@ const config = {
           },
           {
             position: 'left',
-            label: '➡️  Bénévolat !',
+            label: '/Bénévolat !',
             href: '/docs/benevolat',
           },
           {
