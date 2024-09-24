@@ -136,6 +136,11 @@ const config = {
           },
           {
             position: 'left',
+            label: '➡️  Bénévolat !',
+            href: '/docs/benevolat',
+          },
+          {
+            position: 'left',
             label: 'Témoignages',
             href: 'https://blog.zikapanam.fr/testimonials',
           },
