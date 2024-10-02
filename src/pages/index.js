@@ -15,7 +15,13 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+🎶 Zikapanam | La musique, ensemble ! 🎸<br/>
+🎤 Jams, répètes, scènes ouvertes & concerts<br/>
+🎵 Du jazz au métal, de la musique trad à celle de chambre<br/>
+📍 Paris & petite couronne<br/>
+🤝 Rejoins-nous<br/>
+	</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -33,7 +39,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Découvrez l'association Zikapanam, une association de musiciens amateurs adultes qui organise des jams, répétitions, concerts, scène ouverte">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
