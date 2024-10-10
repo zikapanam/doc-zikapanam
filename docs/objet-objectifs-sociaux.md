@@ -27,7 +27,7 @@ L'association Zikapanam a pour objet d'organiser ou de participer à des rencont
 ## Les moyens
 - Les cotisations modiques
 - Ses bénévoles et leurs compétences humaines et techniques.
-- Les partenariats avec les pouvoirs publics (actuel et à venir)
+- Les partenariats avec des structures publics (actuel et à venir)
 - Le prêt de salles par les structures commerciales, associatives ou publics (actuel et à venir)
 
 ## Bénévoles et membres adhérents 
