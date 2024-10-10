@@ -7,9 +7,11 @@ keywords:
   - objet de l'association
   - statuts
   - objectifs sociaux
+  - intérêts générés
+  - moyens mis en oeuvre
 ---
 
-# Objet / Objectifs sociaux
+# Objectifs sociaux
 
 ## Objet
 
@@ -22,18 +24,17 @@ L'association Zikapanam a pour objet d'organiser ou de participer à des rencont
 - Entretenir la motivation pour la musique ;
 - Soutenir la création de collectifs et les organisateurs de rencontres.
 
-
 ## Les moyens
 - Les cotisations modiques
 - Ses bénévoles et leurs compétences humaines et techniques.
 - Les partenariats avec les pouvoirs publics (actuel et à venir)
-- Le prêt de salles par les entreprises commercial ou associative (actuel et à venir)
+- Le prêt de salles par les structures commerciales, associatives ou publics (actuel et à venir)
 
 ## Bénévoles et membres adhérents 
 
 En octobre 2024 :
 - 4 fondateurs ;
-- 206 musiciens cotisants dont 40 référents de lineup / 5 leaders de collectif / 30 organisateur de jams;
+- 206 musiciens cotisants dont 40 référents de lineup / 5 leaders de collectif / 30 organisateurs de jam;
 - 5 vidéastes bénvoles ;
 - 5 photographes bénévoles ;
 
