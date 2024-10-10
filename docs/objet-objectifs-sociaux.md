@@ -43,4 +43,6 @@ En octobre 2024 :
 En octobre 2024 :
 - environ 200 followers sur Instagram
 - plus de 300 followers sur Facebook
+- plus de 450 inscrits à la newsletter
 - presque 700 membres sur le Discord
+
