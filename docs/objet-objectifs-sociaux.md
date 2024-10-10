@@ -21,7 +21,7 @@ L'association Zikapanam a pour objet d'organiser ou de participer à des rencont
 
 - Rompre l'isolement des musiciens adultes amateurs en île de france y compris des plus modestes ;
 - Permettre l’intégration de personnes voulant améliorer leur français ;
-- Entretenir la motivation pour la musique ;
+- Entretenir la motivation pour la musique et générer du bien-être ;
 - Soutenir la création de collectifs et les organisateurs de rencontres.
 
 ## Les moyens
