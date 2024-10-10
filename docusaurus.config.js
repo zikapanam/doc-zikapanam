@@ -131,6 +131,11 @@ const config = {
           },
           {
             position: 'left',
+            label: 'Objectifs sociaux',
+            href: '/docs/objet-objectifs-sociaux',
+          },
+	  {
+            position: 'left',
             label: '➡️  Inscris-toi !',
             href: '/docs/devenir-cotisant',
           },

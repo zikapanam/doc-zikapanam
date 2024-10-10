@@ -15,7 +15,7 @@ keywords:
 
 ## Objet
 
-L'association Zikapanam a pour objet d'organiser ou de participer à des rencontres musicales avec ou sans public avec ou sans participation. 
+L'association Zikapanam a pour objet d'organiser ou de participer à des rencontres musicales avec ou sans public avec ou sans participation financière. 
 
 ## Objectifs sociaux
 
