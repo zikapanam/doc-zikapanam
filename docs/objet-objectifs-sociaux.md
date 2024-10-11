@@ -31,7 +31,7 @@ collectifs, concerts…)
 aucune discrimination de sexe, origine, religion, couleur de peau, profession…
 - Organiser des rencontres et des événements autour de la musique, avec ou sans public et avec ou
 sans participation financière mais sans but lucratif 
-- Proposer une cotisation mesurée afin de permettre l’accès au plus grand nombre et, pour ce faire,
+- Proposer une cotisation mesurée afin de permettre l’accès au plus grand nombre et, pour se faire,
 baser son action essentiellement sur le bénévolat, avec peut-être quelques membres permanents à
 terme
 
