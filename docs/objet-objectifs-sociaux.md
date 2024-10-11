@@ -19,10 +19,21 @@ L'association Zikapanam a pour objet d'organiser ou de participer à des rencont
 
 ## Objectifs sociaux
 
-- Rompre l'isolement des musiciens adultes amateurs en Île de France y compris des plus modestes ;
-- Permettre l’intégration de personnes voulant améliorer leur français ;
-- Entretenir la motivation pour la musique et générer du bien-être ;
-- Soutenir la création de collectifs et les organisateurs de rencontres.
+- Rompre l’isolement des musiciens adultes amateurs de tout âge d’Ile de France
+- Permettre l’accomplissement des musiciens au travers du développement de relations sociales et
+musicales
+- Accompagner et conforter les membres de l’association dans leurs prises d’initiatives pour
+développer des projets musicaux au sein de l’association. Ces projets peuvent viser à renforcer l’intérêt général de
+cette dernière (par exemple; concerts pour des oeuvres caritatives)
+- Accueillir les nouveaux arrivants en les intégrant aux projets musicaux de l’association (ateliers,
+collectifs, concerts…)
+- Partager, dans une ambiance bienveillante et conviviale, de la musique avec des personnes sans
+aucune discrimination de sexe, origine, religion, couleur de peau, profession…
+- Organiser des rencontres et des événements autour de la musique, avec ou sans public et avec ou
+sans participation financière mais sans but lucratif 
+- Proposer une cotisation mesurée afin de permettre l’accès au plus grand nombre et, pour ce faire,
+baser son action essentiellement sur le bénévolat, avec peut-être quelques membres permanents à
+terme
 
 ## Les moyens
 - Les cotisations modiques
