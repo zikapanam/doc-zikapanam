@@ -23,7 +23,7 @@ L'association Zikapanam a pour objet d'organiser ou de participer à des rencont
 - Permettre l’accomplissement des musiciens au travers du développement de relations sociales et
 musicales
 - Accompagner et conforter les membres de l’association dans leurs prises d’initiatives pour
-développer des projets musicaux au sein de l’association. Ces projets peuvent viser à renforcer l’intérêt général de
+développer des projets musicaux au sein de l’association. Ces projets peuvent notamment viser à renforcer l’intérêt général de
 cette dernière (par exemple; concerts pour des oeuvres caritatives)
 - Accueillir les nouveaux arrivants en les intégrant aux projets musicaux de l’association (ateliers,
 collectifs, concerts…)
