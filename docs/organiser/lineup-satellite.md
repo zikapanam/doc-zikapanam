@@ -32,7 +32,7 @@ L'usage de Discord sur une base régulière est aussi apprécié car vous serez 
 
 ## Recrutement
 
-Lorsque vous créez un lineup satellite, vous pouvez mettre une annonce Offre dans le forum **#petites-annonces-musiciens** de la forme suivante :
+Lorsque vous créez un lineup satellite, vous pouvez mettre une annonce Offre dans le forum **#petites-annonces-musiciens** (consultez le guide des posts de ce forum pour plus d'informations).de la forme suivante :
 
 :::note[exemple]
 
