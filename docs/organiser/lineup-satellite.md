@@ -32,7 +32,7 @@ L'usage de Discord sur une base régulière est aussi apprécié car vous serez 
 
 ## Recrutement
 
-Lorsque vous créez un lineup satellite, vous pouvez mettre un message dans le salon **#cherche-musiciens** de la forme suivante :
+Lorsque vous créez un lineup satellite, vous pouvez mettre une annonce dans le forum **#petites-annonces-musiciens** de la forme suivante :
 
 :::note[exemple]
 
