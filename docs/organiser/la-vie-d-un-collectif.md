@@ -55,7 +55,7 @@ Lorsque le collectif se crée ou même lorsqu’il est en rythme de croisière, 
 
 ### Sur Discord
 
-Dans ce but, le leader du collectif devra poster une annonce dans le forum **#petites-annonces-musiciens** (rond vert) avec une annonce du style :
+Dans ce but, le leader du collectif devra poster une annonce Offre dans le forum **#petites-annonces-musiciens** (rond vert) (consultez le guide des posts de ce forum pour plus d'informations) avec une annonce du style :
 
 :::note[exemple]
 

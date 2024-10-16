@@ -73,7 +73,7 @@ On accède aux rôles du membre sur sa fiche (clic gauche sur le pseudo ou appui
 
 La sélection des participants est à la charge unique de l’organisateur de la rencontre.
 
-Le recrutement lorsqu’il y a des postes non pourvus sur votre jam se fait sur le forum **#petites-annonces-musiciens** en indiquant le tag recrutement-jam et le ou les instruments recherchés. Vous pouvez aussi mentionner le rôle Discord de l'instrument ou des instruments qui vous intéressent.
+Le recrutement lorsqu’il y a des postes non pourvus sur votre jam se fait en mettant une annonce Offre sur le forum **#petites-annonces-musiciens** (rond vert) (consultez le guide des posts de ce forum pour plus d'informations).
 
 Le forum **#petites-annonces-musiciens** sert uniquement à recruter et pas à discuter des détails de la jam !!! Merci d'en tenir compte dans vos échanges pour éviter de spammer toute la communauté.
 
