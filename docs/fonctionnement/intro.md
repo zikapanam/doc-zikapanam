@@ -59,7 +59,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 ### Fiche des avancés 🎆
 :::info
 
-- **Niveau :** intermédiaires-avancés ou avancés ([Évaluer son niveau ?](/evaluer-son-niveau.md))
+- **Niveau :** intermédiaires-avancés ou avancés ([Évaluer son niveau ?](/fonctionnement/evaluer-son-niveau.md))
 - **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://www.blog.zikapanam.fr/invitation-discord)** <!-- https://discord.gg/Ad2EfNXPeB -->
 - **Email :** contact@zikapanam.fr
 - **Bento :** https://bento.me/AssoZikapanam
@@ -95,7 +95,7 @@ Nous aimerions qu'un collectif Blues soit créé sur le même modèle que le col
 ### Fiche des interdebs 😎
 :::info
 
-- **Niveau :** intermédiaire ou débutant ([Évaluer son niveau ?](/evaluer-son-niveau.md))
+- **Niveau :** intermédiaire ou débutant ([Évaluer son niveau ?](/fonctionnement/evaluer-son-niveau.md))
 - **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://www.blog.zikapanam.fr/invitation-discord)**
 - **Email :** contact@zikapanam.fr
 - **Bento :** https://bento.me/AssoZikapanam

@@ -29,16 +29,16 @@ Pour participer à ces rencontres, il faut être membre du collectif qui organis
 Il faut donc démarcher son leader et voir s'il peut vous satisfaire d'abord par un essai ou deux puis par une place de suppléant ou de titulaire. Ces deux derniers cas nécessitent d'être cotisant.
 
 Un calendrier des rencontres en collectif et ouvertes est disponible à cette adresse : 
-- [Calendrier Interdebs](/docs/calendriers#calendrier-interdebs)
-- [Calendrier Avancés](/docs/calendriers#calendrier-avanc%C3%A9s)
+- [Calendrier Interdebs](/docs/fonctionnement/calendriers#calendrier-interdebs)
+- [Calendrier Avancés](/docs/fonctionnement/calendriers#calendrier-avanc%C3%A9s)
 
 ### Les rencontres ouvertes
 
 Les rencontres ouvertes à tous les membres cotisants sont proposées par des organisateurs de rencontres pas forcément affiliés à un collectif. On parle de jams ou de karaokés.
 
 Un calendrier des rencontres en collectif et ouvertes est disponible à cette adresse : 
-- [Calendrier Interdebs](/docs/calendriers#calendrier-interdebs)
-- [Calendrier Avancés](/docs/calendriers#calendrier-avanc%C3%A9s)
+- [Calendrier Interdebs](/docs/fonctionnement/calendriers#calendrier-interdebs)
+- [Calendrier Avancés](/docs/fonctionnement/calendriers#calendrier-avanc%C3%A9s)
 
 
 ### Les événements publics
@@ -47,7 +47,7 @@ Les événements  publics sont souvent des jams sessions et/ou des scènes ouver
 
 Les événements publics sont partagés :
 - sur [Facebook](https://www.facebook.com/AssoZikapanam/events) 
-- ou alternativement sur [calendrier Concert / Jam / Scène Ouverte](/docs/calendriers#concerts--jams--scènes-ouvertes)
+- ou alternativement sur [calendrier Concert / Jam / Scène Ouverte](/docs/fonctionnement/calendriers#concerts--jams--scènes-ouvertes)
 
 ## Calendrier des rencontres
 

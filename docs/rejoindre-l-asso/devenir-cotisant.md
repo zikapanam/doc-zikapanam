@@ -39,7 +39,7 @@ Vous avez quatre options :
 
 ### Comment cotiser ?
 
-Pour cotiser, vous devez être connecté au serveur Discord de l'association et être inscrit à l'association (voir [ci-dessus](/docs/devenir-cotisant#linscription) ). Le formulaire de paiement est par ici : https://auth.helloasso.zikapanam.fr/auth/discord
+Pour cotiser, vous devez être connecté au serveur Discord de l'association et être inscrit à l'association (voir [ci-dessus](/docs/rejoindre-l-asso/devenir-cotisant#linscription) ). Le formulaire de paiement est par ici : https://auth.helloasso.zikapanam.fr/auth/discord
 
 :::warning
 

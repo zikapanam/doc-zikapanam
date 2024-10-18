@@ -39,8 +39,8 @@ Rendez-vous sur [Flux RSS & Newsletter](/docs/flux-rss) pour tout savoir sur l'a
 
 :::tip
 
-- Fiche de la communauté **[Avancés 🎆](/docs/intro#communaut%C3%A9-des-avanc%C3%A9s-)**
+- Fiche de la communauté **[Avancés 🎆](/docs/fonctionnement/intro#communaut%C3%A9-des-avanc%C3%A9s-)**
 
-- Fiche de la communauté **[Interdebs 😎](/docs/intro#communaut%C3%A9-des-interdebs-)**
+- Fiche de la communauté **[Interdebs 😎](/docs/fonctionnement/intro#communaut%C3%A9-des-interdebs-)**
 
 :::

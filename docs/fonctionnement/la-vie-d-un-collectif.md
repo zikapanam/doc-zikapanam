@@ -92,7 +92,7 @@ Pour Paris, il y a deux groupes Facebook :
 - [Recherche Musiciens Paris](https://www.facebook.com/groups/399679186891645/?mibextid=oMANbw)
 - [Musiciens de Paris](https://www.facebook.com/groups/musiciensdeparis/?mibextid=oMANbw)
 
-N'hésitez pas à lire le document [Organiser une jam](/docs/organiser/organiser-une-rencontre.md) pour savoir comment remplir/réserver au mieux votre première rencontre dans votre collectif ainsi que les suivantes !
+N'hésitez pas à lire le document [Organiser une jam](/docs/fonctionnement/organiser-une-rencontre.md) pour savoir comment remplir/réserver au mieux votre première rencontre dans votre collectif ainsi que les suivantes !
 
 ## Communiquer avec son collectif
 

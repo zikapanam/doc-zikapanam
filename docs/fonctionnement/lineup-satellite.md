@@ -58,4 +58,4 @@ Un lineup satellite peut discuter grâce aux groupes de messages privés sur Dis
 
 ## Lecture complémentaire
 
-N'hésitez pas à lire [la vie d'un collectif](/docs/organiser/la-vie-d-un-collectif)
+N'hésitez pas à lire [la vie d'un collectif](/docs/fonctionnement/la-vie-d-un-collectif)

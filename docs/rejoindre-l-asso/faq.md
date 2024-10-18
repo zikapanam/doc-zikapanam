@@ -30,7 +30,7 @@ Pour voir plus d'informations sur l'association :
 
 Une jam est une rencontre entre musiciens sur scène ou dans un studio de répétition ou un autre lieu sur un ou plusieurs morceaux la plupart du temps des reprises ou des impros spontanées. Ces jams peuvent être préparées (on convient d'une liste de morceaux sur lesquels improviser les arrangements et solos à l'avance) ou non préparées (on convient des idées à développer lors de la jam session).
 
-Les jams publics dans l'asso se déroulent souvent après les concerts. Checkez [l'agenda public](https://doc.zikapanam.fr/docs/calendriers) et guêtez le terme JAM dans le titre et dans la description de l'événement public. Ces soirées accueillent sur scène des groupes éphémères constitués par les musiciens volontaires/bénévoles dans la salle. 
+Les jams publics dans l'asso se déroulent souvent après les concerts. Checkez [l'agenda public](/docs/fonctionnement/calendriers) et guêtez le terme JAM dans le titre et dans la description de l'événement public. Ces soirées accueillent sur scène des groupes éphémères constitués par les musiciens volontaires/bénévoles dans la salle. 
 
 ## Comment ça s'organise ?
 
@@ -50,28 +50,28 @@ Pour rejoindre le Discord de l'association Zikapanam, cliquez simplement sur htt
 
 ## Comment m'inscrire ?
 
-L'inscription se fait à partir de cette adresse internet : https://auth.fillout.zikapanam.fr/auth/discord . Il faut être connecté au serveur Discord de notre association. Mais auparavant, il est conseillé de lire cette page : https://doc.zikapanam.fr/docs/devenir-cotisant .
+L'inscription se fait à partir de cette adresse internet : https://auth.fillout.zikapanam.fr/auth/discord . Il faut être connecté au serveur Discord de notre association. Mais auparavant, il est conseillé de lire cette page : https://doc.zikapanam.fr/docs/rejoindre-l-asso/devenir-cotisant .
 
 ## Comment cotiser ?
 
-La cotisation se fait à partir de cette adresse internet : https://auth.helloasso.zikapanam.fr/auth/discord  mais auparavant il est conseillé de lire cette page : https://doc.zikapanam.fr/docs/devenir-cotisant .
+La cotisation se fait à partir de cette adresse internet : https://auth.helloasso.zikapanam.fr/auth/discord  mais auparavant il est conseillé de lire cette page : https://doc.zikapanam.fr/docs/rejoindre-l-asso/devenir-cotisant .
 
 ## Rencontres à venir ?
 
-Les rencontres sont des meeting IRL en petit comité avec ou sans instrument. (jams / karaokés / rencontres amicales sans instrument) À cette adresse internet, vous trouverez les agendas partagés de l'association : https://doc.zikapanam.fr/docs/calendriers .
+Les rencontres sont des meeting IRL en petit comité avec ou sans instrument. (jams / karaokés / rencontres amicales sans instrument) À cette adresse internet, vous trouverez les agendas partagés de l'association : https://doc.zikapanam.fr/docs/fonctionnement/calendriers .
 
 ## Événements à venir ?
 
-Les événements sont des meeting dans des lieux avec musiciens et public. À cette adresse internet, vous trouverez les agendas partagés de l'association : https://doc.zikapanam.fr/docs/calendriers .
+Les événements sont des meeting dans des lieux avec musiciens et public. À cette adresse internet, vous trouverez [les agendas partagés de l'association](/docs/fonctionnement/calendriers) .
 
 ## Organiser une jam ?
 
-Il faut être cotisant. Il est conseillé de lire cette page : https://doc.zikapanam.fr/docs/organiser/organiser-une-rencontre .
+Il faut être cotisant. Il est conseillé de [lire cette page](/docs/fonctionnement/organiser-une-rencontre) .
 
 ## Devenir leader de collectif ou référent ?
 
-Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de lire cetta page : https://doc.zikapanam.fr/docs/organiser/la-vie-d-un-collectif .
+Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de [lire cetta page](/docs/fonctionnement/la-vie-d-un-collectif) .
 
 ## Devenir référent d'un lineup satellite ?
 
-Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de lire cetta page : https://doc.zikapanam.fr/docs/organiser/lineup-satellite .
+Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de [lire cetta page](/docs/fonctionnement/lineup-satellite) .

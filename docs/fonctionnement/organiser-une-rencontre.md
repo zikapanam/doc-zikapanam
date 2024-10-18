@@ -36,7 +36,7 @@ Les rencontres sont postées grâce à un formulaire internet assez simple à ut
 
 Le bot Discord envoie des rappels deux semaines avant pour vous inviter à préparer la rencontre, une semaine avant pour que vous confirmiez votre participation et deux heures avant pour vous demander de vous y rendre ainsi que pour la réalisation de l’événement c’est-à-dire établir la liste des présents et des absents dans le fil de discussion associé à votre rencontre (message Discord).
 
-Référez-vous à cet article pour savoir [comment vous inscrire à une rencontre et comment consulter l'agenda des rencontres](/docs/participer-a-une-rencontre)
+Référez-vous à cet article pour savoir [comment vous inscrire à une rencontre et comment consulter l'agenda des rencontres](/docs/fonctionnement/participer-a-une-rencontre)
 
 ### Discussions sur un fil public
 
