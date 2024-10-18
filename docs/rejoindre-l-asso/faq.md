@@ -23,7 +23,8 @@ Elle utilise Discord pour organiser :
 - des événements publics de types concerts, jams ou scènes ouvertes. 
 
 Pour voir plus d'informations sur l'association :
-- son organisation, sa structure, son histoire : https://www.doc.zikapanam.fr/docs/intro/ ;
+- son fonctionnement : https://doc.zikapanam.fr/docs/fonctionnement/intro ;
+- comment rejoindre l'asso et pour quels objectifs : https://doc.zikapanam.fr/docs/rejoindre-l-asso/objet-objectifs-sociaux ;
 - son linktree (répertoire de liens) : https://linktr.ee/assozikapanam .
 
 ## Qu'est-ce qu'une jam ?
