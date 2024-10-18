@@ -46,7 +46,7 @@ terme
 En octobre 2024 :
 - 4 fondateurs ;
 - 206 musiciens cotisants dont 40 référents de lineup / 5 leaders de collectif / 30 organisateurs de jam;
-- 5 vidéastes bénvoles ;
+- 5 vidéastes bénévoles ;
 - 5 photographes bénévoles ;
 
 ## Intérêt généré
