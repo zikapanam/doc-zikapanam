@@ -40,4 +40,4 @@ Les outils et les facilités que nous proposoons au sein de l'asso font qu'elle 
 
 ## Galeries
 
-[Accès à la galerie des photographes](/docs/fonctionnement/organigramme#les-photographes)
+[Accès à la galerie des photographes](/docs/rejoindre-l-asso/organigramme#les-photographes)

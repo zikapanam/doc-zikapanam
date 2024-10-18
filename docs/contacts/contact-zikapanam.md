@@ -33,7 +33,7 @@ keywords:
 
 :::info
 
-Rendez-vous sur [Flux RSS & Newsletter](/docs/flux-rss) pour tout savoir sur l'asso Zikapanam !
+Rendez-vous sur [Flux RSS & Newsletter](/docs/contacts/flux-rss) pour tout savoir sur l'asso Zikapanam !
 
 :::
 
