@@ -71,8 +71,8 @@ Il faut être cotisant. Il est conseillé de [lire cette page](/docs/fonctionnem
 
 ## Devenir leader de collectif ou référent ?
 
-Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de [lire cetta page](/docs/fonctionnement/la-vie-d-un-collectif) .
+Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de [lire cette page](/docs/fonctionnement/la-vie-d-un-collectif) .
 
 ## Devenir référent d'un lineup satellite ?
 
-Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de [lire cetta page](/docs/fonctionnement/lineup-satellite) .
+Il faut être cotisant, avoir un projet et parler de ce projet à @Laurent_Sch sur Discord. Auparavant, il est conseillé de [lire cette page](/docs/fonctionnement/lineup-satellite) .
