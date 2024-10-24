@@ -1,7 +1,7 @@
 ---
 id: calendriers-redirect
 title: Redirect
-slug: /docs/calendriers
+slug: calendriers
 ---
 
 <!-- Automatically redirect to the new page -->

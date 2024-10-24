@@ -1,7 +1,7 @@
 ---
 id: qu-est-ce-qu-une-rencontre-redirect
 title: Redirect
-slug: /docs/qu-est-ce-qu-une-rencontre
+slug: qu-est-ce-qu-une-rencontre
 ---
 
 <!-- Automatically redirect to the new page -->

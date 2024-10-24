@@ -1,7 +1,7 @@
 ---
 id: benevolat-redirect
 title: Redirect
-slug: /docs/benevolat
+slug: benevolat
 ---
 
 <!-- Automatically redirect to the new page -->

@@ -1,7 +1,7 @@
 ---
 id: intro-redirect
 title: Redirect
-slug: /docs/intro
+slug: intro
 ---
 
 <!-- Automatically redirect to the new page -->

@@ -1,7 +1,7 @@
 ---
 id: organiser-une-rencontre-redirect
 title: Redirect
-slug: /docs/organiser-une-rencontre
+slug: organiser-une-rencontre
 ---
 
 <!-- Automatically redirect to the new page -->

@@ -1,7 +1,7 @@
 ---
 id: objet-objectifs-sociaux-redirect
 title: Redirect
-slug: /docs/objet-objectifs-sociaux
+slug: objet-objectifs-sociaux
 ---
 
 <!-- Automatically redirect to the new page -->

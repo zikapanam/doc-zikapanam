@@ -1,7 +1,7 @@
 ---
 id: ecouter-voir-redirect
 title: Redirect
-slug: /docs/ecouter-voir
+slug: ecouter-voir
 ---
 
 <!-- Automatically redirect to the new page -->

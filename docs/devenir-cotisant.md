@@ -1,7 +1,7 @@
 ---
 id: devenir-cotisant-redirect
 title: Redirect
-slug: /docs/devenir-cotisant
+slug: devenir-cotisant
 ---
 
 <!-- Automatically redirect to the new page -->

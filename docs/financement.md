@@ -1,7 +1,7 @@
 ---
 id: financement-redirect
 title: Redirect
-slug: /docs/financement
+slug: financement
 ---
 
 <!-- Automatically redirect to the new page -->

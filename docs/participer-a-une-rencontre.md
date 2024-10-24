@@ -1,7 +1,7 @@
 ---
 id: participer-a-une-rencontre-redirect
 title: Redirect
-slug: /docs/participer-a-une-rencontre
+slug: participer-a-une-rencontre
 ---
 
 <!-- Automatically redirect to the new page -->

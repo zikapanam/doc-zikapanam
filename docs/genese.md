@@ -1,7 +1,7 @@
 ---
 id: genese-redirect
 title: Redirect
-slug: /docs/genese
+slug: genese
 ---
 
 <!-- Automatically redirect to the new page -->

@@ -1,7 +1,7 @@
 ---
 id: evaluer-son-niveau-redirect
 title: Redirect
-slug: /docs/evaluer-son-niveau
+slug: evaluer-son-niveau
 ---
 
 <!-- Automatically redirect to the new page -->

@@ -1,7 +1,7 @@
 ---
 id: discord-redirect
 title: Redirect
-slug: /docs/fonctionnement/discord
+slug: fonctionnement/discord
 ---
 
 <!-- Automatically redirect to the new page -->

@@ -1,7 +1,7 @@
 ---
 id: organigramme-redirect
 title: Redirect
-slug: /docs/organigramme
+slug: organigramme
 ---
 
 <!-- Automatically redirect to the new page -->

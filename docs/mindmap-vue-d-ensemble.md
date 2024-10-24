@@ -1,7 +1,7 @@
 ---
 id: mindmap-vue-d-ensemble-redirect
 title: Redirect
-slug: /docs/mindmap-vue-d-ensemble
+slug: mindmap-vue-d-ensemble
 ---
 
 <!-- Automatically redirect to the new page -->

@@ -1,7 +1,7 @@
 ---
 id: faq-redirect
 title: Redirect
-slug: /docs/faq
+slug: faq
 ---
 
 <!-- Automatically redirect to the new page -->

@@ -1,7 +1,7 @@
 ---
 id: lineups-redirect
 title: Redirect
-slug: /docs/lineups
+slug: lineups
 ---
 
 <!-- Automatically redirect to the new page -->
