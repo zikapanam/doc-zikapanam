@@ -1,7 +1,7 @@
 ---
 id: organiser-une-soiree-redirect
 title: Redirect
-slug: organiser/organiser-une-soiree
+slug: organiser-une-soiree
 ---
 
 <!-- Automatically redirect to the new page -->

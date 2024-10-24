@@ -1,7 +1,7 @@
 ---
 id: lineup-satellite-redirect
 title: Redirect
-slug: organiser/lineup-satellite
+slug: lineup-satellite
 ---
 
 <!-- Automatically redirect to the new page -->

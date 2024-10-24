@@ -1,7 +1,7 @@
 ---
 id: la-vie-d-un-collectif-redirect
 title: Redirect
-slug: organiser/la-vie-d-un-collectif
+slug: la-vie-d-un-collectif
 ---
 
 <!-- Automatically redirect to the new page -->
