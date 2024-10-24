@@ -1,6 +1,6 @@
 ---
 id: intro-redirect
-title: Redirect
+title: intro
 slug: intro
-redirect: fonctionnement/intro
+redirect: /docs/fonctionnement/intro
 ---
