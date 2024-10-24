@@ -1,0 +1,10 @@
+---
+id: ecouter-voir-redirect
+title: Redirect
+slug: /docs/ecouter-voir
+---
+
+<!-- Automatically redirect to the new page -->
+<meta http-equiv="refresh" content="0; url=/docs/projets-de-l-asso/ecouter-voir" />
+
+If you are not redirected, [click here](/docs/projets-de-l-asso/ecouter-voir).
