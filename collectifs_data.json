@@ -6,7 +6,7 @@
             "JeanneCharlotte_Wat"
         ],
         "jam_description": "Session en collectif d' Ultra Heavy Riffs. Plus d'infos là : https://discord.com/channels/1038909359712895058/1114881913430216865/1114881913430216865\n\n",
-        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730368800000/CWgeP96taRjCcFsta7GBkw/JJjlGCDkr46j2k_lHvZ9NqLJxfBZ9-aAcsNhhgnWEWuqe4rE7eM3sNImlxxmrISua2K1d173jt3CsSQ8OxG6ziD_ZWWCgiWSLkQWoWb6uhmvLWdKVWQScm3g4fnWvVjoIg_GpZD8gXXPjNbisw-dUA/8tXZB7xPXQJHsgXbF3MDPEh3zmbTsG2cnJw0SgugyUI",
+        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730376000000/CC9FRmmGfnFbzY8s8MNJww/JW2nbDx10ObQRKCP1rj6zpH1qjpMdN38BCBA4uSzrdKvlrr7tEPEgKLy1AjcF7BHFWxksaax3aKDzUew0FldfEiy5aBzz4Eg80o9nBCIYp6PurFA835HbdiYeL1Vk67jG0ZBIHXJ8mCJQq_jskw6Rg/ODK563tYMtIVIHZ_1hf8qrQtx9_PDdNGp6l-QypKQq0",
         "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1052703682799599666/1052703682799599666",
         "lineups": [
             {
@@ -164,7 +164,7 @@
             "PierreHenri_Nod"
         ],
         "jam_description": "Collectif orienté Groove : Funk / Soul\nQutre lines up:\n- Rive Droite géré par Manon\n- Rive Gauche géré par Mohamed\n- The Third géré par Pierre-Henri\n- The Fourth géré par Naya",
-        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730368800000/qskAy0GvW3xxYzIuKekkWA/w3IxhJIWual2Aza9HHmkipNPZJvOmkcsaUVQeOFRVrkcB_CHMxg3QEZsN3oHpz9A5ZcTlKz-vmCsfKJGHguREH6Cza7MJCTeSTdFyJVhFojroUnAkGl8Xrr_kXp1EInlmo7s_yqF64Bj9aiaUMGBXN5_KsYnoiyxPAviTsEpkJQ/G4RCkLrt7FTBkGe18UzhHQaq6tHPEi4f9b6E_cB4xvo",
+        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730376000000/6T88CzKvUV1A-94-Bs38xA/1vRwJ4fgKjpRVLZNpBC2rsQ-AgwyswQP33pmgkiUVt5psg4SALv5h97Sj0a8m9F0bHe5Rbt6zxNMTEjt3PzZPx-nrVcMmKfWZo1K_5o1WNobvoO3W_nTXeb3q1VcwACnhvEEVNcF24eaKA1pXdTkQpSWlpc-k5FUlCctAhZEBTA/CV2sXO3wwbtjhJdASC2DJ8KCfbFKWv3ZE7E-WZAN5MY",
         "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1131556262530793482/1131556262530793482",
         "lineups": [
             {
@@ -338,16 +338,6 @@
                 "description": null
             },
             {
-                "intitule_long": "Musique Blues",
-                "intitule_court": "ZIC Blues",
-                "referent_pseudo_zap": "Philippe_Bar",
-                "style_musique": [
-                    "Blues"
-                ],
-                "phrase_accroche": null,
-                "description": "\nConcept : travailler des standards du blues avec 4 ou 5 morceaux maximum par session ; morceaux qui peuvent être les mêmes d'une session sur l'autre si nécessaire. Favoriser l’improvisation lors de JAM une fois que les morceaux seront maîtrisés.\n\n🎶 Styles abordés : Blues @style-blues . Chicago blues, Memphis blues, Delta blues (par exemple : Little Walter, Muddy Waters, Howlin Wolf, John lee Hoocker, B. B. King, Sonny Terry, etc…). Mais aussi plus contemporain avec des artistes comme Paul Butterfield, Charlie Musselwhite, Rolling Stones, David Bowie, Eric Clapton. Et également des artistes français comme Paul Personne, Bill Deraime.\n"
-            },
-            {
                 "intitule_long": "High Five",
                 "intitule_court": "iFive",
                 "referent_pseudo_zap": "Quentin_Nou",
@@ -443,6 +433,16 @@
                 ],
                 "phrase_accroche": null,
                 "description": " Du Blues roots du delta au blues revival, en passant par le Chicago blues, nous voulons faire vibrer toutes les nuances de bleu que nous pourrons arracher à nos instruments!"
+            },
+            {
+                "intitule_long": "Musique Blues",
+                "intitule_court": "ZIC Blues",
+                "referent_pseudo_zap": "Philippe_Bar",
+                "style_musique": [
+                    "Blues"
+                ],
+                "phrase_accroche": null,
+                "description": "\nConcept : travailler des standards du blues avec 4 ou 5 morceaux maximum par session ; morceaux qui peuvent être les mêmes d'une session sur l'autre si nécessaire. Favoriser l’improvisation lors de JAM une fois que les morceaux seront maîtrisés.\n\n🎶 Styles abordés : Blues @style-blues . Chicago blues, Memphis blues, Delta blues (par exemple : Little Walter, Muddy Waters, Howlin Wolf, John lee Hoocker, B. B. King, Sonny Terry, etc…). Mais aussi plus contemporain avec des artistes comme Paul Butterfield, Charlie Musselwhite, Rolling Stones, David Bowie, Eric Clapton. Et également des artistes français comme Paul Personne, Bill Deraime.\n"
             }
         ]
     },
@@ -464,7 +464,7 @@
             "Alex_Aff"
         ],
         "jam_description": "Se constituer un répertoire funky et variée d'environ 25 chansons, principalement des années 60 a 70 pour être en capacité à participer à des concerts de l’association.\n\nEn studio, nous travaillererons sur 3 à 5 morceaux à chaque séance.  Lors de la séance suivante, on interprète les morceaux precedents en mode filage puis on travaille 3 à 5 autres morceaux.\n",
-        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730368800000/nXRKRrpU3uOM4DWgTzP9DQ/UAkCX4Tu0nmrqhY_-SZU1U6t4zNBBP6TBVfI5jRMM8lY0PbjMFC-2ur-FL6Rmb8vBQ_MU7kqd3nF9B5oRomAALTL8v0FDT1h6HTzjwM6V6AuesmiUyMKdAZxAnyeogofxuqu4zQ52vJajkmkrKkYynvPQYEmwlEBEiNCbyxXH18/98o_eZdmXrgTAXJFqXLu-IDByPPq6j0ivKKMzL8NnS0",
+        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730376000000/wGzhLt5TUYkR2Xro4LQFQw/jwkaXx03v_LT0Gpo3bQ4wjoDN8Hq2LWUt8i5ikToIytNnpF5Y1Gdc_YyozcKUr_HUKFYpZ2xy9W3Fb3KA8ASsQSrsrp7RorwMbykxk0APMjzkZiDOyR4r21N4r2NetlHbkYpz6dU2VIDIpZOqsNLPVvgY2cFAEoCxo2-ixa0MQs/9Le2MyrwCNgO81RlQilYLSLeKwtJRX13ZyzCTMsRsUg",
         "discord_presentation_url": "https://discord.com/channels/1038909359712895058/1301197831742292081/1301197831742292081",
         "lineups": []
     }
