@@ -149,6 +149,46 @@
         "recrutement_permanent": true,
         "lineups": [
             {
+                "intitule_long": null,
+                "intitule_court": "RMS 1",
+                "referent_pseudo_zap": "Fred_Ble",
+                "style_musique": null,
+                "phrase_accroche": null,
+                "description": null
+            },
+            {
+                "intitule_long": null,
+                "intitule_court": "RMS 3",
+                "referent_pseudo_zap": "Fred_Ble",
+                "style_musique": null,
+                "phrase_accroche": null,
+                "description": null
+            },
+            {
+                "intitule_long": null,
+                "intitule_court": "RMS 4",
+                "referent_pseudo_zap": "Fred_Ble",
+                "style_musique": null,
+                "phrase_accroche": null,
+                "description": null
+            },
+            {
+                "intitule_long": null,
+                "intitule_court": "RMS 5",
+                "referent_pseudo_zap": "Fred_Ble",
+                "style_musique": null,
+                "phrase_accroche": null,
+                "description": null
+            },
+            {
+                "intitule_long": null,
+                "intitule_court": "RMS 6",
+                "referent_pseudo_zap": "Fred_Ble",
+                "style_musique": null,
+                "phrase_accroche": null,
+                "description": null
+            },
+            {
                 "intitule_long": "Swing747 (RMS lineup 2)",
                 "intitule_court": "Swing 747",
                 "referent_pseudo_zap": "Xavier_Gue",
