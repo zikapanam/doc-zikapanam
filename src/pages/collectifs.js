@@ -85,6 +85,11 @@ const CollectifsPage = () => {
             <div key={index} id={`collectif-${collectif.intitule}`} style={{ marginBottom: '40px', paddingBottom: '20px', borderBottom: '1px solid #ccc' }}>
               <h3>{removeLinks(collectif.intitule)}</h3>
               {collectif.intitule_court && <h4>{removeLinks(collectif.intitule_court)}</h4>}
+              
+              {collectif.recrutement_permanent && (
+                <p className="recrutement-permanent">Recrutement permanent</p>
+              )}
+
               {collectif.jam_description && (
                 <div className="markdown-container">
                   <ReactMarkdown rehypePlugins={[rehypeRaw]}>{removeLinks(collectif.jam_description)}</ReactMarkdown>
@@ -117,7 +122,7 @@ const CollectifsPage = () => {
                         <div className="markdown-container">
                           <ReactMarkdown rehypePlugins={[rehypeRaw]}>{removeLinks(lineup.description)}</ReactMarkdown>
                         </div>
-                      )}                    
+                      )}
                     </li>
                   ))}
               </ul>

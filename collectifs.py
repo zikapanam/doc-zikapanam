@@ -47,6 +47,7 @@ def main():
             "jam_description": fields.get("Jam description"),
             "illustration_url": fields.get("Illustration", [{}])[0].get("url"),
             "discord_presentation_url": fields.get("discord_presentation_url"),
+            "recrutement_permanent": fields.get("Recrutement permanent", False),  # Champ ajoutée pour le recrutement permanent
             "lineups": []
         }
 
@@ -78,4 +79,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

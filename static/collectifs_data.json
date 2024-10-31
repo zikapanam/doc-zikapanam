@@ -8,6 +8,7 @@
         "jam_description": "Session en collectif d' Ultra Heavy Riffs. Plus d'infos là : https://discord.com/channels/1038909359712895058/1114881913430216865/1114881913430216865\n\n",
         "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730376000000/CC9FRmmGfnFbzY8s8MNJww/JW2nbDx10ObQRKCP1rj6zpH1qjpMdN38BCBA4uSzrdKvlrr7tEPEgKLy1AjcF7BHFWxksaax3aKDzUew0FldfEiy5aBzz4Eg80o9nBCIYp6PurFA835HbdiYeL1Vk67jG0ZBIHXJ8mCJQq_jskw6Rg/ODK563tYMtIVIHZ_1hf8qrQtx9_PDdNGp6l-QypKQq0",
         "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1052703682799599666/1052703682799599666",
+        "recrutement_permanent": false,
         "lineups": [
             {
                 "intitule_long": "Cowbo",
@@ -57,7 +58,7 @@
                     "Metal"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "PLUS FORT !!!"
             },
             {
                 "intitule_long": "Gung-Ho!",
@@ -68,7 +69,7 @@
                     "Metal"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Gung-Ho (ex-Headbangers) [Rock/Métal] veut dire littéralement plein d'énergie ! Le groupe offre une expérience qui revient à l'essence même du rock, avec de la sueur, du gros son et du chi à revendre !"
             },
             {
                 "intitule_long": "Mirage",
@@ -98,7 +99,7 @@
                     "Punk"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Pelvis [Punk] : est une formation punk rock minimaliste, ils ré-interprètent des standards rock avec une note plus énergique et entrainante ! Venez chanter et bouger avec eux !"
             }
         ]
     },
@@ -111,6 +112,7 @@
         "jam_description": "Le collectif Kosanga devient Akwaba et s’aggrandit !\n\n2 lineups à date :\n\nKosanga (afrobeat) et Kenté Groove (afrotrad)",
         "illustration_url": null,
         "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1092582664088850432/1092582664088850432",
+        "recrutement_permanent": false,
         "lineups": [
             {
                 "intitule_long": "Kosanga",
@@ -120,7 +122,7 @@
                     "Afrobeat"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Kosanga [Afrobeat] : une formation qui partagera avec vous une musique afrobeat qui met de bonne humeur et qui invite à l'ouverture ! "
             },
             {
                 "intitule_long": "Kenté Groove",
@@ -131,7 +133,7 @@
                     "Trad"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Kenté Groove joue un mix de musiques africaines plutôt traditionnelles (mandingue, cap-verdienne, rumba congolaise etc) et afro rock&blues anciennes."
             }
         ]
     },
@@ -144,16 +146,17 @@
         "jam_description": "🎯 But : travailler des standards de jazz\n\nConcept : travailler des standards de jazz avec le minimum d'erreurs, en soignant les débuts, enchainements et fins, en essayant de préparer ses chorus. 4/6 morceaux maximum par session, qui peuvent être les mêmes d'une session sur l'autre si nécessaire. L'objectif est d'arriver à en jouer proprement au moins une vingtaine dans l'année.\n\nhttps://discord.com/channels/1038909359712895058/1221022482270650399/1221022482270650399\n",
         "illustration_url": null,
         "discord_presentation_url": "https://discordapp.com/channels/893372971073277962/1122424995939889164/1122424995939889164",
+        "recrutement_permanent": true,
         "lineups": [
             {
-                "intitule_long": "Repassez-moi le standard lineup 2",
+                "intitule_long": "Swing747 (RMS lineup 2)",
                 "intitule_court": "Swing 747",
                 "referent_pseudo_zap": "Xavier_Gue",
                 "style_musique": [
                     "Jazz"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Swing747 est une formation du collectif Repassez-moi le standard [Jazz] dont l'objectif est de faire des concerts et éventuellement d'animer des jams."
             }
         ]
     },
@@ -166,6 +169,7 @@
         "jam_description": "Collectif orienté Groove : Funk / Soul\nQutre lines up:\n- Rive Droite géré par Manon\n- Rive Gauche géré par Mohamed\n- The Third géré par Pierre-Henri\n- The Fourth géré par Naya",
         "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730376000000/6T88CzKvUV1A-94-Bs38xA/1vRwJ4fgKjpRVLZNpBC2rsQ-AgwyswQP33pmgkiUVt5psg4SALv5h97Sj0a8m9F0bHe5Rbt6zxNMTEjt3PzZPx-nrVcMmKfWZo1K_5o1WNobvoO3W_nTXeb3q1VcwACnhvEEVNcF24eaKA1pXdTkQpSWlpc-k5FUlCctAhZEBTA/CV2sXO3wwbtjhJdASC2DJ8KCfbFKWv3ZE7E-WZAN5MY",
         "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1131556262530793482/1131556262530793482",
+        "recrutement_permanent": false,
         "lineups": [
             {
                 "intitule_long": "Soulstice",
@@ -176,7 +180,7 @@
                     "Funk"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Soulstice [Soul/Funk] : Avec leur look reconnaissable sur scène, cette formation soul/funk vous fera danser sur des standards soul et funk ! https://bento.me/soulstice-band"
             },
             {
                 "intitule_long": null,
@@ -196,7 +200,7 @@
                     "Groove"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Into the groove : the fourth !"
             },
             {
                 "intitule_long": null,
@@ -217,6 +221,7 @@
         "jam_description": null,
         "illustration_url": null,
         "discord_presentation_url": null,
+        "recrutement_permanent": false,
         "lineups": [
             {
                 "intitule_long": "Déso DJ",
@@ -249,7 +254,7 @@
                     "Rock"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Plongez dans l’énergie vibrante du son pop rock de PK 35"
             },
             {
                 "intitule_long": "Poot’s",
@@ -259,7 +264,7 @@
                     "Punk"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Poot’s [PunkRock] : reprises punk rocks : quand les plus douces chansons de l’enfance rencontrent fortuitement une pédale fuzz déréglée sur une table de dissection."
             },
             {
                 "intitule_long": "One Four Five",
@@ -312,7 +317,7 @@
                     "Rock"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "CoverSquaR |Rock] : reprises de titres rock avec les sons de clavier d'époque pour un retour immersif dans les tubes du genre des années 70 à 2000 !"
             },
             {
                 "intitule_long": "Mousquetaires",
@@ -323,7 +328,7 @@
                     "Latin"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Les mousquetaires [Jazz] : Des standards de jazz, de bossa… interprétés sans capes ni épées, mais avec feeling et bonne humeur par quatre énergumènes qui n’ont qu’un seul objectif: que vous preniez autant de plaisir à les écouter qu’eux à les jouer ! ( https://bento.me/mousquetaires-jazz )"
             },
             {
                 "intitule_long": "FREEBIRD",
@@ -335,7 +340,7 @@
                     "Rock"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "FREEBIRD [Folk/Blues/Rock] : une formation emmenée par deux chanteurs guitaristes aux voix exquises sur une musique folk, blues rock. https://bento.me/freebird"
             },
             {
                 "intitule_long": "High Five",
@@ -347,7 +352,7 @@
                     "Groove"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Hi Five ! Let's groove !"
             },
             {
                 "intitule_long": "Strawberry Jam",
@@ -381,7 +386,7 @@
                     "Rock"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "OLAPOP joue des reprises pop-rock qui savent accompagner tous les moments de la vie !"
             },
             {
                 "intitule_long": null,
@@ -400,7 +405,7 @@
                     "Pop"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Fearless Boppers [Jazz/PopJazz] : ils vous joueront leurs meilleurs standards et raviront vos oreilles !"
             },
             {
                 "intitule_long": "Maiden Voyage",
@@ -410,7 +415,7 @@
                     "Soul"
                 ],
                 "phrase_accroche": null,
-                "description": null
+                "description": "Maiden Voyage |Neo Soul] : une croisière sur la vague Neo soul, voiles aux vents des saxos, trompette et chants de sirènes, un voyage musical planant et épicé."
             }
         ]
     },
@@ -423,6 +428,7 @@
         "jam_description": "Prendre du plaisir en jouant du Blues. Travailler 4 ou 5 morceaux par session, en soignant l’intro et la conclusion. Favoriser l’improvisation lors de JAM une fois les morceaux maîtrisés. Avoir pour objectif à terme de jouer en concerts.\n",
         "illustration_url": null,
         "discord_presentation_url": "https://discord.com/channels/1038909359712895058/1299632499743391805/1300139350796927018",
+        "recrutement_permanent": true,
         "lineups": [
             {
                 "intitule_long": "Blues Braqueurs II",
@@ -455,6 +461,7 @@
         "jam_description": "🎯 But : se constituer un répertoire de standards du rock’n roll des années 50 aux années 90 pour être en capacité à les interpréter à la volée en groupe (en première partie ou en fin de concert type jam). \n\nhttps://discord.com/channels/1038909359712895058/1300468056467964036/1300470597524131860",
         "illustration_url": null,
         "discord_presentation_url": "https://discord.com/channels/1038909359712895058/1300468056467964036/1300470597524131860",
+        "recrutement_permanent": true,
         "lineups": []
     },
     "recHuqDC07IcUUFft": {
@@ -466,6 +473,7 @@
         "jam_description": "Se constituer un répertoire funky et variée d'environ 25 chansons, principalement des années 60 a 70 pour être en capacité à participer à des concerts de l’association.\n\nEn studio, nous travaillererons sur 3 à 5 morceaux à chaque séance.  Lors de la séance suivante, on interprète les morceaux precedents en mode filage puis on travaille 3 à 5 autres morceaux.\n",
         "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730376000000/wGzhLt5TUYkR2Xro4LQFQw/jwkaXx03v_LT0Gpo3bQ4wjoDN8Hq2LWUt8i5ikToIytNnpF5Y1Gdc_YyozcKUr_HUKFYpZ2xy9W3Fb3KA8ASsQSrsrp7RorwMbykxk0APMjzkZiDOyR4r21N4r2NetlHbkYpz6dU2VIDIpZOqsNLPVvgY2cFAEoCxo2-ixa0MQs/9Le2MyrwCNgO81RlQilYLSLeKwtJRX13ZyzCTMsRsUg",
         "discord_presentation_url": "https://discord.com/channels/1038909359712895058/1301197831742292081/1301197831742292081",
+        "recrutement_permanent": true,
         "lineups": []
     }
 }
