@@ -28,3 +28,20 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Styles pour les conteneurs Markdown en mode clair */
+.theme-light .markdown-container {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Styles pour les conteneurs Markdown en mode sombre */
+.theme-dark .markdown-container {
+  background-color: #333;
+  border: 1px solid #444;
+  padding: 10px;
+  border-radius: 8px;
+}
+
