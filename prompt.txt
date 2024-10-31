@@ -1,0 +1,29 @@
+Créer moi une page en js qui s'intégre complètement à un docusaurus et qui affiche un index alphabétique des collectifs et de leurs lineups.
+
+Les données sur les collectifs et leurs lineups sont compilés dans un fichier json disponible dans le même répertoire que la page js que tu m'auras créé. Le fichier json sera créé grâce à un programme python qui utilise pyairtable.
+
+Airtable contient tous les informations sur les collectifs et tous les lineups.
+
+La table collectifs s'appelle "Collectifs Musicaux" et contient les champs "Intitulé", "Intitulé court", "Pseudo ZAP (from REF responsable)", "Jam description", "Illustration", et "discord_presentation_url"
+
+La table lineups s'appelle "Lineups" et contient les champs "intitulé long", "intitulé court", "Rollup Référent Pseudo ZAP", "Style(s) de musique", "Phrase d'accroche", "Description", "REF Collectif"
+
+Pour consulter la table "Lineups", utilise la vue "Lineups non archivés"
+
+Pour consulter la table "Collectifs Musicaux", utilise la vue "Liste des collectifs non archivés" 
+
+Si un champ est vide, ne l'affiche pas.
+
+Si l'url de l'illustration n'est pas une image, n'affiche pas d'image.
+
+Les descriptions doivent être sur un fond de couleur légèrement différent et doivent être encadrés.
+
+Si les intitulés sont vides n'affiche pas le collectif ou le lineup.
+
+Il faut une table des matières et pouvoir revenir à la table des matières facilement depuis chaque affichage de lineup et de collectif.
+
+La table des matières présente des liens vers chaque collectif dans l'ordre alphabétique et leurs lineups dans l'ordre alphabétique.
+
+Les styles de musique doivent être séparés par une virgule.
+
+Les liens internet doivent être retirés des descriptions et des intitulés
