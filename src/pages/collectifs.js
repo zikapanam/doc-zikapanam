@@ -1,6 +1,6 @@
 // src/pages/collectifs.js
 import React, { useEffect, useState } from 'react';
-import NoNavLayout from '../components/NoNavLayout'; // Importez le Layout personnalisé
+import NoNavLayout from '../components/NoNavLayout';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
 
@@ -11,6 +11,11 @@ const isValidImageUrl = (url) => /\.(jpg|jpeg|png|gif|webp)$/i.test(url);
 const removeLinks = (text) => {
   if (!text) return '';
   return text.replace(/https?:\/\/[^\s]+/g, '');
+};
+
+// Fonction pour retirer les emojis d'un texte
+const removeEmojis = (text) => {
+  return text.replace(/[\u{1F600}-\u{1F64F}\u{1F300}-\u{1F5FF}\u{1F680}-\u{1F6FF}\u{1F700}-\u{1F77F}\u{1F780}-\u{1F7FF}\u{1F800}-\u{1F8FF}\u{1F900}-\u{1F9FF}\u{1FA00}-\u{1FAFF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]+/gu, '');
 };
 
 const CollectifsPage = () => {
@@ -24,10 +29,12 @@ const CollectifsPage = () => {
         const response = await fetch('/collectifs_data.json'); // Chemin vers le fichier JSON
         const data = await response.json();
 
-        // Filtre les collectifs avec intitulé et les trie alphabétiquement
+        // Filtre les collectifs avec intitulé et les trie alphabétiquement en ignorant les emojis
         const filteredData = Object.values(data)
           .filter(collectif => collectif.intitule) // Ignore les collectifs sans intitulé
-          .sort((a, b) => a.intitule.localeCompare(b.intitule));
+          .sort((a, b) => 
+            removeEmojis(a.intitule).localeCompare(removeEmojis(b.intitule))
+          );
 
         setCollectifs(filteredData);
       } catch (error) {
@@ -54,7 +61,9 @@ const CollectifsPage = () => {
     title: collectif.intitule,
     lineups: (collectif.lineups || [])
       .filter(lineup => lineup.intitule_long || lineup.intitule_court)
-      .sort((a, b) => (a.intitule_long || a.intitule_court).localeCompare(b.intitule_long || b.intitule_court))
+      .sort((a, b) => 
+        removeEmojis(a.intitule_long || a.intitule_court).localeCompare(removeEmojis(b.intitule_long || b.intitule_court))
+      )
   }));
 
   return (
@@ -104,7 +113,9 @@ const CollectifsPage = () => {
               <ul>
                 {collectif.lineups
                   .filter(lineup => lineup.intitule_long || lineup.intitule_court) // Ignore les lineups sans intitulé
-                  .sort((a, b) => (a.intitule_long || a.intitule_court).localeCompare(b.intitule_long || b.intitule_court))
+                  .sort((a, b) => 
+                    removeEmojis(a.intitule_long || a.intitule_court).localeCompare(removeEmojis(b.intitule_long || b.intitule_court))
+                  )
                   .map((lineup, lineupIndex) => (
                     <li key={lineupIndex} id={`lineup-${collectif.intitule}-${lineupIndex}`}>
                       <p><strong>{removeLinks(lineup.intitule_long) || removeLinks(lineup.intitule_court)}</strong></p>
