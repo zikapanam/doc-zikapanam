@@ -4,87 +4,93 @@ import NoNavLayout from '../components/NoNavLayout';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
 
-// Fonction de scroll avec un décalage personnalisé
 const scrollToWithOffset = (id) => {
   const element = document.getElementById(id);
-  const yOffset = -100; // Ajustez le décalage ici
+  const yOffset = -100;
   const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
   window.scrollTo({ top: y, behavior: 'smooth' });
 };
 
-// Vérifie si l'URL est une image
 const isValidImageUrl = (url) => /\.(jpg|jpeg|png|gif|webp)$/i.test(url);
 
-// Fonction pour retirer les liens internet des descriptions et des intitulés
 const removeLinks = (text) => {
-  if (!text) return '';
+  if (typeof text !== 'string') return '';
   return text.replace(/https?:\/\/[^\s]+/g, '');
 };
 
-// Fonction pour retirer les emojis d'un texte
 const removeEmojis = (text) => {
-  return text.replace(/[\u{1F600}-\u{1F64F}\u{1F300}-\u{1F5FF}\u{1F680}-\u{1F6FF}\u{1F700}-\u{1F77F}\u{1F780}-\u{1F7FF}\u{1F800}-\u{1F8FF}\u{1F900}-\u{1F9FF}\u{1FA00}-\u{1FAFF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]+/gu, '');
+  if (typeof text !== 'string') return '';
+  return text.replace(/[\u{1F600}-\u{1FAFF}\u{2600}-\u{27BF}]+/gu, '');
 };
 
-// Fonction pour capitaliser les prénoms, y compris les prénoms composés
-const capitalizeNames = (names) => {
-  if (!names) return '';
-  return names
-    .split(',')
-    .map((name) =>
-      name
-        .trim()
-        .split('-') // Séparer les prénoms composés par le tiret
-        .map((part) => part.charAt(0).toUpperCase() + part.slice(1).toLowerCase()) // Mettre en majuscule la première lettre de chaque partie
-        .join('-') // Réassembler les prénoms composés
-    )
-    .join(', ');
+const capitalizeNames = (names) => names ? names.split(',')
+  .map((name) => name.trim()
+    .split('-')
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1).toLowerCase())
+    .join('-'))
+  .join(', ') : '';
+
+const formatArrayAsText = (data) => {
+  if (Array.isArray(data)) {
+    return data.map((item) => removeLinks(item)).join(', ');
+  }
+  return removeLinks(data);
 };
 
+const ITEMS_PER_PAGE = 5;
 
 const CollectifsPage = () => {
   const [collectifs, setCollectifs] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [searchTerm, setSearchTerm] = useState('');
+  const [currentPage, setCurrentPage] = useState(1);
 
-  // Chargement des données JSON
   useEffect(() => {
     const fetchData = async () => {
       try {
         const response = await fetch('/collectifs_data.json');
+        if (!response.ok) throw new Error('Network response was not ok');
         const data = await response.json();
-
-        // Filtre et trie les collectifs par intitulé sans emojis
         const filteredData = Object.values(data)
           .filter((collectif) => collectif.intitule)
           .sort((a, b) =>
             removeEmojis(a.intitule).localeCompare(removeEmojis(b.intitule))
           );
-
         setCollectifs(filteredData);
       } catch (error) {
-        console.error('Erreur lors du chargement des données JSON :', error);
+        setError('Erreur lors du chargement des données. Veuillez réessayer plus tard.');
       } finally {
         setLoading(false);
       }
     };
-
     fetchData();
   }, []);
 
-  if (loading) {
-    return <p>Chargement des données...</p>;
-  }
+  const handleSearch = (e) => {
+    setSearchTerm(e.target.value.toLowerCase());
+    setCurrentPage(1);
+  };
 
-  if (!collectifs || collectifs.length === 0) {
-    return <p>Aucune donnée disponible.</p>;
-  }
+  const filteredCollectifs = collectifs
+    .map((collectif) => ({
+      ...collectif,
+      lineups: (collectif.lineups || []).filter((lineup) => 
+        removeEmojis(lineup.intitule_long || lineup.intitule_court || '').toLowerCase().includes(searchTerm)
+      )
+    }))
+    .filter((collectif) =>
+      removeEmojis(collectif.intitule).toLowerCase().includes(searchTerm) ||
+      (collectif.lineups && collectif.lineups.length > 0)
+    );
 
-  // Génération de la table des matières
-  const toc = collectifs.map((collectif) => ({
+  const paginatedLineups = (lineups) =>
+    lineups.slice((currentPage - 1) * ITEMS_PER_PAGE, currentPage * ITEMS_PER_PAGE);
+
+  const toc = filteredCollectifs.map((collectif) => ({
     id: collectif.intitule,
     title: collectif.intitule,
     lineups: (collectif.lineups || [])
-      .filter((lineup) => lineup.intitule_long || lineup.intitule_court)
       .sort((a, b) =>
         removeEmojis(a.intitule_long || a.intitule_court).localeCompare(
           removeEmojis(b.intitule_long || b.intitule_court)
@@ -92,10 +98,17 @@ const CollectifsPage = () => {
       ),
   }));
 
+  if (loading) {
+    return <p>Chargement des données...</p>;
+  }
+
+  if (error) {
+    return <p>{error}</p>;
+  }
+
   return (
     <NoNavLayout title="Collectifs et Lineups">
       <div style={{ padding: '20px' }}>
-        {/* Table des matières */}
         <div
           style={{
             marginBottom: '20px',
@@ -105,6 +118,18 @@ const CollectifsPage = () => {
           }}
         >
           <h2>Table des matières</h2>
+          <input
+            type="text"
+            placeholder="Rechercher un collectif ou lineup..."
+            onChange={handleSearch}
+            style={{
+              padding: '8px',
+              marginBottom: '10px',
+              borderRadius: '4px',
+              width: '100%',
+              border: '1px solid #ddd',
+            }}
+          />
           {toc.map((collectif) => (
             <div key={collectif.id}>
               <a
@@ -118,7 +143,7 @@ const CollectifsPage = () => {
                 {collectif.title}
               </a>
               <ul>
-                {collectif.lineups.map((lineup, index) => (
+                {collectif.lineups.slice(0, ITEMS_PER_PAGE).map((lineup, index) => (
                   <li key={index}>
                     <a 
                       href={`#lineup-${collectif.id}-${index}`}
@@ -136,9 +161,8 @@ const CollectifsPage = () => {
           ))}
         </div>
 
-        {/* Affichage des Collectifs et Lineups */}
         <div>
-          {collectifs.map((collectif, index) => (
+          {filteredCollectifs.map((collectif, index) => (
             <div
               key={index}
               id={`collectif-${collectif.intitule}`}
@@ -148,21 +172,19 @@ const CollectifsPage = () => {
                 borderBottom: '1px solid #ccc',
               }}
             >
-              {/* Ancre invisible pour le décalage du saut */}
               <div
                 id={`anchor-${collectif.intitule}`}
                 style={{ position: 'relative', top: '-80px' }}
               ></div>
 
               <h3>{removeLinks(collectif.intitule)}</h3>
-              {collectif.intitule_court && (
-                <h4>{removeLinks(collectif.intitule_court)}</h4>
-              )}
-
+              {collectif.intitule_court && <h4>{removeLinks(collectif.intitule_court)}</h4>}
               {collectif.recrutement_permanent && (
                 <p className="recrutement-permanent">Recrutement permanent</p>
               )}
-
+              {collectif.pseudo_zap && (
+                <div><strong>Leader :</strong> {formatArrayAsText(collectif.pseudo_zap)}<br /></div>
+              )}
               {collectif.jam_description && (
                 <div className="markdown-container">
                   <ReactMarkdown rehypePlugins={[rehypeRaw]}>
@@ -170,14 +192,13 @@ const CollectifsPage = () => {
                   </ReactMarkdown>
                 </div>
               )}
-              {collectif.illustration_url &&
-                isValidImageUrl(collectif.illustration_url) && (
-                  <img
-                    src={collectif.illustration_url}
-                    alt={`${collectif.intitule} logo`}
-                    style={{ width: '100px', height: 'auto', marginTop: '10px' }}
-                  />
-                )}
+              {collectif.illustration_url && isValidImageUrl(collectif.illustration_url) && (
+                <img
+                  src={collectif.illustration_url}
+                  alt={`${collectif.intitule} logo`}
+                  style={{ width: '100px', height: 'auto', marginTop: '10px' }}
+                />
+              )}
               {collectif.discord_presentation_url && (
                 <p>
                   <a
@@ -192,64 +213,58 @@ const CollectifsPage = () => {
 
               <h4>Lineups</h4>
               <ul>
-                {collectif.lineups
-                  .filter((lineup) => lineup.intitule_long || lineup.intitule_court)
-                  .sort((a, b) =>
-                    removeEmojis(a.intitule_long || a.intitule_court).localeCompare(
-                      removeEmojis(b.intitule_long || b.intitule_court)
-                    )
-                  )
-                  .map((lineup, lineupIndex) => (
-                    <li
-                      key={lineupIndex}
-                      id={`lineup-${collectif.intitule}-${lineupIndex}`}
-                    >
-                      <p>
-                        <strong>
-                          {removeLinks(lineup.intitule_long) ||
-                            removeLinks(lineup.intitule_court)}
-                        </strong>
-                      </p>
-                      {lineup.referent_pseudo_zap && (
-                        <div>
-                          <strong>Référent :</strong>{' '}
-                          {removeLinks(lineup.referent_pseudo_zap)}
-                          <br />
-                        </div>
-                      )}
-                      {lineup.prenoms_membres && (
-                        <div>
-                          <strong>Membres :</strong>{' '}
-                          {capitalizeNames(removeLinks(lineup.prenoms_membres))}
-                          <br />
-                        </div>
-                      )}
-                      {lineup.style_musique && (
-                        <div>
-                          <strong>Style(s) de musique :</strong> {lineup.style_musique}
-                          <br />
-                        </div>
-                      )}
-                      {lineup.phrase_accroche && (
-                        <div className="markdown-container">
-                          <ReactMarkdown rehypePlugins={[rehypeRaw]}>
-                            {removeLinks(lineup.phrase_accroche)}
-                          </ReactMarkdown>
-                        </div>
-                      )}
-                      {lineup.description && (
-                        <div className="markdown-container">
-                          <ReactMarkdown rehypePlugins={[rehypeRaw]}>
-                            {removeLinks(lineup.description)}
-                          </ReactMarkdown>
-                        </div>
-                      )}
-                      <br />
-                    </li>
-                  ))}
+                {paginatedLineups(collectif.lineups).map((lineup, lineupIndex) => (
+                  <li key={lineupIndex} id={`lineup-${collectif.intitule}-${lineupIndex}`}>
+                    <p><strong>{removeLinks(lineup.intitule_long) || removeLinks(lineup.intitule_court)}</strong></p>
+                    {lineup.referent_pseudo_zap && (
+                      <div><strong>Référent :</strong> {formatArrayAsText(lineup.referent_pseudo_zap)}<br /></div>
+                    )}
+                    {lineup.prenoms_membres && (
+                      <div><strong>Membres :</strong> {capitalizeNames(removeLinks(lineup.prenoms_membres))}<br /></div>
+                    )}
+                    {lineup.style_musique && (
+                      <div><strong>Style(s) de musique :</strong> {lineup.style_musique}<br /></div>
+                    )}
+                    {lineup.phrase_accroche && (
+                      <div className="markdown-container">
+                        <ReactMarkdown rehypePlugins={[rehypeRaw]}>
+                          {removeLinks(lineup.phrase_accroche)}
+                        </ReactMarkdown>
+                      </div>
+                    )}
+                    {lineup.description && (
+                      <div className="markdown-container">
+                        <ReactMarkdown rehypePlugins={[rehypeRaw]}>
+                          {removeLinks(lineup.description)}
+                        </ReactMarkdown>
+                      </div>
+                    )}
+                    <br />
+                  </li>
+                ))}
               </ul>
+              
+              {collectif.lineups.length > ITEMS_PER_PAGE && (
+                <div style={{ display: 'flex', justifyContent: 'center', marginTop: '10px' }}>
+                  {Array.from({ length: Math.ceil(collectif.lineups.length / ITEMS_PER_PAGE) }, (_, i) => (
+                    <button
+                      key={i}
+                      onClick={() => setCurrentPage(i + 1)}
+                      disabled={currentPage === i + 1}
+                      style={{
+                        margin: '0 5px',
+                        padding: '5px 10px',
+                        borderRadius: '4px',
+                        border: currentPage === i + 1 ? '1px solid #000' : '1px solid #ddd',
+                        cursor: 'pointer',
+                      }}
+                    >
+                      {i + 1}
+                    </button>
+                  ))}
+                </div>
+              )}
 
-              {/* Lien de retour à la table des matières */}
               <p>
                 <a href="#top" style={{ textDecoration: 'underline' }}>
                   Retour à la table des matières
