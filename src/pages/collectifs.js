@@ -37,14 +37,11 @@ const formatArrayAsText = (data) => {
   return removeLinks(data);
 };
 
-const ITEMS_PER_PAGE = 5;
-
 const CollectifsPage = () => {
   const [collectifs, setCollectifs] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [searchTerm, setSearchTerm] = useState('');
-  const [currentPage, setCurrentPage] = useState(1);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -69,7 +66,6 @@ const CollectifsPage = () => {
 
   const handleSearch = (e) => {
     setSearchTerm(e.target.value.toLowerCase());
-    setCurrentPage(1);
   };
 
   const filteredCollectifs = collectifs
@@ -85,18 +81,10 @@ const CollectifsPage = () => {
       (collectif.lineups && collectif.lineups.length > 0)
     );
 
-  const paginatedLineups = (lineups) =>
-    lineups.slice((currentPage - 1) * ITEMS_PER_PAGE, currentPage * ITEMS_PER_PAGE);
-
   const toc = filteredCollectifs.map((collectif) => ({
     id: collectif.intitule,
     title: collectif.intitule,
-    lineups: (collectif.lineups || [])
-      .sort((a, b) =>
-        removeEmojis(a.intitule_long || a.intitule_court).localeCompare(
-          removeEmojis(b.intitule_long || b.intitule_court)
-        )
-      ),
+    lineups: collectif.lineups,
   }));
 
   if (loading) {
@@ -144,7 +132,7 @@ const CollectifsPage = () => {
                 {collectif.title}
               </a>
               <ul>
-                {collectif.lineups.slice(0, ITEMS_PER_PAGE).map((lineup, index) => (
+                {collectif.lineups.map((lineup, index) => (
                   <li key={index}>
                     <a 
                       href={`#lineup-${collectif.id}-${index}`}
@@ -214,7 +202,7 @@ const CollectifsPage = () => {
 
               <h4>Lineups</h4>
               <ul>
-                {paginatedLineups(collectif.lineups).map((lineup, lineupIndex) => (
+                {collectif.lineups.map((lineup, lineupIndex) => (
                   <li key={lineupIndex} id={`lineup-${collectif.intitule}-${lineupIndex}`}>
                     <p><strong>{removeLinks(lineup.intitule_long) || removeLinks(lineup.intitule_court)}</strong></p>
                     {lineup.referent_pseudo_zap && (
@@ -244,27 +232,6 @@ const CollectifsPage = () => {
                   </li>
                 ))}
               </ul>
-              
-              {collectif.lineups.length > ITEMS_PER_PAGE && (
-                <div style={{ display: 'flex', justifyContent: 'center', marginTop: '10px' }}>
-                  {Array.from({ length: Math.ceil(collectif.lineups.length / ITEMS_PER_PAGE) }, (_, i) => (
-                    <button
-                      key={i}
-                      onClick={() => setCurrentPage(i + 1)}
-                      disabled={currentPage === i + 1}
-                      style={{
-                        margin: '0 5px',
-                        padding: '5px 10px',
-                        borderRadius: '4px',
-                        border: currentPage === i + 1 ? '1px solid #000' : '1px solid #ddd',
-                        cursor: 'pointer',
-                      }}
-                    >
-                      {i + 1}
-                    </button>
-                  ))}
-                </div>
-              )}
 
               <p>
                 <a href="#top" style={{ textDecoration: 'underline' }}>
