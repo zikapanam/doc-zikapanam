@@ -137,6 +137,15 @@
         "lineups": [
             {
                 "intitule_long": null,
+                "intitule_court": "RMS 4",
+                "referent_pseudo_zap": "Emmanuel_Rav",
+                "prenoms_membres": "Clément , EMMANUEL, Hanane, Jean-Claude, Julien",
+                "style_musique": "Jazz, Latin",
+                "phrase_accroche": null,
+                "description": "Lineup constitué, remplacements ponctuels ou guest bienvenus (1 vendredi sur 2 à 20h)"
+            },
+            {
+                "intitule_long": null,
                 "intitule_court": "RMS 1",
                 "referent_pseudo_zap": "Fred_Ble",
                 "prenoms_membres": "Fred, Marc, Martin, malika",
@@ -155,15 +164,6 @@
             },
             {
                 "intitule_long": null,
-                "intitule_court": "RMS 4",
-                "referent_pseudo_zap": "Fred_Ble",
-                "prenoms_membres": "Clément , EMMANUEL, Hanane, Jean-Claude, Julien",
-                "style_musique": "Jazz, Latin",
-                "phrase_accroche": null,
-                "description": "Lineup constitué, remplacements ponctuels ou guest bienvenus (1 vendredi sur 2 à 20h)"
-            },
-            {
-                "intitule_long": null,
                 "intitule_court": "RMS 5",
                 "referent_pseudo_zap": "Fred_Ble",
                 "prenoms_membres": "Etan",
@@ -174,7 +174,7 @@
             {
                 "intitule_long": null,
                 "intitule_court": "RMS 6",
-                "referent_pseudo_zap": "Fred_Ble",
+                "referent_pseudo_zap": "JeanJacques_Cad",
                 "prenoms_membres": "Carol, Etan, Florence, Jean-Jacques, Ramón , Théo",
                 "style_musique": "Jazz, Latin",
                 "phrase_accroche": null,
