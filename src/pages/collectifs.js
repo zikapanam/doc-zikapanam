@@ -53,12 +53,18 @@ const CollectifsPage = () => {
         const response = await fetch('/collectifs_data.json');
         if (!response.ok) throw new Error('Network response was not ok');
         const data = await response.json();
-        const filteredData = Object.values(data)
+        const sortedData = Object.values(data)
           .filter((collectif) => collectif.intitule)
-          .sort((a, b) =>
-            removeEmojis(a.intitule).localeCompare(removeEmojis(b.intitule))
-          );
-        setCollectifs(filteredData);
+          .sort((a, b) => removeEmojis(a.intitule).localeCompare(removeEmojis(b.intitule)))
+          .map((collectif) => ({
+            ...collectif,
+            lineups: (collectif.lineups || []).sort((a, b) =>
+              removeEmojis(a.intitule_long || a.intitule_court || '').localeCompare(
+                removeEmojis(b.intitule_long || b.intitule_court || '')
+              )
+            ),
+          }));
+        setCollectifs(sortedData);
       } catch (error) {
         setError('Erreur lors du chargement des données. Veuillez réessayer plus tard.');
       } finally {
