@@ -146,6 +146,10 @@ const CollectifsPage = () => {
             borderRadius: '8px',
           }}
         >
+          <p>Cette page contient la liste des collectifs (grands groupes de musiciens) et de leurs lineups (entre 3 et 10 musiciens par lineup).</p>
+
+          <p>Saisissez un mot clé dans le champ de recherche ou sélectionnez un style de musique pour filtrer l'affichage ci-dessous.</p>
+
           <h2>Table des matières</h2>
           <input
             type="text"
