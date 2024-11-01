@@ -6,7 +6,7 @@
             "JeanneCharlotte_Wat"
         ],
         "jam_description": "Session en collectif d' Ultra Heavy Riffs. Plus d'infos là : https://discord.com/channels/1038909359712895058/1114881913430216865/1114881913430216865\n\n",
-        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730376000000/CC9FRmmGfnFbzY8s8MNJww/JW2nbDx10ObQRKCP1rj6zpH1qjpMdN38BCBA4uSzrdKvlrr7tEPEgKLy1AjcF7BHFWxksaax3aKDzUew0FldfEiy5aBzz4Eg80o9nBCIYp6PurFA835HbdiYeL1Vk67jG0ZBIHXJ8mCJQq_jskw6Rg/ODK563tYMtIVIHZ_1hf8qrQtx9_PDdNGp6l-QypKQq0",
+        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730448000000/7lwqTtRX-d4fZPFVjSrRKw/Gt6z12-USirfYldZug2VO6w5GXv-6ztdi6amMKo6xYwlHKOYA1woHl0zOkfL7oXRmpp9yZ5djn5C2HgQEFAkuEshkG-Dcn9zFtfurRETIOUEAPCc98IK30uzFH9rXRVNLaL3XB1Rj5_Z9M4RXvfTeg/1WFdTNuof83y-tHyXJJZ2jo4ovOx_UNSbU4rA3B3YCU",
         "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1052703682799599666/1052703682799599666",
         "recrutement_permanent": false,
         "lineups": [
@@ -14,9 +14,8 @@
                 "intitule_long": "Cowbo",
                 "intitule_court": "Cowbo",
                 "referent_pseudo_zap": "Benjamin_Bru",
-                "style_musique": [
-                    "Rock"
-                ],
+                "prenoms_membres": "Benjamin, Jeanne-Charlotte, Michal, Nicolas, William",
+                "style_musique": "Rock",
                 "phrase_accroche": null,
                 "description": "Blur\nHarry Styles\nDandy Warhols\nOutkast\nArctic Monkeys\nKings of Leon\nGreen Day\nSmashing Pumpkins\nGorillaz \nLouise Attaque "
             },
@@ -24,9 +23,8 @@
                 "intitule_long": "Bucklerrs",
                 "intitule_court": "BuCkLeRRs",
                 "referent_pseudo_zap": "Benjamin_Bru",
-                "style_musique": [
-                    "Metal"
-                ],
+                "prenoms_membres": "Benjamin, Carlos, Louis, Renaud, Romain",
+                "style_musique": "Metal",
                 "phrase_accroche": null,
                 "description": "Metallica\nPantera\nDeftones\nKorn\nMotorhead\nSepultura\nSlipknot\nCoal Chamber\nSoulfly"
             },
@@ -34,9 +32,8 @@
                 "intitule_long": "MPWR!",
                 "intitule_court": "MPWR!",
                 "referent_pseudo_zap": "Benjamin_Bru",
-                "style_musique": [
-                    "Metal"
-                ],
+                "prenoms_membres": "Benjamin, Bruno, Cedric, Corentin, Zara",
+                "style_musique": "Metal",
                 "phrase_accroche": null,
                 "description": "Gojira\nPantera\nParkway Drive\nSoulfly\nMachineHead\n"
             },
@@ -44,9 +41,8 @@
                 "intitule_long": "Beam",
                 "intitule_court": "Beam",
                 "referent_pseudo_zap": "Benjamin_Bru",
-                "style_musique": [
-                    "Rock"
-                ],
+                "prenoms_membres": "Aurélien , Benjamin, Enrique, Migad",
+                "style_musique": "Rock",
                 "phrase_accroche": null,
                 "description": "en cours"
             },
@@ -54,9 +50,8 @@
                 "intitule_long": "Reprises orientées Trash Metal",
                 "intitule_court": "MPWR",
                 "referent_pseudo_zap": "Cedric_Ney",
-                "style_musique": [
-                    "Metal"
-                ],
+                "prenoms_membres": "Benjamin, Bruno, Corentin, Zara",
+                "style_musique": "Metal",
                 "phrase_accroche": null,
                 "description": "PLUS FORT !!!"
             },
@@ -64,10 +59,8 @@
                 "intitule_long": "Gung-Ho!",
                 "intitule_court": "Gung-Ho!",
                 "referent_pseudo_zap": "Gael_Dep",
-                "style_musique": [
-                    "Rock",
-                    "Metal"
-                ],
+                "prenoms_membres": "Corentin, Gael, Ken, Louis, Maxime ",
+                "style_musique": "Rock, Metal",
                 "phrase_accroche": null,
                 "description": "Gung-Ho (ex-Headbangers) [Rock/Métal] veut dire littéralement plein d'énergie ! Le groupe offre une expérience qui revient à l'essence même du rock, avec de la sueur, du gros son et du chi à revendre !"
             },
@@ -75,9 +68,8 @@
                 "intitule_long": "Mirage",
                 "intitule_court": "Mirage",
                 "referent_pseudo_zap": "JeanJacques_Cad",
-                "style_musique": [
-                    "Rock"
-                ],
+                "prenoms_membres": "CHRISTOPHE, Jean-Jacques, Jordan, Kevin, stephane",
+                "style_musique": "Rock",
                 "phrase_accroche": null,
                 "description": "Covers Rock / Grunge / Punk années 1990/2000 (en théorie)"
             },
@@ -85,9 +77,8 @@
                 "intitule_long": "Line up grunge ",
                 "intitule_court": "LG ",
                 "referent_pseudo_zap": "JeanneCharlotte_Wat",
-                "style_musique": [
-                    "Grunge"
-                ],
+                "prenoms_membres": "Gael, Jeanne-Charlotte, Mathieu, Odile, William",
+                "style_musique": "Grunge",
                 "phrase_accroche": null,
                 "description": "Pas encore de nom de groupe et la première répet aura lieu le 4/10 "
             },
@@ -95,9 +86,8 @@
                 "intitule_long": "Pelvis",
                 "intitule_court": "Pelvis",
                 "referent_pseudo_zap": "Romain_Sch",
-                "style_musique": [
-                    "Punk"
-                ],
+                "prenoms_membres": "Louis, Renaud, Romain",
+                "style_musique": "Punk",
                 "phrase_accroche": null,
                 "description": "Pelvis [Punk] : est une formation punk rock minimaliste, ils ré-interprètent des standards rock avec une note plus énergique et entrainante ! Venez chanter et bouger avec eux !"
             }
@@ -118,9 +108,8 @@
                 "intitule_long": "Kosanga",
                 "intitule_court": "Ksg",
                 "referent_pseudo_zap": "Paul_Kac",
-                "style_musique": [
-                    "Afrobeat"
-                ],
+                "prenoms_membres": "Alexandre, Ange, Arthur, Diaara, Jean, Marie-Aude , Paul, Paul Camille, Sophie ",
+                "style_musique": "Afrobeat",
                 "phrase_accroche": null,
                 "description": "Kosanga [Afrobeat] : une formation qui partagera avec vous une musique afrobeat qui met de bonne humeur et qui invite à l'ouverture ! "
             },
@@ -128,10 +117,8 @@
                 "intitule_long": "Kenté Groove",
                 "intitule_court": "Kenté Groove",
                 "referent_pseudo_zap": "Xong_L**",
-                "style_musique": [
-                    "Afrobeat",
-                    "Trad"
-                ],
+                "prenoms_membres": "Carole, Emilie, Etan, Jordan, Marc, Paul, Xong",
+                "style_musique": "Afrobeat, Trad",
                 "phrase_accroche": null,
                 "description": "Kenté Groove joue un mix de musiques africaines plutôt traditionnelles (mandingue, cap-verdienne, rumba congolaise etc) et afro rock&blues anciennes."
             }
@@ -152,7 +139,8 @@
                 "intitule_long": null,
                 "intitule_court": "RMS 1",
                 "referent_pseudo_zap": "Fred_Ble",
-                "style_musique": null,
+                "prenoms_membres": "",
+                "style_musique": "",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -160,7 +148,8 @@
                 "intitule_long": null,
                 "intitule_court": "RMS 3",
                 "referent_pseudo_zap": "Fred_Ble",
-                "style_musique": null,
+                "prenoms_membres": "",
+                "style_musique": "",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -168,7 +157,8 @@
                 "intitule_long": null,
                 "intitule_court": "RMS 4",
                 "referent_pseudo_zap": "Fred_Ble",
-                "style_musique": null,
+                "prenoms_membres": "",
+                "style_musique": "",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -176,7 +166,8 @@
                 "intitule_long": null,
                 "intitule_court": "RMS 5",
                 "referent_pseudo_zap": "Fred_Ble",
-                "style_musique": null,
+                "prenoms_membres": "",
+                "style_musique": "",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -184,7 +175,8 @@
                 "intitule_long": null,
                 "intitule_court": "RMS 6",
                 "referent_pseudo_zap": "Fred_Ble",
-                "style_musique": null,
+                "prenoms_membres": "",
+                "style_musique": "",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -192,9 +184,8 @@
                 "intitule_long": "Swing747 (RMS lineup 2)",
                 "intitule_court": "Swing 747",
                 "referent_pseudo_zap": "Xavier_Gue",
-                "style_musique": [
-                    "Jazz"
-                ],
+                "prenoms_membres": "Alexandre, Marc, Xavier, Yiannis",
+                "style_musique": "Jazz",
                 "phrase_accroche": null,
                 "description": "Swing747 est une formation du collectif Repassez-moi le standard [Jazz] dont l'objectif est de faire des concerts et éventuellement d'animer des jams."
             }
@@ -207,7 +198,7 @@
             "PierreHenri_Nod"
         ],
         "jam_description": "Collectif orienté Groove : Funk / Soul\nQutre lines up:\n- Rive Droite géré par Manon\n- Rive Gauche géré par Mohamed\n- The Third géré par Pierre-Henri\n- The Fourth géré par Naya",
-        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730376000000/6T88CzKvUV1A-94-Bs38xA/1vRwJ4fgKjpRVLZNpBC2rsQ-AgwyswQP33pmgkiUVt5psg4SALv5h97Sj0a8m9F0bHe5Rbt6zxNMTEjt3PzZPx-nrVcMmKfWZo1K_5o1WNobvoO3W_nTXeb3q1VcwACnhvEEVNcF24eaKA1pXdTkQpSWlpc-k5FUlCctAhZEBTA/CV2sXO3wwbtjhJdASC2DJ8KCfbFKWv3ZE7E-WZAN5MY",
+        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730448000000/I-GcAXIqvl3T_xaiGVI7yg/3bM0jj94ep846kqB4TD4kNBRyzp-je50K88xwM55ow7fAU5wPcOw4XehktOvIKMRon1lIywMU0ct-GJbjuQo6Bx7jHF2u5_DS_L-2KARRQEqdoejxdxSWB679SfYn0el44eG0JcjunBc5ZCyHC1_C67dZmmfvCdBzprEEhmV3bk/tUJT6aA3i2vidyahBLUYB4aqQ-yQyy6OR2fEnx5Qklk",
         "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1131556262530793482/1131556262530793482",
         "recrutement_permanent": false,
         "lineups": [
@@ -215,10 +206,8 @@
                 "intitule_long": "Soulstice",
                 "intitule_court": "Soulstice",
                 "referent_pseudo_zap": "Manon_Van",
-                "style_musique": [
-                    "Soul",
-                    "Funk"
-                ],
+                "prenoms_membres": "",
+                "style_musique": "Soul, Funk",
                 "phrase_accroche": null,
                 "description": "Soulstice [Soul/Funk] : Avec leur look reconnaissable sur scène, cette formation soul/funk vous fera danser sur des standards soul et funk ! https://bento.me/soulstice-band"
             },
@@ -226,7 +215,8 @@
                 "intitule_long": null,
                 "intitule_court": null,
                 "referent_pseudo_zap": "Mohamed_Nai",
-                "style_musique": null,
+                "prenoms_membres": "",
+                "style_musique": "",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -234,11 +224,8 @@
                 "intitule_long": "Into the Groove - The Fourth",
                 "intitule_court": "ITG-IV",
                 "referent_pseudo_zap": "Naya_A",
-                "style_musique": [
-                    "Funk",
-                    "Soul",
-                    "Groove"
-                ],
+                "prenoms_membres": "Juan-Manuel, Nathalie , Naïssa ",
+                "style_musique": "Funk, Soul, Groove",
                 "phrase_accroche": null,
                 "description": "Into the groove : the fourth !"
             },
@@ -246,7 +233,8 @@
                 "intitule_long": null,
                 "intitule_court": null,
                 "referent_pseudo_zap": "PierreHenri_Nod",
-                "style_musique": null,
+                "prenoms_membres": "",
+                "style_musique": "",
                 "phrase_accroche": null,
                 "description": null
             }
@@ -267,9 +255,8 @@
                 "intitule_long": "Déso DJ",
                 "intitule_court": "DésoDJ",
                 "referent_pseudo_zap": "David_Bas",
-                "style_musique": [
-                    "Hip Hop"
-                ],
+                "prenoms_membres": "",
+                "style_musique": "Hip Hop",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -277,11 +264,8 @@
                 "intitule_long": "Nésouzik (ex HitsPoPnFrench)",
                 "intitule_court": "Nesouzik",
                 "referent_pseudo_zap": "Enrique_Cab",
-                "style_musique": [
-                    "Chanson française",
-                    "Pop",
-                    "Rock"
-                ],
+                "prenoms_membres": "Dominique, Emilie, Enrique, Julien, Vincent",
+                "style_musique": "Chanson française, Pop, Rock",
                 "phrase_accroche": null,
                 "description": "**[PRESENTATION DU LINE-UP Nésouzik (ex HitsPoPnFrench)]**\n\nLine-up est ouvert depuis septembre 2023, regroupant des musiciens de niveau intermédiaire.\n\nStyles abordés :  Variété et chanson Française, Pop Rock\n\nObjectif : Monter un répertoire pour de futurs concerts et scènes ouvertes.\n\nRépertoire : défini avec les membres du line-up. Actuellement :\n\nAline - Christophe\nLe dernier jour du Disco – Juliette Armanet (-1 ton)\nLa Groupie Du Pianiste – Michel Berger (+1 ton)\nOsez Josephine – Alain Bashung\nJ’irai où tu iras – Celine Dion, Jean Jacques Goldman\nChanson sur ma drôle de vie – Véronique Sanson\nRespire encore – Clara Luciani\n\nBonus pop / variété internationale :\nIronic - Alanis Morissette\nPart time lover - Stevie Wonder\nI Wish - Stevie Wonder\n\nInstruments recherchés :  ***Un-e guitariste lead avec un niveau intermédiaire.***\n \nLieu Paris Est : Studio Bleu Paris 10ème, Studios 440 Montreuil\n\nFréquence : tous les quinze jours les mercredis de 19H30 à 22H00"
             },
@@ -289,10 +273,8 @@
                 "intitule_long": "PK35",
                 "intitule_court": "PK35",
                 "referent_pseudo_zap": "Éric_Par",
-                "style_musique": [
-                    "Pop",
-                    "Rock"
-                ],
+                "prenoms_membres": "Asma, Chloé, Enrique, Francoise, Raph",
+                "style_musique": "Pop, Rock",
                 "phrase_accroche": null,
                 "description": "Plongez dans l’énergie vibrante du son pop rock de PK 35"
             },
@@ -300,9 +282,8 @@
                 "intitule_long": "Poot’s",
                 "intitule_court": "Poot’s",
                 "referent_pseudo_zap": "Fred_Ble",
-                "style_musique": [
-                    "Punk"
-                ],
+                "prenoms_membres": "Antoine, Aurélien , Fred, Jules, Marie-Pierre, Nathalie",
+                "style_musique": "Punk",
                 "phrase_accroche": null,
                 "description": "Poot’s [PunkRock] : reprises punk rocks : quand les plus douces chansons de l’enfance rencontrent fortuitement une pédale fuzz déréglée sur une table de dissection."
             },
@@ -310,9 +291,8 @@
                 "intitule_long": "One Four Five",
                 "intitule_court": "1-4-5",
                 "referent_pseudo_zap": "Jack_Lou",
-                "style_musique": [
-                    "Blues"
-                ],
+                "prenoms_membres": "Ander, David, JACK, Jérôme, Laurent",
+                "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -320,10 +300,8 @@
                 "intitule_long": "Kicks",
                 "intitule_court": "Kicks",
                 "referent_pseudo_zap": "JeanJacques_Cad",
-                "style_musique": [
-                    "Pop",
-                    "Rock"
-                ],
+                "prenoms_membres": "CHRISTOPHE, Ermias , Izabelle, Jean-Jacques, Karine ",
+                "style_musique": "Pop, Rock",
                 "phrase_accroche": null,
                 "description": "Pop rock blues"
             },
@@ -331,9 +309,8 @@
                 "intitule_long": "The Swamps",
                 "intitule_court": "Swamps",
                 "referent_pseudo_zap": "Laurent_Sch",
-                "style_musique": [
-                    "Blues"
-                ],
+                "prenoms_membres": "Charles, Jean-Claude, Julien, Laurent",
+                "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": "The Swamps est une formation qui propose des reprises Blues/Blues Rock avec une énergie caractérisée par l’improvisation."
             },
@@ -341,11 +318,8 @@
                 "intitule_long": "Rock Blues & Country",
                 "intitule_court": "RB&C",
                 "referent_pseudo_zap": "Mustapha_Abb",
-                "style_musique": [
-                    "Blues",
-                    "Rock",
-                    "Country"
-                ],
+                "prenoms_membres": "Hadrien, Jordan, Mustapha, Pierre-Marie, philippe",
+                "style_musique": "Blues, Rock, Country",
                 "phrase_accroche": null,
                 "description": "Nous sommes un line up intermédiaire/avancé créé en mai 24 avec pour objectif de jouer des reprises principalement rock et blues avec parfois quelques sonorités Country.\nLe répertoire est varié : the Doors (Roadhouse Blues), David Bowie(Jean Génie), the Rolling Stones (Dead Flowers, Just Like I Treat You), Cake (I Will Survive, l’harmonica remplace la trompette originale). The Doobie Brothers (Long Train Runnin’), Oasis (She ´s electric).\nD’autres morceaux sont en prévision, mais on s’attarde principalement sur les premiers morceaux et leurs structure pour apprendre à jouer ensemble.\nLes repets ont lieu le lundi soir ou le mercredi soir aux Studios DGD à Pantin où aux Studios Luna Rossa à Paris 13e.\n"
             },
@@ -353,9 +327,8 @@
                 "intitule_long": "CoverSquaR",
                 "intitule_court": "CSR",
                 "referent_pseudo_zap": "Nathalie_Mil",
-                "style_musique": [
-                    "Rock"
-                ],
+                "prenoms_membres": "Eric, Marie-Pierre, Nathalie, Pascal , fabien",
+                "style_musique": "Rock",
                 "phrase_accroche": null,
                 "description": "CoverSquaR |Rock] : reprises de titres rock avec les sons de clavier d'époque pour un retour immersif dans les tubes du genre des années 70 à 2000 !"
             },
@@ -363,10 +336,8 @@
                 "intitule_long": "Mousquetaires",
                 "intitule_court": "Mousquetaires",
                 "referent_pseudo_zap": "Nicolas_Cam",
-                "style_musique": [
-                    "Jazz",
-                    "Latin"
-                ],
+                "prenoms_membres": "Alexis, Nicolas, Stephane",
+                "style_musique": "Jazz, Latin",
                 "phrase_accroche": null,
                 "description": "Les mousquetaires [Jazz] : Des standards de jazz, de bossa… interprétés sans capes ni épées, mais avec feeling et bonne humeur par quatre énergumènes qui n’ont qu’un seul objectif: que vous preniez autant de plaisir à les écouter qu’eux à les jouer ! ( https://bento.me/mousquetaires-jazz )"
             },
@@ -374,11 +345,8 @@
                 "intitule_long": "FREEBIRD",
                 "intitule_court": "FREEBIRD",
                 "referent_pseudo_zap": "Nicolas_Leb",
-                "style_musique": [
-                    "Folk",
-                    "Blues",
-                    "Rock"
-                ],
+                "prenoms_membres": "Ben, Nathalie, Nicolas",
+                "style_musique": "Folk, Blues, Rock",
                 "phrase_accroche": null,
                 "description": "FREEBIRD [Folk/Blues/Rock] : une formation emmenée par deux chanteurs guitaristes aux voix exquises sur une musique folk, blues rock. https://bento.me/freebird"
             },
@@ -386,11 +354,8 @@
                 "intitule_long": "High Five",
                 "intitule_court": "iFive",
                 "referent_pseudo_zap": "Quentin_Nou",
-                "style_musique": [
-                    "Soul",
-                    "Funk",
-                    "Groove"
-                ],
+                "prenoms_membres": "Alexandre, Charles, David, Yiannis",
+                "style_musique": "Soul, Funk, Groove",
                 "phrase_accroche": null,
                 "description": "Hi Five ! Let's groove !"
             },
@@ -398,10 +363,8 @@
                 "intitule_long": "Strawberry Jam",
                 "intitule_court": "🍓 Jam",
                 "referent_pseudo_zap": "Sarah_Bor",
-                "style_musique": [
-                    "Pop",
-                    "Groove"
-                ],
+                "prenoms_membres": "Caroline, Delphine, Laurent, Nathalie, Sarah ",
+                "style_musique": "Pop, Groove",
                 "phrase_accroche": null,
                 "description": "Strawberry Jam est une formation Pop/Groove qui distille des reprises Pop avec des accents Groove pour faire remuer les popotins ❣️(Plus d'infos : https://bento.me/strawberry-jam-band )"
             },
@@ -409,11 +372,8 @@
                 "intitule_long": "Pop Soul",
                 "intitule_court": "PopSoul",
                 "referent_pseudo_zap": "Tuan_Ngu",
-                "style_musique": [
-                    "Jazz",
-                    "Pop",
-                    "Rock"
-                ],
+                "prenoms_membres": "Edward, Perceval, Tuan, Vincent",
+                "style_musique": "Jazz, Pop, Rock",
                 "phrase_accroche": null,
                 "description": "Linup en formation"
             },
@@ -421,10 +381,8 @@
                 "intitule_long": "OLAPOP",
                 "intitule_court": "OLAPOP",
                 "referent_pseudo_zap": "Xong_L**",
-                "style_musique": [
-                    "Pop",
-                    "Rock"
-                ],
+                "prenoms_membres": "Axel, Gael, Olivier, Philippe , Stéphane , Xong",
+                "style_musique": "Pop, Rock",
                 "phrase_accroche": null,
                 "description": "OLAPOP joue des reprises pop-rock qui savent accompagner tous les moments de la vie !"
             },
@@ -432,7 +390,8 @@
                 "intitule_long": null,
                 "intitule_court": null,
                 "referent_pseudo_zap": "Yann_Leb",
-                "style_musique": null,
+                "prenoms_membres": "",
+                "style_musique": "",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -440,10 +399,8 @@
                 "intitule_long": "Fearless Boppers",
                 "intitule_court": "FBoppers",
                 "referent_pseudo_zap": "Yoann_All",
-                "style_musique": [
-                    "Jazz",
-                    "Pop"
-                ],
+                "prenoms_membres": "Chloé, Killian, Marc, Ricardo, Valentin, Yoann",
+                "style_musique": "Jazz, Pop",
                 "phrase_accroche": null,
                 "description": "Fearless Boppers [Jazz/PopJazz] : ils vous joueront leurs meilleurs standards et raviront vos oreilles !"
             },
@@ -451,9 +408,8 @@
                 "intitule_long": "Maiden Voyage",
                 "intitule_court": "Maiden",
                 "referent_pseudo_zap": "Yoann_All",
-                "style_musique": [
-                    "Soul"
-                ],
+                "prenoms_membres": "Chloé, Joel, Ricardo, Valentin, Yoann",
+                "style_musique": "Soul",
                 "phrase_accroche": null,
                 "description": "Maiden Voyage |Neo Soul] : une croisière sur la vague Neo soul, voiles aux vents des saxos, trompette et chants de sirènes, un voyage musical planant et épicé."
             }
@@ -474,9 +430,8 @@
                 "intitule_long": "Blues Braqueurs II",
                 "intitule_court": "BB II",
                 "referent_pseudo_zap": "Henri_Dom",
-                "style_musique": [
-                    "Blues"
-                ],
+                "prenoms_membres": "Charly, Géraud , Henri, Nicolas , Ramón ",
+                "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": " Du Blues roots du delta au blues revival, en passant par le Chicago blues, nous voulons faire vibrer toutes les nuances de bleu que nous pourrons arracher à nos instruments!"
             },
@@ -484,9 +439,8 @@
                 "intitule_long": "Musique Blues",
                 "intitule_court": "ZIC Blues",
                 "referent_pseudo_zap": "Philippe_Bar",
-                "style_musique": [
-                    "Blues"
-                ],
+                "prenoms_membres": "Arnaud, Carole, Tuan, philippe",
+                "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": "\nConcept : travailler des standards du blues avec 4 ou 5 morceaux maximum par session ; morceaux qui peuvent être les mêmes d'une session sur l'autre si nécessaire. Favoriser l’improvisation lors de JAM une fois que les morceaux seront maîtrisés.\n\n🎶 Styles abordés : Blues @style-blues . Chicago blues, Memphis blues, Delta blues (par exemple : Little Walter, Muddy Waters, Howlin Wolf, John lee Hoocker, B. B. King, Sonny Terry, etc…). Mais aussi plus contemporain avec des artistes comme Paul Butterfield, Charlie Musselwhite, Rolling Stones, David Bowie, Eric Clapton. Et également des artistes français comme Paul Personne, Bill Deraime.\n"
             }
@@ -511,7 +465,7 @@
             "Alex_Aff"
         ],
         "jam_description": "Se constituer un répertoire funky et variée d'environ 25 chansons, principalement des années 60 a 70 pour être en capacité à participer à des concerts de l’association.\n\nEn studio, nous travaillererons sur 3 à 5 morceaux à chaque séance.  Lors de la séance suivante, on interprète les morceaux precedents en mode filage puis on travaille 3 à 5 autres morceaux.\n",
-        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730376000000/wGzhLt5TUYkR2Xro4LQFQw/jwkaXx03v_LT0Gpo3bQ4wjoDN8Hq2LWUt8i5ikToIytNnpF5Y1Gdc_YyozcKUr_HUKFYpZ2xy9W3Fb3KA8ASsQSrsrp7RorwMbykxk0APMjzkZiDOyR4r21N4r2NetlHbkYpz6dU2VIDIpZOqsNLPVvgY2cFAEoCxo2-ixa0MQs/9Le2MyrwCNgO81RlQilYLSLeKwtJRX13ZyzCTMsRsUg",
+        "illustration_url": "https://v5.airtableusercontent.com/v3/u/34/34/1730448000000/uqH908LXw9oC963UAjbt3A/oinwA4Yo54DJ3TtjEvEw2RvTjQH4bd1y6XZYym71kGTqoDl1XVznRaClzM6NUi7_X6a0LVdVgqcjIBIN0quII9GhuBpRVcDoCFH0OK_j8T8RNKyupiwU46f0focX19VoGRhv0Avfs4nch3_tVYe0MSA3ivMRToZJyaCJFtt7DqU/duFqHeV8nOZiDJSYMvWnAlPHmWnqpkFjFhQLb8VFDOY",
         "discord_presentation_url": "https://discord.com/channels/1038909359712895058/1301197831742292081/1301197831742292081",
         "recrutement_permanent": true,
         "lineups": []
