@@ -1,6 +1,6 @@
 // src/pages/collectifs.js
 import React, { useEffect, useState } from 'react';
-import Layout from '@theme/Layout';
+import NoNavLayout from '../components/NoNavLayout'; // Importez le Layout personnalisé
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
 
@@ -58,10 +58,8 @@ const CollectifsPage = () => {
   }));
 
   return (
-    <Layout title="Index des Collectifs Musicaux">
+    <NoNavLayout title="Collectifs et Lineups">
       <div style={{ padding: '20px' }}>
-        <h1>Index Alphabétique des Collectifs et Lineups</h1>
-
         {/* Table des matières */}
         <div style={{ marginBottom: '20px', padding: '10px', border: '1px solid #ddd', borderRadius: '8px' }}>
           <h2>Table des matières</h2>
@@ -140,7 +138,7 @@ const CollectifsPage = () => {
           ))}
         </div>
       </div>
-    </Layout>
+    </NoNavLayout>
   );
 };
 
