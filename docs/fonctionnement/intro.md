@@ -59,7 +59,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 ### Fiche des avancés 🎆
 :::info
 
-- **Niveau :** intermédiaires-avancés ou avancés ([Évaluer son niveau ?](/fonctionnement/evaluer-son-niveau.md))
+- **Niveau :** intermédiaires-avancés ou avancés ([Évaluer son niveau ?](/docs/fonctionnement/evaluer-son-niveau.md))
 - **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://www.blog.zikapanam.fr/invitation-discord)** <!-- https://discord.gg/Ad2EfNXPeB -->
 - **Email :** contact@zikapanam.fr
 - **Bento :** https://bento.me/AssoZikapanam
@@ -76,14 +76,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 :::
 ### Les différents collectifs des avancés 🎆
 
-Il y a des lineups satellites Blues et Groove / Funk.
-
-À ce jour, ces collectifs sont en place :
-- Collectif Repassez-moi le standard ! (Jazz - Fred_Ble) [Présentation](https://discord.com/channels/1038909359712895058/1221022482270650399/1221022482270650399) .
-- Collectif Vulfans (Reprises de Vulfpeck - Yoann_All)  ;
-- Collectif Jams & lineups du Rock au Métal ( Laurent_Sch)[Présentation](https://discord.com/channels/1038909359712895058/1279158092994445445) 
-
-Nous aimerions qu'un collectif Blues soit créé sur le même modèle que le collectif Jazz ci-dessus. L'idée de ce collectif serait d'organiser des sessions jams régulières sur ce style avec des lineups éphémères.
+Consultez tous les collectifs & les lineups de l'asso tout niveau confondu là : [Collectifs & Lineups](/docs/projets-dans-l-asso/collectifs)
 
 ... Tout au long de l'année des collectifs se crééent grâce à vous !
 
@@ -95,7 +88,7 @@ Nous aimerions qu'un collectif Blues soit créé sur le même modèle que le col
 ### Fiche des interdebs 😎
 :::info
 
-- **Niveau :** intermédiaire ou débutant ([Évaluer son niveau ?](/fonctionnement/evaluer-son-niveau.md))
+- **Niveau :** intermédiaire ou débutant ([Évaluer son niveau ?](/docs/fonctionnement/evaluer-son-niveau.md))
 - **Discord (ZAP) :** **[Lien d'invitation (Cliquez ici pour rejoindre le Discord Zikapanam)](https://www.blog.zikapanam.fr/invitation-discord)**
 - **Email :** contact@zikapanam.fr
 - **Bento :** https://bento.me/AssoZikapanam
@@ -113,13 +106,9 @@ Nous aimerions qu'un collectif Blues soit créé sur le même modèle que le col
 
 ### Les différents collectifs des interdebs 😎
 
-- Collectif Ultra Heavy Riffs (JeanneCharlotte_Wat) : Du rock au métal [Présentation](https://discord.com/channels/1038909359712895058/1052703682799599666/1052703682799599666) ;
-- Collectif Les Grands Classiques (Maurice_Ang) : Tubes internationaux autour de la variété française, de la pop/rock, de la soul mais également du punk/Rock/Grunge (Plusieurs lineups avec influences différentes) [Présentation](https://discord.com/channels/1038909359712895058/1193978188402008194/1193978188402008194) ;
-- Collectif Oldies but Goldies (Yann_Leb) : Jazz [Présentation](https://discord.com/channels/1038909359712895058/1150086345532899388/1150086345532899388) ;
-- Collectif Akwaba (Paul_Kac) : Jazz, Blues, Soul, Funk, Afro Beat. [Présentation](https://discord.com/channels/1038909359712895058/1092582664088850432/1092582664088850432) ;
-- Collectif Into The Groove (PierreHenri_Nod) : Soul, RnB, Funk. [Présentation](https://discord.com/channels/1038909359712895058/1131556262530793482/1131556262530793482) ;
+Consultez tous les collectifs & les lineups de l'asso tout niveau confondu là : [Collectifs & Lineups](/docs/projets-dans-l-asso/collectifs)
 
-... D'autres à venir tout au long de l'année grâce à vous !
+... Tout au long de l'année des collectifs se crééent grâce à vous !
 	
 ### Extraits vidéo des interdebs 😎
 
