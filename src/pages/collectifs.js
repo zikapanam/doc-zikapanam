@@ -129,6 +129,7 @@ const CollectifsPage = () => {
                           <ReactMarkdown rehypePlugins={[rehypeRaw]}>{removeLinks(lineup.description)}</ReactMarkdown>
                         </div>
                       )}
+                      <br/>
                     </li>
                   ))}
               </ul>
