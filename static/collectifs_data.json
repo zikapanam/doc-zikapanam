@@ -456,7 +456,17 @@
         "illustration_url": null,
         "discord_presentation_url": "https://discord.com/channels/1038909359712895058/1300468056467964036/1300470597524131860",
         "recrutement_permanent": true,
-        "lineups": []
+        "lineups": [
+            {
+                "intitule_long": "Jukebox Babes",
+                "intitule_court": "RStock 1",
+                "referent_pseudo_zap": "Fred_Ble",
+                "prenoms_membres": "",
+                "style_musique": "Rock",
+                "phrase_accroche": null,
+                "description": "Des standards de rock \npour s'entraîner, s'amuser et jouer sérieusement sans se prendre au sérieux"
+            }
+        ]
     },
     "recHuqDC07IcUUFft": {
         "intitule": "🦛 Collectif Paname Funk",
