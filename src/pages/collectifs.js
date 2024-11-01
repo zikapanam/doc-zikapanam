@@ -109,9 +109,15 @@ const CollectifsPage = () => {
                   .sort((a, b) => (a.intitule_long || a.intitule_court).localeCompare(b.intitule_long || b.intitule_court))
                   .map((lineup, lineupIndex) => (
                     <li key={lineupIndex} id={`lineup-${collectif.intitule}-${lineupIndex}`}>
-                      <strong>{removeLinks(lineup.intitule_long) || removeLinks(lineup.intitule_court)}</strong>
+                      <p><strong>{removeLinks(lineup.intitule_long) || removeLinks(lineup.intitule_court)}</strong></p>
+                      {lineup.referent_pseudo_zap && (
+                        <div><strong>Référent :</strong> {removeLinks(lineup.referent_pseudo_zap)}<br/></div>
+                      )}
+                      {lineup.prenoms_membres && (
+                        <div><strong>Membres :</strong> {removeLinks(lineup.prenoms_membres)}<br/></div>
+                      )}
                       {lineup.style_musique && (
-                        <p><strong>Style(s) de musique :</strong> {lineup.style_musique.join(', ')}</p>
+                        <div><strong>Style(s) de musique :</strong> {lineup.style_musique}<br/></div>
                       )}
                       {lineup.phrase_accroche && (
                         <div className="markdown-container">

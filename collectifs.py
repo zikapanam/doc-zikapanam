@@ -47,7 +47,7 @@ def main():
             "jam_description": fields.get("Jam description"),
             "illustration_url": fields.get("Illustration", [{}])[0].get("url"),
             "discord_presentation_url": fields.get("discord_presentation_url"),
-            "recrutement_permanent": fields.get("Recrutement permanent", False),  # Champ ajoutée pour le recrutement permanent
+            "recrutement_permanent": fields.get("Recrutement permanent", False),
             "lineups": []
         }
 
@@ -58,7 +58,8 @@ def main():
             "intitule_long": fields.get("intitulé long"),
             "intitule_court": fields.get("intitulé court"),
             "referent_pseudo_zap": fields.get("Rollup Référent Pseudo ZAP"),
-            "style_musique": fields.get("Style(s) de musique"),
+            "prenoms_membres": ", ".join(sorted(fields.get("Prénoms des Membres", []))),
+            "style_musique": ", ".join(fields.get("Style(s) de musique", [])),  # Les styles de musique séparés par des virgules
             "phrase_accroche": fields.get("Phrase d’accroche"),
             "description": fields.get("Description")
         }
