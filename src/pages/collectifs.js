@@ -76,7 +76,8 @@ const CollectifsPage = () => {
     .map((collectif) => ({
       ...collectif,
       lineups: (collectif.lineups || []).filter((lineup) => 
-        removeEmojis(lineup.intitule_long || lineup.intitule_court || '').toLowerCase().includes(searchTerm)
+        removeEmojis(lineup.intitule_long || lineup.intitule_court || '').toLowerCase().includes(searchTerm) ||
+        (lineup.style_musique && lineup.style_musique.toLowerCase().includes(searchTerm))
       )
     }))
     .filter((collectif) =>
@@ -120,7 +121,7 @@ const CollectifsPage = () => {
           <h2>Table des matières</h2>
           <input
             type="text"
-            placeholder="Rechercher un collectif ou lineup..."
+            placeholder="Rechercher un collectif, lineup ou style de musique..."
             onChange={handleSearch}
             style={{
               padding: '8px',
