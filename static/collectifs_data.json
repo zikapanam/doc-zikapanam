@@ -459,12 +459,12 @@
         "lineups": [
             {
                 "intitule_long": "Jukebox Babes",
-                "intitule_court": "RStock 1",
+                "intitule_court": "RES 1",
                 "referent_pseudo_zap": "Fred_Ble",
-                "prenoms_membres": "",
+                "prenoms_membres": "Fred",
                 "style_musique": "Rock",
                 "phrase_accroche": null,
-                "description": "Des standards de rock \npour s'entraîner, s'amuser et jouer sérieusement sans se prendre au sérieux"
+                "description": "Lineup en cours de constitution. \nCovers plus ou moins rapiécées. \nBonne humeur exigée. "
             }
         ]
     },
