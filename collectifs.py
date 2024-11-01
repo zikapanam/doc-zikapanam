@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration Airtable avec des variables d'environnement
-API_KEY = os.getenv('AIRTABLE_API_KEY')
+API_KEY = os.getenv('AIRTABLE_API_TOKEN')
 BASE_ID = os.getenv('AIRTABLE_BASE_ID')
 COLLECTIFS_TABLE_NAME = 'Collectifs Musicaux'
 LINEUPS_TABLE_NAME = 'Lineups'
