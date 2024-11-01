@@ -77,6 +77,7 @@ const CollectifsPage = () => {
 
   const handleSearch = (e) => {
     setSearchTerm(e.target.value.toLowerCase());
+    setSelectedStyle(''); // Reset to "Tous les styles" when search is used
   };
 
   const handleStyleChange = (e) => {
@@ -150,6 +151,7 @@ const CollectifsPage = () => {
             type="text"
             placeholder="Rechercher un collectif, lineup ou style de musique..."
             onChange={handleSearch}
+            value={searchTerm}
             style={{
               padding: '8px',
               marginBottom: '10px',
