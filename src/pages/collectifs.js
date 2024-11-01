@@ -46,6 +46,7 @@ const CollectifsPage = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [searchTerm, setSearchTerm] = useState('');
+  const [selectedStyle, setSelectedStyle] = useState('');
 
   useEffect(() => {
     const fetchData = async () => {
@@ -78,17 +79,45 @@ const CollectifsPage = () => {
     setSearchTerm(e.target.value.toLowerCase());
   };
 
+  const handleStyleChange = (e) => {
+    setSelectedStyle(e.target.value);
+  };
+
+  // Collect unique individual styles from collectifs and lineups, then sort them alphabetically
+  const allStyles = [
+    ...new Set(
+      collectifs.flatMap((collectif) =>
+        (collectif.lineups || []).flatMap((lineup) =>
+          lineup.style_musique
+            ? lineup.style_musique.split(',').map((style) => style.trim())
+            : []
+        )
+      )
+    ),
+  ].sort((a, b) => a.localeCompare(b));
+
   const filteredCollectifs = collectifs
     .map((collectif) => ({
       ...collectif,
-      lineups: (collectif.lineups || []).filter((lineup) => 
-        removeEmojis(lineup.intitule_long || lineup.intitule_court || '').toLowerCase().includes(searchTerm) ||
-        (lineup.style_musique && lineup.style_musique.toLowerCase().includes(searchTerm))
-      )
+      lineups: (collectif.lineups || []).filter((lineup) => {
+        const lineupStyles = lineup.style_musique
+          ? lineup.style_musique.split(',').map((style) => style.trim().toLowerCase())
+          : [];
+        const matchesSearchTerm = removeEmojis(lineup.intitule_long || lineup.intitule_court || '')
+          .toLowerCase()
+          .includes(searchTerm) || 
+          lineupStyles.some((style) => style.includes(searchTerm));
+        const matchesSelectedStyle = selectedStyle === '' || lineupStyles.includes(selectedStyle.toLowerCase());
+        return matchesSearchTerm && matchesSelectedStyle;
+      }),
     }))
     .filter((collectif) =>
-      removeEmojis(collectif.intitule).toLowerCase().includes(searchTerm) ||
-      (collectif.lineups && collectif.lineups.length > 0)
+      (removeEmojis(collectif.intitule).toLowerCase().includes(searchTerm) || 
+      (collectif.lineups && collectif.lineups.length > 0)) &&
+      (selectedStyle === '' || collectif.lineups.some(lineup => 
+        lineup.style_musique &&
+        lineup.style_musique.split(',').map((style) => style.trim().toLowerCase()).includes(selectedStyle.toLowerCase())
+      ))
     );
 
   const toc = filteredCollectifs.map((collectif) => ({
@@ -129,6 +158,24 @@ const CollectifsPage = () => {
               border: '1px solid #ddd',
             }}
           />
+          <select
+            value={selectedStyle}
+            onChange={handleStyleChange}
+            style={{
+              padding: '8px',
+              marginBottom: '10px',
+              borderRadius: '4px',
+              width: '100%',
+              border: '1px solid #ddd',
+            }}
+          >
+            <option value="">Tous les styles</option>
+            {allStyles.map((style, index) => (
+              <option key={index} value={style.toLowerCase()}>
+                {style}
+              </option>
+            ))}
+          </select>
           {toc.map((collectif) => (
             <div key={collectif.id}>
               <a
