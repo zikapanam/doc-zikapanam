@@ -37,6 +37,10 @@ const formatArrayAsText = (data) => {
   return removeLinks(data);
 };
 
+const getIntituleOrPlaceholder = (text) => {
+  return text && text.trim() ? text.trim() : 'Fiche à compléter';
+};
+
 const CollectifsPage = () => {
   const [collectifs, setCollectifs] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -82,8 +86,8 @@ const CollectifsPage = () => {
     );
 
   const toc = filteredCollectifs.map((collectif) => ({
-    id: collectif.intitule,
-    title: collectif.intitule,
+    id: getIntituleOrPlaceholder(collectif.intitule),
+    title: getIntituleOrPlaceholder(collectif.intitule),
     lineups: collectif.lineups,
   }));
 
@@ -141,7 +145,7 @@ const CollectifsPage = () => {
                         scrollToWithOffset(`lineup-${collectif.id}-${index}`);
                       }}
                     >
-                      {lineup.intitule_long || lineup.intitule_court}
+                      {getIntituleOrPlaceholder(lineup.intitule_long || lineup.intitule_court)}
                     </a>
                   </li>
                 ))}
@@ -154,7 +158,7 @@ const CollectifsPage = () => {
           {filteredCollectifs.map((collectif, index) => (
             <div
               key={index}
-              id={`collectif-${collectif.intitule}`}
+              id={`collectif-${getIntituleOrPlaceholder(collectif.intitule)}`}
               style={{
                 marginBottom: '40px',
                 paddingBottom: '20px',
@@ -162,12 +166,12 @@ const CollectifsPage = () => {
               }}
             >
               <div
-                id={`anchor-${collectif.intitule}`}
+                id={`anchor-${getIntituleOrPlaceholder(collectif.intitule)}`}
                 style={{ position: 'relative', top: '-80px' }}
               ></div>
 
-              <h3>{removeLinks(collectif.intitule)}</h3>
-              {collectif.intitule_court && <h4>{removeLinks(collectif.intitule_court)}</h4>}
+              <h3>{getIntituleOrPlaceholder(removeLinks(collectif.intitule))}</h3>
+              {collectif.intitule_court && <h4>{getIntituleOrPlaceholder(removeLinks(collectif.intitule_court))}</h4>}
               {collectif.recrutement_permanent && (
                 <p className="recrutement-permanent">Recrutement permanent</p>
               )}
@@ -203,8 +207,8 @@ const CollectifsPage = () => {
               <h4>Lineups</h4>
               <ul>
                 {collectif.lineups.map((lineup, lineupIndex) => (
-                  <li key={lineupIndex} id={`lineup-${collectif.intitule}-${lineupIndex}`}>
-                    <p><strong>{removeLinks(lineup.intitule_long) || removeLinks(lineup.intitule_court)}</strong></p>
+                  <li key={lineupIndex} id={`lineup-${getIntituleOrPlaceholder(collectif.intitule)}-${lineupIndex}`}>
+                    <p><strong>{getIntituleOrPlaceholder(removeLinks(lineup.intitule_long) || removeLinks(lineup.intitule_court))}</strong></p>
                     {lineup.referent_pseudo_zap && (
                       <div><strong>Référent :</strong> {formatArrayAsText(lineup.referent_pseudo_zap)}<br /></div>
                     )}
