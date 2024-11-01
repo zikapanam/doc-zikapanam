@@ -120,7 +120,13 @@ const CollectifsPage = () => {
               <ul>
                 {collectif.lineups.map((lineup, index) => (
                   <li key={index}>
-                    <a href={`#lineup-${collectif.id}-${index}`}>
+                    <a 
+                      href={`#lineup-${collectif.id}-${index}`}
+                      onClick={(e) => {
+                        e.preventDefault();
+                        scrollToWithOffset(`lineup-${collectif.id}-${index}`);
+                      }}
+                    >
                       {lineup.intitule_long || lineup.intitule_court}
                     </a>
                   </li>
