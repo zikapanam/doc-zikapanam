@@ -1,5 +1,6 @@
 import json
 import os
+import requests
 from pyairtable import Api
 from dotenv import load_dotenv
 
@@ -21,6 +22,22 @@ api = Api(API_KEY)
 collectifs_table = api.table(BASE_ID, COLLECTIFS_TABLE_NAME)
 lineups_table = api.table(BASE_ID, LINEUPS_TABLE_NAME)
 
+# Création du dossier pour les images si non existant
+os.makedirs('static/images', exist_ok=True)
+
+def download_image(url, filename):
+    """Télécharge une image depuis une URL et la sauvegarde localement."""
+    try:
+        response = requests.get(url, stream=True)
+        response.raise_for_status()
+        with open(filename, 'wb') as f:
+            for chunk in response.iter_content(1024):
+                f.write(chunk)
+        return filename
+    except requests.RequestException as e:
+        print(f"Erreur lors du téléchargement de {url}: {e}")
+        return None
+
 def fetch_collectifs():
     """Récupère les données des collectifs depuis Airtable."""
     return collectifs_table.all(view="Liste des collectifs non archivés")
@@ -40,12 +57,22 @@ def main():
         collectif_id = collectif['id']
         fields = collectif['fields']
         
+        # Vérifie si une illustration est présente
+        illustration_url = fields.get("Illustration", [{}])[0].get("url")
+        if illustration_url:
+            # Définit le chemin de fichier local pour l'image
+            local_image_path = f"static/img/collectifs/{collectif_id}.jpg"
+            # Télécharge l'image et met à jour l'URL si le téléchargement réussit
+            if download_image(illustration_url, local_image_path):
+                illustration_url = f"/img/collectifs/{collectif_id}.jpg"
+                print(f"local image ajoutée ou mise à jour {local_image_path}")
+
         data[collectif_id] = {
             "intitule": fields.get("Intitulé"),
             "intitule_court": fields.get("Intitulé court"),
             "pseudo_zap": fields.get("Pseudo ZAP (from REF responsable)"),
             "jam_description": fields.get("Jam description"),
-            "illustration_url": fields.get("Illustration", [{}])[0].get("url"),
+            "illustration_url": illustration_url,  # Met à jour avec le chemin local
             "discord_presentation_url": fields.get("discord_presentation_url"),
             "recrutement_permanent": fields.get("Recrutement permanent", False),
             "lineups": []

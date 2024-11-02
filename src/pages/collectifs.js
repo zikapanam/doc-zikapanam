@@ -248,7 +248,7 @@ const CollectifsPage = () => {
                 <img
                   src={collectif.illustration_url}
                   alt={`${collectif.intitule} logo`}
-                  style={{ width: '100px', height: 'auto', marginTop: '10px' }}
+                  style={{ width: '250px', height: 'auto', marginTop: '10px' }}
                 />
               )}
               {collectif.discord_presentation_url && (
