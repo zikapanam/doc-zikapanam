@@ -24,7 +24,7 @@ Alors un Grand MERCI à toutes nos forces vives !
 
 ## JeVeuxAider.gouv.fr
 
-Nous sommes présents sur cette plateforme de recrutement de bénévoles, la seule que nous fréquentons de façon assidue. Même si le recrutement prend du temps, il y a vraiment des pépites de bénévoles sur ce site et j'en suis très satisfait ! Braov pour l'initiative de ce site, il est plutôt bien fait de mon point de vue.
+Nous sommes présents sur cette plateforme de recrutement de bénévoles, la seule que nous fréquentons de façon assidue. Même si le recrutement prend du temps, il y a vraiment des pépites de bénévoles sur ce site et j'en suis très satisfait ! Bravo pour l'initiative de ce site, il est plutôt bien fait de mon point de vue.
 
 Pour les missions en cours, [c'est par ici](https://www.jeveuxaider.gouv.fr/organisations/17607-zikapanam)
 
@@ -36,7 +36,7 @@ Nous accueillons également [des organisateurs d'événements](/docs/fonctionnem
 
 Nous avons très peu de déconvenues si on ramène aux nombres d'adhérents que nous avons. Ces missions durent minimum une saison (septemebre à juin) mais peuvent s'étaler sur plusieurs années ... Les projets peuvent évoluer, grandir ou changer, le leader ou référent est autonome sur ces décisions même si il peut demander de l'aide.
 
-Les outils et les facilités que nous proposoons au sein de l'asso font qu'elle est unique en son genre et vous ne trouverez nul part ailleurs une infrastructure aussi développée pour le coût modique de cotisation qu'elle propose.
+Les outils et les facilités que nous proposons au sein de l'asso font qu'elle est unique en son genre et vous ne trouverez nul part ailleurs une infrastructure aussi développée pour le coût modique de cotisation qu'elle propose.
 
 ## Galeries
 
