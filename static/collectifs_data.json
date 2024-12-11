@@ -29,15 +29,6 @@
                 "description": "Metallica\nPantera\nDeftones\nKorn\nMotorhead\nSepultura\nSlipknot\nCoal Chamber\nSoulfly"
             },
             {
-                "intitule_long": "MPWR!",
-                "intitule_court": "MPWR!",
-                "referent_pseudo_zap": "Benjamin_Bru",
-                "prenoms_membres": "Benjamin, Bruno, Cedric, Corentin, Zara",
-                "style_musique": "Metal",
-                "phrase_accroche": null,
-                "description": "Gojira\nPantera\nParkway Drive\nSoulfly\nMachineHead\n"
-            },
-            {
                 "intitule_long": "Beam",
                 "intitule_court": "Beam",
                 "referent_pseudo_zap": "Benjamin_Bru",
@@ -45,6 +36,15 @@
                 "style_musique": "Rock",
                 "phrase_accroche": null,
                 "description": "en cours"
+            },
+            {
+                "intitule_long": "MPWR!",
+                "intitule_court": "MPWR!",
+                "referent_pseudo_zap": "Cedric_Ney",
+                "prenoms_membres": "Benjamin, Bruno, Cedric, Corentin, Zara",
+                "style_musique": "Metal",
+                "phrase_accroche": null,
+                "description": "Gojira\nPantera\nParkway Drive\nSoulfly\nMachineHead\n"
             },
             {
                 "intitule_long": "Reprises orientées Trash Metal",
@@ -74,13 +74,22 @@
                 "description": "Covers Rock / Grunge / Punk années 1990/2000 (en théorie)"
             },
             {
-                "intitule_long": "Line up grunge ",
-                "intitule_court": "LG ",
+                "intitule_long": "The Jenkins",
+                "intitule_court": "Jenkins",
                 "referent_pseudo_zap": "JeanneCharlotte_Wat",
                 "prenoms_membres": "Gael, Jeanne-Charlotte, Mathieu, Odile, William",
                 "style_musique": "Grunge",
                 "phrase_accroche": null,
                 "description": "Pas encore de nom de groupe et la première répet aura lieu le 4/10 "
+            },
+            {
+                "intitule_long": "Ex Abrupto",
+                "intitule_court": "Ex Abrupto",
+                "referent_pseudo_zap": "Renaud_Mef",
+                "prenoms_membres": "Renaud, Roland",
+                "style_musique": "Metal, Grunge",
+                "phrase_accroche": null,
+                "description": null
             },
             {
                 "intitule_long": "Pelvis",
@@ -128,7 +137,9 @@
         "intitule": "☎️ Collectif Repassez-moi le standard",
         "intitule_court": null,
         "pseudo_zap": [
-            "Fred_Ble"
+            "Fred_Ble",
+            "Marc_Kan",
+            "Xavier_Gue"
         ],
         "jam_description": "🎯 But : travailler des standards de jazz\n\nConcept : travailler des standards de jazz avec le minimum d'erreurs, en soignant les débuts, enchainements et fins, en essayant de préparer ses chorus. 4/6 morceaux maximum par session, qui peuvent être les mêmes d'une session sur l'autre si nécessaire. L'objectif est d'arriver à en jouer proprement au moins une vingtaine dans l'année.\n\nhttps://discord.com/channels/1038909359712895058/1221022482270650399/1221022482270650399\n",
         "illustration_url": null,
@@ -216,7 +227,7 @@
                 "intitule_court": null,
                 "referent_pseudo_zap": "Mohamed_Nai",
                 "prenoms_membres": "",
-                "style_musique": "",
+                "style_musique": "Funk",
                 "phrase_accroche": null,
                 "description": null
             },
@@ -224,10 +235,10 @@
                 "intitule_long": "Into the Groove - The Fourth",
                 "intitule_court": "ITG-IV",
                 "referent_pseudo_zap": "Naya_A",
-                "prenoms_membres": "Juan-Manuel, Nathalie ",
+                "prenoms_membres": "Abhishek, Aubin, Guilherme, Juan-Manuel, Nathalie ",
                 "style_musique": "Funk, Soul, Groove",
                 "phrase_accroche": null,
-                "description": "Into the groove : the fourth !"
+                "description": "Nous sommes un groupe de cover funk/soul formé via l'association et dont l'objectif est de se réunir pour le plaisir de groover ensemble, et jouer sur scène quand l'occasion se présentera!"
             },
             {
                 "intitule_long": null,
@@ -301,9 +312,9 @@
                 "intitule_court": "Kicks",
                 "referent_pseudo_zap": "JeanJacques_Cad",
                 "prenoms_membres": "CHRISTOPHE, Ermias , Izabelle, Jean-Jacques, Karine ",
-                "style_musique": "Pop, Rock",
+                "style_musique": "Pop",
                 "phrase_accroche": null,
-                "description": "Pop rock blues"
+                "description": "Des covers de tubes, d'Amy winehouse aux beatles. "
             },
             {
                 "intitule_long": "The Swamps",
@@ -430,7 +441,7 @@
                 "intitule_long": "Blues Braqueurs II",
                 "intitule_court": "BB II",
                 "referent_pseudo_zap": "Henri_Dom",
-                "prenoms_membres": "Charly, Géraud , Henri, Nicolas , Ramón ",
+                "prenoms_membres": "Charly, Henri, Migad, Nicolas , Ramón ",
                 "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": " Du Blues roots du delta au blues revival, en passant par le Chicago blues, nous voulons faire vibrer toutes les nuances de bleu que nous pourrons arracher à nos instruments!"
@@ -458,10 +469,10 @@
         "recrutement_permanent": true,
         "lineups": [
             {
-                "intitule_long": "Jukebox Babes",
+                "intitule_long": "Jukebox Babe",
                 "intitule_court": "RES 1",
-                "referent_pseudo_zap": "Fred_Ble",
-                "prenoms_membres": "Fred",
+                "referent_pseudo_zap": "MariePierre_Fou",
+                "prenoms_membres": "Fred, Marie-Pierre",
                 "style_musique": "Rock",
                 "phrase_accroche": null,
                 "description": "Lineup en cours de constitution. \nCovers plus ou moins rapiécées. \nBonne humeur exigée. "
@@ -478,6 +489,37 @@
         "illustration_url": "/img/collectifs/recHuqDC07IcUUFft.jpg",
         "discord_presentation_url": "https://discord.com/channels/1038909359712895058/1301197831742292081/1301197831742292081",
         "recrutement_permanent": true,
+        "lineups": [
+            {
+                "intitule_long": "Paname Funk Lineup 1",
+                "intitule_court": "PFunk 1",
+                "referent_pseudo_zap": "Alex_Aff",
+                "prenoms_membres": "Alex, Christophe, Fred, Marc, Marie-Pierre, Olivier , Serge",
+                "style_musique": "Funk",
+                "phrase_accroche": null,
+                "description": "Lineup constitué, remplacements ponctuels ou guest bienvenus (samedi chaque trois semaine a partir de 18 janvier)"
+            },
+            {
+                "intitule_long": "Paname Funk Lineup 2",
+                "intitule_court": "PFunk 2",
+                "referent_pseudo_zap": "Alex_Aff",
+                "prenoms_membres": "Nathalie, Nathalie , Pierre",
+                "style_musique": "Funk",
+                "phrase_accroche": null,
+                "description": "Lineup under development,  remplacements ponctuels ou guest bienvenus (samedi chaque trois semaine a partir de 18 janvier)"
+            }
+        ]
+    },
+    "recd2gxrVBoDCdjgq": {
+        "intitule": "Atelier Jam KITCHEN",
+        "intitule_court": null,
+        "pseudo_zap": [
+            "Yoann_All"
+        ],
+        "jam_description": null,
+        "illustration_url": null,
+        "discord_presentation_url": null,
+        "recrutement_permanent": false,
         "lineups": []
     }
 }
