@@ -41,7 +41,7 @@
                 "intitule_long": "MPWR!",
                 "intitule_court": "MPWR!",
                 "referent_pseudo_zap": "Cedric_Ney",
-                "prenoms_membres": "Benjamin, Bruno, Cedric, Corentin",
+                "prenoms_membres": "Benjamin, Bruno, Cedric, Corentin, Zara",
                 "style_musique": "Metal",
                 "phrase_accroche": null,
                 "description": "Gojira\nPantera\nParkway Drive\nSoulfly\nMachineHead\n"
@@ -50,7 +50,7 @@
                 "intitule_long": "Reprises orientées Trash Metal",
                 "intitule_court": "MPWR",
                 "referent_pseudo_zap": "Cedric_Ney",
-                "prenoms_membres": "Benjamin, Bruno, Corentin",
+                "prenoms_membres": "Benjamin, Bruno, Corentin, Zara",
                 "style_musique": "Metal",
                 "phrase_accroche": null,
                 "description": "PLUS FORT !!!"
@@ -263,15 +263,6 @@
         "recrutement_permanent": false,
         "lineups": [
             {
-                "intitule_long": "BORN",
-                "intitule_court": "BORN",
-                "referent_pseudo_zap": "Antonin_Mau",
-                "prenoms_membres": "Antoine, Antonin, Jean-Michel, Migad, Thibault",
-                "style_musique": "Metal",
-                "phrase_accroche": null,
-                "description": "Du Métal saupoudré de passion !"
-            },
-            {
                 "intitule_long": "Déso DJ",
                 "intitule_court": "DésoDJ",
                 "referent_pseudo_zap": "David_Bas",
@@ -333,6 +324,15 @@
                 "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": "The Swamps est une formation qui propose des reprises Blues/Blues Rock avec une énergie caractérisée par l’improvisation."
+            },
+            {
+                "intitule_long": "Rock Blues & Country",
+                "intitule_court": "RB&C",
+                "referent_pseudo_zap": "Mustapha_Abb",
+                "prenoms_membres": "Hadrien, Jordan, Mustapha, Pierre-Marie, philippe",
+                "style_musique": "Blues, Rock, Country",
+                "phrase_accroche": null,
+                "description": "Nous sommes un line up intermédiaire/avancé créé en mai 24 avec pour objectif de jouer des reprises principalement rock et blues avec parfois quelques sonorités Country.\nLe répertoire est varié : the Doors (Roadhouse Blues), David Bowie(Jean Génie), the Rolling Stones (Dead Flowers, Just Like I Treat You), Cake (I Will Survive, l’harmonica remplace la trompette originale). The Doobie Brothers (Long Train Runnin’), Oasis (She ´s electric).\nD’autres morceaux sont en prévision, mais on s’attarde principalement sur les premiers morceaux et leurs structure pour apprendre à jouer ensemble.\nLes repets ont lieu le lundi soir ou le mercredi soir aux Studios DGD à Pantin où aux Studios Luna Rossa à Paris 13e.\n"
             },
             {
                 "intitule_long": "CoverSquaR",
@@ -486,7 +486,7 @@
             "Alex_Aff"
         ],
         "jam_description": "Se constituer un répertoire funky et variée d'environ 25 chansons, principalement des années 60 a 70 pour être en capacité à participer à des concerts de l’association.\n\nEn studio, nous travaillererons sur 3 à 5 morceaux à chaque séance.  Lors de la séance suivante, on interprète les morceaux precedents en mode filage puis on travaille 3 à 5 autres morceaux.\n",
-        "illustration_url": null,
+        "illustration_url": "/img/collectifs/recHuqDC07IcUUFft.jpg",
         "discord_presentation_url": "https://discord.com/channels/1038909359712895058/1301197831742292081/1301197831742292081",
         "recrutement_permanent": true,
         "lineups": [
@@ -494,7 +494,7 @@
                 "intitule_long": "Paname Funk Lineup 1",
                 "intitule_court": "PFunk 1",
                 "referent_pseudo_zap": "Alex_Aff",
-                "prenoms_membres": "Alex, Fred, Marc, Marie-Pierre, Olivier , Serge",
+                "prenoms_membres": "Alex, Christophe, Fred, Marc, Marie-Pierre, Olivier , Serge",
                 "style_musique": "Funk",
                 "phrase_accroche": null,
                 "description": "Lineup constitué, remplacements ponctuels ou guest bienvenus (samedi chaque trois semaine a partir de 18 janvier)"
