@@ -41,7 +41,7 @@
                 "intitule_long": "MPWR!",
                 "intitule_court": "MPWR!",
                 "referent_pseudo_zap": "Cedric_Ney",
-                "prenoms_membres": "Benjamin, Bruno, Cedric, Corentin, Zara",
+                "prenoms_membres": "Benjamin, Bruno, Cedric, Corentin",
                 "style_musique": "Metal",
                 "phrase_accroche": null,
                 "description": "Gojira\nPantera\nParkway Drive\nSoulfly\nMachineHead\n"
@@ -50,7 +50,7 @@
                 "intitule_long": "Reprises orientées Trash Metal",
                 "intitule_court": "MPWR",
                 "referent_pseudo_zap": "Cedric_Ney",
-                "prenoms_membres": "Benjamin, Bruno, Corentin, Zara",
+                "prenoms_membres": "Benjamin, Bruno, Corentin",
                 "style_musique": "Metal",
                 "phrase_accroche": null,
                 "description": "PLUS FORT !!!"
@@ -86,10 +86,10 @@
                 "intitule_long": "Ex Abrupto",
                 "intitule_court": "Ex Abrupto",
                 "referent_pseudo_zap": "Renaud_Mef",
-                "prenoms_membres": "Renaud, Roland",
+                "prenoms_membres": "Alex, Enrique, Maxime, Renaud",
                 "style_musique": "Metal, Grunge",
                 "phrase_accroche": null,
-                "description": null
+                "description": "Reprises bien carrées de morceaux issus des genres metal alternatif (Deftones, System of A Down), thrash metal (Metallica), grunge (Alice in Chains, Foo Fighters)..."
             },
             {
                 "intitule_long": "Pelvis",
@@ -126,7 +126,7 @@
                 "intitule_long": "Kenté Groove",
                 "intitule_court": "Kenté Groove",
                 "referent_pseudo_zap": "Xong_L**",
-                "prenoms_membres": "Carole, Emilie, Etan, Jordan, Marc, Paul, Xong",
+                "prenoms_membres": "Carole, Emilie, Etan, Jordan, Marc, Paul, Serge, Xong",
                 "style_musique": "Afrobeat, Trad",
                 "phrase_accroche": null,
                 "description": "Kenté Groove joue un mix de musiques africaines plutôt traditionnelles (mandingue, cap-verdienne, rumba congolaise etc) et afro rock&blues anciennes."
@@ -146,6 +146,15 @@
         "discord_presentation_url": "https://discordapp.com/channels/893372971073277962/1122424995939889164/1122424995939889164",
         "recrutement_permanent": true,
         "lineups": [
+            {
+                "intitule_long": null,
+                "intitule_court": "RMS 5",
+                "referent_pseudo_zap": "David_Bel",
+                "prenoms_membres": "Etan",
+                "style_musique": "Jazz, Latin",
+                "phrase_accroche": null,
+                "description": "Lineup en cours de constitution, remplacements ponctuels ou guest bienvenus (1 vendredi sur 2 à 20h). \nGuitare, Piano, Basse welcome. "
+            },
             {
                 "intitule_long": null,
                 "intitule_court": "RMS 4",
@@ -172,15 +181,6 @@
                 "style_musique": "Jazz, Latin",
                 "phrase_accroche": null,
                 "description": "Lineup constitué, remplacements ponctuels ou guest bienvenus (1 mardi sur 2 à 20h)"
-            },
-            {
-                "intitule_long": null,
-                "intitule_court": "RMS 5",
-                "referent_pseudo_zap": "Fred_Ble",
-                "prenoms_membres": "Etan",
-                "style_musique": "Jazz, Latin",
-                "phrase_accroche": null,
-                "description": "Lineup en cours de constitution, remplacements ponctuels ou guest bienvenus (1 vendredi sur 2 à 20h). \nGuitare, Piano, Basse welcome. "
             },
             {
                 "intitule_long": null,
@@ -263,6 +263,15 @@
         "recrutement_permanent": false,
         "lineups": [
             {
+                "intitule_long": "BORN",
+                "intitule_court": "BORN",
+                "referent_pseudo_zap": "Antonin_Mau",
+                "prenoms_membres": "Antoine, Antonin, Jean-Michel, Migad, Thibault",
+                "style_musique": "Metal",
+                "phrase_accroche": null,
+                "description": "Du Métal saupoudré de passion !"
+            },
+            {
                 "intitule_long": "Déso DJ",
                 "intitule_court": "DésoDJ",
                 "referent_pseudo_zap": "David_Bas",
@@ -272,13 +281,13 @@
                 "description": null
             },
             {
-                "intitule_long": "Nésouzik (ex HitsPoPnFrench)",
+                "intitule_long": "Néssouzik (ex HitsPoPnFrench)",
                 "intitule_court": "Nesouzik",
                 "referent_pseudo_zap": "Enrique_Cab",
-                "prenoms_membres": "Dominique, Emilie, Enrique, Julien, Vincent",
+                "prenoms_membres": "Dominique, Emilie, Enrique, Julien, Pierre, Vincent",
                 "style_musique": "Chanson française, Pop, Rock",
                 "phrase_accroche": null,
-                "description": "**[PRESENTATION DU LINE-UP Nésouzik (ex HitsPoPnFrench)]**\n\nLine-up est ouvert depuis septembre 2023, regroupant des musiciens de niveau intermédiaire.\n\nStyles abordés :  Variété et chanson Française, Pop Rock\n\nObjectif : Monter un répertoire pour de futurs concerts et scènes ouvertes.\n\nRépertoire : défini avec les membres du line-up. Actuellement :\n\nAline - Christophe\nLe dernier jour du Disco – Juliette Armanet (-1 ton)\nLa Groupie Du Pianiste – Michel Berger (+1 ton)\nOsez Josephine – Alain Bashung\nJ’irai où tu iras – Celine Dion, Jean Jacques Goldman\nChanson sur ma drôle de vie – Véronique Sanson\nRespire encore – Clara Luciani\n\nBonus pop / variété internationale :\nIronic - Alanis Morissette\nPart time lover - Stevie Wonder\nI Wish - Stevie Wonder\n\nInstruments recherchés :  ***Un-e guitariste lead avec un niveau intermédiaire.***\n \nLieu Paris Est : Studio Bleu Paris 10ème, Studios 440 Montreuil\n\nFréquence : tous les quinze jours les mercredis de 19H30 à 22H00"
+                "description": "Musique VF qui balance pas mal.\n\nStyles abordés :  Variété et chanson Française, Pop Rock\n\nFréquence : tous les quinze jours les mercredis de 19H30 à 22H00"
             },
             {
                 "intitule_long": "PK35",
@@ -324,15 +333,6 @@
                 "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": "The Swamps est une formation qui propose des reprises Blues/Blues Rock avec une énergie caractérisée par l’improvisation."
-            },
-            {
-                "intitule_long": "Rock Blues & Country",
-                "intitule_court": "RB&C",
-                "referent_pseudo_zap": "Mustapha_Abb",
-                "prenoms_membres": "Hadrien, Jordan, Mustapha, Pierre-Marie, philippe",
-                "style_musique": "Blues, Rock, Country",
-                "phrase_accroche": null,
-                "description": "Nous sommes un line up intermédiaire/avancé créé en mai 24 avec pour objectif de jouer des reprises principalement rock et blues avec parfois quelques sonorités Country.\nLe répertoire est varié : the Doors (Roadhouse Blues), David Bowie(Jean Génie), the Rolling Stones (Dead Flowers, Just Like I Treat You), Cake (I Will Survive, l’harmonica remplace la trompette originale). The Doobie Brothers (Long Train Runnin’), Oasis (She ´s electric).\nD’autres morceaux sont en prévision, mais on s’attarde principalement sur les premiers morceaux et leurs structure pour apprendre à jouer ensemble.\nLes repets ont lieu le lundi soir ou le mercredi soir aux Studios DGD à Pantin où aux Studios Luna Rossa à Paris 13e.\n"
             },
             {
                 "intitule_long": "CoverSquaR",
@@ -392,7 +392,7 @@
                 "intitule_long": "OLAPOP",
                 "intitule_court": "OLAPOP",
                 "referent_pseudo_zap": "Xong_L**",
-                "prenoms_membres": "Axel, Gael, Olivier, Philippe , Stéphane , Xong",
+                "prenoms_membres": "Axel, Gael, Philippe , Stéphane , Xong",
                 "style_musique": "Pop, Rock",
                 "phrase_accroche": null,
                 "description": "OLAPOP joue des reprises pop-rock qui savent accompagner tous les moments de la vie !"
@@ -486,7 +486,7 @@
             "Alex_Aff"
         ],
         "jam_description": "Se constituer un répertoire funky et variée d'environ 25 chansons, principalement des années 60 a 70 pour être en capacité à participer à des concerts de l’association.\n\nEn studio, nous travaillererons sur 3 à 5 morceaux à chaque séance.  Lors de la séance suivante, on interprète les morceaux precedents en mode filage puis on travaille 3 à 5 autres morceaux.\n",
-        "illustration_url": "/img/collectifs/recHuqDC07IcUUFft.jpg",
+        "illustration_url": null,
         "discord_presentation_url": "https://discord.com/channels/1038909359712895058/1301197831742292081/1301197831742292081",
         "recrutement_permanent": true,
         "lineups": [
@@ -494,7 +494,7 @@
                 "intitule_long": "Paname Funk Lineup 1",
                 "intitule_court": "PFunk 1",
                 "referent_pseudo_zap": "Alex_Aff",
-                "prenoms_membres": "Alex, Christophe, Fred, Marc, Marie-Pierre, Olivier , Serge",
+                "prenoms_membres": "Alex, Fred, Marc, Marie-Pierre, Olivier , Serge",
                 "style_musique": "Funk",
                 "phrase_accroche": null,
                 "description": "Lineup constitué, remplacements ponctuels ou guest bienvenus (samedi chaque trois semaine a partir de 18 janvier)"
@@ -520,6 +520,18 @@
         "illustration_url": null,
         "discord_presentation_url": null,
         "recrutement_permanent": false,
+        "lineups": []
+    },
+    "rec98b7ennHbMgZZZ": {
+        "intitule": "Fractal Riffactory",
+        "intitule_court": null,
+        "pseudo_zap": [
+            "Bertrand_Bar"
+        ],
+        "jam_description": "🎯 But : Improviser, construire des morceaux à la volée\nConcept : Faire évoluer un riff, en partant d’une ligne de basse, de guitare, batterie, inclure des sons électro ou d’autres instruments.\n \nL'objectif est d'arriver à en créer un morceau “live” de façon pyramidale (riff de base, évolution, retour au riff de base).\nEnregistrer (vidéo ou son) chaque séance pour en tirer quelque chose ou pas.\n\n\nLes musicien.ne.s peuvent fournir des riffs qu’ils ont à l’avance\nDes thématiques peuvent être proposées, exemple : “soirée motifs répétitifs à partir d’une gamme mode lydien”, “Ne jamais jouer la quinte” \n \n✅ Pré-requis : intermédiaire -avancé\n🎶 Styles abordés : Post-Rock, Rock psychédélique, rock progressif, stoner, sludge\n🔗 Lineup : batterie, basse, guitare, synthé/clavier électro, chant.\n🗺️ Lieu : à définir (Paris Sud / Montrouge / HF Studio)\n🕰️ Fréquence : toutes les 3 semaines le mercredi de 20h à 22h (hors congés scolaires sauf disponibilités) à compter du 01/02/2025",
+        "illustration_url": "/img/collectifs/rec98b7ennHbMgZZZ.jpg",
+        "discord_presentation_url": null,
+        "recrutement_permanent": true,
         "lineups": []
     }
 }
