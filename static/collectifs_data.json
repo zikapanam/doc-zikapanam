@@ -47,15 +47,6 @@
                 "description": "Gojira\nPantera\nParkway Drive\nSoulfly\nMachineHead\n"
             },
             {
-                "intitule_long": "Reprises orientées Trash Metal",
-                "intitule_court": "MPWR",
-                "referent_pseudo_zap": "Cedric_Ney",
-                "prenoms_membres": "Benjamin, Bruno, Corentin",
-                "style_musique": "Metal",
-                "phrase_accroche": null,
-                "description": "PLUS FORT !!!"
-            },
-            {
                 "intitule_long": "Gung-Ho!",
                 "intitule_court": "Gung-Ho!",
                 "referent_pseudo_zap": "Gael_Dep",
@@ -166,6 +157,15 @@
             },
             {
                 "intitule_long": null,
+                "intitule_court": "RMS 6",
+                "referent_pseudo_zap": "Florence_Car",
+                "prenoms_membres": "Carol, Etan, Florence, Jean-Jacques, Ramón , Théo",
+                "style_musique": "Jazz, Latin",
+                "phrase_accroche": null,
+                "description": "Lineup constitué, remplacements ponctuels ou guest bienvenus (1 vendredi sur 2 à 20h)\nNiveau intermédiaire / débutants"
+            },
+            {
+                "intitule_long": null,
                 "intitule_court": "RMS 1",
                 "referent_pseudo_zap": "Fred_Ble",
                 "prenoms_membres": "Fred, Marc, Martin, malika",
@@ -181,15 +181,6 @@
                 "style_musique": "Jazz, Latin",
                 "phrase_accroche": null,
                 "description": "Lineup constitué, remplacements ponctuels ou guest bienvenus (1 mardi sur 2 à 20h)"
-            },
-            {
-                "intitule_long": null,
-                "intitule_court": "RMS 6",
-                "referent_pseudo_zap": "JeanJacques_Cad",
-                "prenoms_membres": "Carol, Etan, Florence, Jean-Jacques, Ramón , Théo",
-                "style_musique": "Jazz, Latin",
-                "phrase_accroche": null,
-                "description": "Lineup constitué, remplacements ponctuels ou guest bienvenus (1 vendredi sur 2 à 20h)\nNiveau intermédiaire / débutants"
             },
             {
                 "intitule_long": "RMS 2 |> Swing747",
@@ -441,7 +432,7 @@
                 "intitule_long": "Blues Braqueurs II",
                 "intitule_court": "BB II",
                 "referent_pseudo_zap": "Henri_Dom",
-                "prenoms_membres": "Charly, Henri, Migad, Nicolas , Ramón ",
+                "prenoms_membres": "Charly, Henri, Nicolas , Ramón ",
                 "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": " Du Blues roots du delta au blues revival, en passant par le Chicago blues, nous voulons faire vibrer toutes les nuances de bleu que nous pourrons arracher à nos instruments!"
@@ -528,8 +519,20 @@
         "pseudo_zap": [
             "Bertrand_Bar"
         ],
-        "jam_description": "🎯 But : Improviser, construire des morceaux à la volée\nConcept : Faire évoluer un riff, en partant d’une ligne de basse, de guitare, batterie, inclure des sons électro ou d’autres instruments.\n \nL'objectif est d'arriver à en créer un morceau “live” de façon pyramidale (riff de base, évolution, retour au riff de base).\nEnregistrer (vidéo ou son) chaque séance pour en tirer quelque chose ou pas.\n\n\nLes musicien.ne.s peuvent fournir des riffs qu’ils ont à l’avance\nDes thématiques peuvent être proposées, exemple : “soirée motifs répétitifs à partir d’une gamme mode lydien”, “Ne jamais jouer la quinte” \n \n✅ Pré-requis : intermédiaire -avancé\n🎶 Styles abordés : Post-Rock, Rock psychédélique, rock progressif, stoner, sludge\n🔗 Lineup : batterie, basse, guitare, synthé/clavier électro, chant.\n🗺️ Lieu : à définir (Paris Sud / Montrouge / HF Studio)\n🕰️ Fréquence : toutes les 3 semaines le mercredi de 20h à 22h (hors congés scolaires sauf disponibilités) à compter du 01/02/2025",
+        "jam_description": "🎯 But : Improviser, construire des morceaux à la volée\nConcept : Faire évoluer un riff, en partant d’une ligne de basse, de guitare, batterie, inclure des sons électro ou d’autres instruments.\n \nL'objectif est d'arriver à en créer un morceau “live” de façon pyramidale (riff de base, évolution, retour au riff de base).\nEnregistrer (vidéo ou son) chaque séance pour en tirer quelque chose ou pas.\n\n\nLes musicien.ne.s peuvent fournir des riffs qu’ils ont à l’avance\nDes thématiques peuvent être proposées, exemple : “soirée motifs répétitifs à partir d’une gamme mode lydien”, “Ne jamais jouer la quinte” \n \n✅ Pré-requis : intermédiaire -avancé\n\n🎶 Styles abordés : Post-Rock, Rock psychédélique, rock progressif, stoner, sludge\n\n🔗 Lineup : batterie, basse, guitare, synthé/clavier électro, chant.\n\n🗺️ Lieu : à définir (Paris Sud / Montrouge / HF Studio)\n\n🕰️ Fréquence : toutes les 3 semaines le mercredi de 20h à 22h (hors congés scolaires sauf disponibilités) à compter du 01/02/2025",
         "illustration_url": "/img/collectifs/rec98b7ennHbMgZZZ.jpg",
+        "discord_presentation_url": null,
+        "recrutement_permanent": true,
+        "lineups": []
+    },
+    "recN6SdfFedCUxKhS": {
+        "intitule": "Big Band Jazz",
+        "intitule_court": null,
+        "pseudo_zap": [
+            "Didier_Fru"
+        ],
+        "jam_description": "🎯 But : travailler un répertoire Jazz traditionnel qui va de Count Basie à Charles Mingus\n\n✅ Pré-requis :  \n- intermédiaire-avancés et avancés\n- Lecture de partitions\n🎶 Styles abordés : Jazz swing\n\n🔗 Lineup : batterie, basse, piano, guitare\n2 saxos ténor et alto\n1 a 2 trompette \n1 a 2 trombone\nFlûte et clarinette\nEn chant on réfléchît\n\n🗺️ Lieu : à définir (Paris Sud / Paris centre)\n\n🕰️ Fréquence : toutes les 2 semaines le mardi soir\n",
+        "illustration_url": null,
         "discord_presentation_url": null,
         "recrutement_permanent": true,
         "lineups": []
