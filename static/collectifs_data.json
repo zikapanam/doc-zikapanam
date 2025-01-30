@@ -535,6 +535,16 @@
         "illustration_url": null,
         "discord_presentation_url": null,
         "recrutement_permanent": true,
-        "lineups": []
+        "lineups": [
+            {
+                "intitule_long": "Big Band Jazz",
+                "intitule_court": "BBJazz",
+                "referent_pseudo_zap": "Didier_Fru",
+                "prenoms_membres": "Didier",
+                "style_musique": "Jazz",
+                "phrase_accroche": null,
+                "description": null
+            }
+        ]
     }
 }
