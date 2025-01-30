@@ -537,13 +537,13 @@
         "recrutement_permanent": true,
         "lineups": [
             {
-                "intitule_long": "Big Band Jazz",
-                "intitule_court": "BBJazz",
+                "intitule_long": "Big Band Jazz 1",
+                "intitule_court": "BBJazz1",
                 "referent_pseudo_zap": "Didier_Fru",
                 "prenoms_membres": "Didier",
                 "style_musique": "Jazz",
                 "phrase_accroche": null,
-                "description": null
+                "description": "En route vers le Big Band Jazz"
             }
         ]
     }
