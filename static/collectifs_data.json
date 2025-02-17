@@ -38,13 +38,13 @@
                 "description": "en cours"
             },
             {
-                "intitule_long": "MPWR!",
-                "intitule_court": "MPWR!",
+                "intitule_long": "Reprises orientées Trash Metal",
+                "intitule_court": "MPWR",
                 "referent_pseudo_zap": "Cedric_Ney",
                 "prenoms_membres": "Benjamin, Bruno, Cedric, Corentin",
                 "style_musique": "Metal",
                 "phrase_accroche": null,
-                "description": "Gojira\nPantera\nParkway Drive\nSoulfly\nMachineHead\n"
+                "description": "Lineup orienté Trash Metal et Metal core.\n\nBeaucoup de décibels, beaucoup de batterie qui tape fort, beaucoup de guitare avec le gain au maximum, beaucoup de basse, et le chant avec du growl.\n\nReprises pour commencer (Machine Head, Sepultura, Lamb Of God, Pantera, Rise Of The Northstar, Parkway Drive, Gojira).\nCompos en prévision, quand le line-up sera assez à l'aise pour cela."
             },
             {
                 "intitule_long": "Gung-Ho!",
@@ -305,7 +305,7 @@
                 "prenoms_membres": "Ander, David, JACK, Jérôme, Laurent",
                 "style_musique": "Blues",
                 "phrase_accroche": null,
-                "description": null
+                "description": "One Four Five [Blues] : Des standards blues revisités et des blues plus contemporains dans un mélange énergique et délicieux !"
             },
             {
                 "intitule_long": "Kicks",
@@ -320,7 +320,7 @@
                 "intitule_long": "The Swamps",
                 "intitule_court": "Swamps",
                 "referent_pseudo_zap": "Laurent_Sch",
-                "prenoms_membres": "Charles, Jean-Claude, Julien, Laurent",
+                "prenoms_membres": "Charles, Jean-Claude, Julien, Laurent, Loann",
                 "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": "The Swamps est une formation qui propose des reprises Blues/Blues Rock avec une énergie caractérisée par l’improvisation."
@@ -389,6 +389,15 @@
                 "description": "OLAPOP joue des reprises pop-rock qui savent accompagner tous les moments de la vie !"
             },
             {
+                "intitule_long": "DiaTé ",
+                "intitule_court": "DiaTé ",
+                "referent_pseudo_zap": "Xong_L**",
+                "prenoms_membres": "Charly, Emilie, Hanane, Marta, Nicolas, Quentin, Vincent, Xong",
+                "style_musique": "Pop",
+                "phrase_accroche": null,
+                "description": null
+            },
+            {
                 "intitule_long": null,
                 "intitule_court": null,
                 "referent_pseudo_zap": "Yann_Leb",
@@ -432,7 +441,7 @@
                 "intitule_long": "Blues Braqueurs II",
                 "intitule_court": "BB II",
                 "referent_pseudo_zap": "Henri_Dom",
-                "prenoms_membres": "Charly, Henri, Nicolas , Ramón ",
+                "prenoms_membres": "Charly, Henri, Mathilde , Nicolas , Ramón ",
                 "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": " Du Blues roots du delta au blues revival, en passant par le Chicago blues, nous voulons faire vibrer toutes les nuances de bleu que nous pourrons arracher à nos instruments!"
@@ -531,8 +540,8 @@
         "pseudo_zap": [
             "Didier_Fru"
         ],
-        "jam_description": "🎯 But : travailler un répertoire Jazz traditionnel qui va de Count Basie à Charles Mingus\n\n✅ Pré-requis :  \n- intermédiaire-avancés et avancés\n- Lecture de partitions\n🎶 Styles abordés : Jazz swing\n\n🔗 Lineup : batterie, basse, piano, guitare\n2 saxos ténor et alto\n1 a 2 trompette \n1 a 2 trombone\nFlûte et clarinette\nEn chant on réfléchît\n\n🗺️ Lieu : à définir (Paris Sud / Paris centre)\n\n🕰️ Fréquence : toutes les 2 semaines le mardi soir\n",
-        "illustration_url": null,
+        "jam_description": "🎯 But : travailler un répertoire Jazz traditionnel qui va de Count Basie à Charles Mingus\n\n✅ Pré-requis :  \n- intermédiaire-avancés et avancés\n- Lecture de partitions\n🎶 Styles abordés : Jazz swing\n\n🔗 Lineup : batterie, basse/ contre basse, piano, guitare\n4 saxos barithon ténor alto & soprano \n1 a 2 trompette \n1 a 2 trombone\nFlûte et clarinette\nEn chant on réfléchît mais on peut aussi avoir des musiciens qui chantent \n\n🗺️ Lieu : à définir (Paris Sud / Paris centre)\n\n🕰️ Fréquence : toutes les 2 semaines le mardi soir\n",
+        "illustration_url": "/img/collectifs/recN6SdfFedCUxKhS.jpg",
         "discord_presentation_url": null,
         "recrutement_permanent": true,
         "lineups": [
