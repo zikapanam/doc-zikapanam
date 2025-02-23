@@ -51,7 +51,7 @@ Nous acceptons aussi les adolescents de 16 ans ou plus accompagnés dans leurs a
 
 Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite couronne. Des personnes de toute l'Île de france nous rejoignent.
 
-[Voici une carte des lieux fréquentés.](https://www.blog.zikapanam.fr/lieux.html)
+[Voici une carte des lieux fréquentés.](/docs/fonctionnement/osm_map)
 
 ## Communauté des avancés 🎆
 
@@ -64,7 +64,7 @@ Le rayon d'action de l'association Zikapanam est Paris intra-muros et sa petite 
 - **Email :** contact@zikapanam.fr
 - **Bento :** https://bento.me/AssoZikapanam
 - **Keskonfai :** https://keskonfai.fr/@asso_zikapanam
-- **Mastodon :** https://musicians.today/@AssoZikapanam
+- **Mastodon :** https://framapiaf.org/@AssoZikapanam
 - **Pixelfed :** https://pixelfed.fr/i/web/profile/691195821697027725
 - **PeerTube :** https://www.yiny.org/a/asso_zikapanam/video-channels
 - **Linktree :** https://linktr.ee/AssoZikapanam
@@ -93,7 +93,7 @@ Consultez tous les collectifs & les lineups de l'asso tout niveau confondu là :
 - **Email :** contact@zikapanam.fr
 - **Bento :** https://bento.me/AssoZikapanam
 - **Keskonfai :** https://keskonfai.fr/@asso_zikapanam
-- **Mastodon :** https://musicians.today/@AssoZikapanam
+- **Mastodon :** https://framapiaf.org/@AssoZikapanam
 - **Pixelfed :** https://pixelfed.fr/i/web/profile/691195821697027725
 - **PeerTube :** https://www.yiny.org/a/asso_zikapanam/video-channels
 - **Linktree :** https://linktr.ee/AssoZikapanam
