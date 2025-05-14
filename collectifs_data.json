@@ -3,39 +3,22 @@
         "intitule": "🔥 Collectif Ultra Heavy Riffs",
         "intitule_court": null,
         "pseudo_zap": [
-            "JeanneCharlotte_Wat"
+            "JeanneCharlotte_Wat",
+            "Benjamin_Bru"
         ],
         "jam_description": "Session en collectif d' Ultra Heavy Riffs. Plus d'infos là : https://discord.com/channels/1038909359712895058/1114881913430216865/1114881913430216865\n\n",
-        "illustration_url": "/img/collectifs/recgOaJG6tY6mgaUD.jpg",
+        "illustration_url": null,
         "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1052703682799599666/1052703682799599666",
         "recrutement_permanent": false,
         "lineups": [
             {
-                "intitule_long": "Cowbo",
-                "intitule_court": "Cowbo",
+                "intitule_long": "Combo",
+                "intitule_court": "Combo",
                 "referent_pseudo_zap": "Benjamin_Bru",
-                "prenoms_membres": "Benjamin, Jeanne-Charlotte, Michal, Nicolas, William",
+                "prenoms_membres": "Benjamin, Nicolas, William",
                 "style_musique": "Rock",
                 "phrase_accroche": null,
-                "description": "Blur\nHarry Styles\nDandy Warhols\nOutkast\nArctic Monkeys\nKings of Leon\nGreen Day\nSmashing Pumpkins\nGorillaz \nLouise Attaque "
-            },
-            {
-                "intitule_long": "Bucklerrs",
-                "intitule_court": "BuCkLeRRs",
-                "referent_pseudo_zap": "Benjamin_Bru",
-                "prenoms_membres": "Benjamin, Carlos, Louis, Renaud, Romain",
-                "style_musique": "Metal",
-                "phrase_accroche": null,
-                "description": "Metallica\nPantera\nDeftones\nKorn\nMotorhead\nSepultura\nSlipknot\nCoal Chamber\nSoulfly"
-            },
-            {
-                "intitule_long": "Beam",
-                "intitule_court": "Beam",
-                "referent_pseudo_zap": "Benjamin_Bru",
-                "prenoms_membres": "Aurélien , Benjamin, Enrique, Migad",
-                "style_musique": "Rock",
-                "phrase_accroche": null,
-                "description": "en cours"
+                "description": "Blur\nHarry Styles\nDandy Warhols\nOutkast\nCaesars\nGreen Day\nSmashing Pumpkins\nNirvana\nLouise Attaque \nArctic Monkeys"
             },
             {
                 "intitule_long": "Reprises orientées Trash Metal",
@@ -71,7 +54,7 @@
                 "prenoms_membres": "Gael, Jeanne-Charlotte, Mathieu, Odile, William",
                 "style_musique": "Grunge",
                 "phrase_accroche": null,
-                "description": "Pas encore de nom de groupe et la première répet aura lieu le 4/10 "
+                "description": "\nSetlist:\nZero - Smashing Pumpkins \nCome out and play - The Offspring\nIn Bloom - Nirvana\nDani California - Red hot \nFight song - Marilyn Manson \nSeven Nation Army - The White Stripes\nSmells like teen spirit - Nirvana \nAbout a girl - Nirvana \nIn too Deep - Sum 41\nKilling in the Name of - RATM \nFire - Franz Ferdinand \nAh ça ira - Gojira (pas encore en place)"
             },
             {
                 "intitule_long": "Ex Abrupto",
@@ -223,8 +206,8 @@
                 "description": null
             },
             {
-                "intitule_long": "Into the Groove - The Fourth",
-                "intitule_court": "ITG-IV",
+                "intitule_long": "Bad Groove O'Clock",
+                "intitule_court": "BGOC",
                 "referent_pseudo_zap": "Naya_A",
                 "prenoms_membres": "Abhishek, Aubin, Guilherme, Juan-Manuel, Nathalie ",
                 "style_musique": "Funk, Soul, Groove",
@@ -232,11 +215,11 @@
                 "description": "Nous sommes un groupe de cover funk/soul formé via l'association et dont l'objectif est de se réunir pour le plaisir de groover ensemble, et jouer sur scène quand l'occasion se présentera!"
             },
             {
-                "intitule_long": null,
-                "intitule_court": null,
+                "intitule_long": "Funkiwi",
+                "intitule_court": "Funkiwi",
                 "referent_pseudo_zap": "PierreHenri_Nod",
-                "prenoms_membres": "",
-                "style_musique": "",
+                "prenoms_membres": "Benoît, Corentin, Pierre-Henri, Sondes",
+                "style_musique": "Funk, Groove, Soul",
                 "phrase_accroche": null,
                 "description": null
             }
@@ -257,19 +240,10 @@
                 "intitule_long": "BORN",
                 "intitule_court": "BORN",
                 "referent_pseudo_zap": "Antonin_Mau",
-                "prenoms_membres": "Antoine, Antonin, Jean-Michel, Migad, Thibault",
+                "prenoms_membres": "Antonin, Jean-Michel, Migad, Thibault",
                 "style_musique": "Metal",
                 "phrase_accroche": null,
-                "description": "Du Métal saupoudré de passion !"
-            },
-            {
-                "intitule_long": "Déso DJ",
-                "intitule_court": "DésoDJ",
-                "referent_pseudo_zap": "David_Bas",
-                "prenoms_membres": "",
-                "style_musique": "Hip Hop",
-                "phrase_accroche": null,
-                "description": null
+                "description": "Du Métal saupoudré de passion !\n\nNous sommes en recherche d'un bassiste motvé et compétent.\nhttps://discord.com/channels/1038909359712895058/1360548525187928175"
             },
             {
                 "intitule_long": "Néssouzik (ex HitsPoPnFrench)",
@@ -396,33 +370,6 @@
                 "style_musique": "Pop",
                 "phrase_accroche": null,
                 "description": null
-            },
-            {
-                "intitule_long": null,
-                "intitule_court": null,
-                "referent_pseudo_zap": "Yann_Leb",
-                "prenoms_membres": "",
-                "style_musique": "",
-                "phrase_accroche": null,
-                "description": null
-            },
-            {
-                "intitule_long": "Fearless Boppers",
-                "intitule_court": "FBoppers",
-                "referent_pseudo_zap": "Yoann_All",
-                "prenoms_membres": "Chloé, Killian, Marc, Ricardo, Valentin, Yoann",
-                "style_musique": "Jazz, Pop",
-                "phrase_accroche": null,
-                "description": "Fearless Boppers [Jazz/PopJazz] : ils vous joueront leurs meilleurs standards et raviront vos oreilles !"
-            },
-            {
-                "intitule_long": "Maiden Voyage",
-                "intitule_court": "Maiden",
-                "referent_pseudo_zap": "Yoann_All",
-                "prenoms_membres": "Chloé, Joel, Ricardo, Valentin, Yoann",
-                "style_musique": "Soul",
-                "phrase_accroche": null,
-                "description": "Maiden Voyage |Neo Soul] : une croisière sur la vague Neo soul, voiles aux vents des saxos, trompette et chants de sirènes, un voyage musical planant et épicé."
             }
         ]
     },
@@ -441,14 +388,14 @@
                 "intitule_long": "Blues Braqueurs II",
                 "intitule_court": "BB II",
                 "referent_pseudo_zap": "Henri_Dom",
-                "prenoms_membres": "Charly, Henri, Mathilde , Nicolas , Ramón ",
+                "prenoms_membres": "Charly, Henri, Mathilde , Nicolas, Nicolas , Ramón ",
                 "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": " Du Blues roots du delta au blues revival, en passant par le Chicago blues, nous voulons faire vibrer toutes les nuances de bleu que nous pourrons arracher à nos instruments!"
             },
             {
-                "intitule_long": "Musique Blues",
-                "intitule_court": "ZIC Blues",
+                "intitule_long": "Deep Blues",
+                "intitule_court": "DeepBlues",
                 "referent_pseudo_zap": "Philippe_Bar",
                 "prenoms_membres": "Arnaud, Carole, Tuan, philippe",
                 "style_musique": "Blues",
@@ -509,18 +456,6 @@
                 "description": "Lineup under development,  remplacements ponctuels ou guest bienvenus (samedi chaque trois semaine a partir de 18 janvier)"
             }
         ]
-    },
-    "recd2gxrVBoDCdjgq": {
-        "intitule": "Atelier Jam KITCHEN",
-        "intitule_court": null,
-        "pseudo_zap": [
-            "Yoann_All"
-        ],
-        "jam_description": null,
-        "illustration_url": null,
-        "discord_presentation_url": null,
-        "recrutement_permanent": false,
-        "lineups": []
     },
     "rec98b7ennHbMgZZZ": {
         "intitule": "Fractal Riffactory",
