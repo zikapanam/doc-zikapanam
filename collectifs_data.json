@@ -12,6 +12,15 @@
         "recrutement_permanent": false,
         "lineups": [
             {
+                "intitule_long": "BORN",
+                "intitule_court": "BORN",
+                "referent_pseudo_zap": "Antonin_Mau",
+                "prenoms_membres": "Antonin, Jean-Michel, Migad, Thibault",
+                "style_musique": "Metal",
+                "phrase_accroche": null,
+                "description": "Du Métal saupoudré de passion !\n\nNous sommes en recherche d'un bassiste motvé et compétent.\nhttps://discord.com/channels/1038909359712895058/1360548525187928175"
+            },
+            {
                 "intitule_long": "Combo",
                 "intitule_court": "Combo",
                 "referent_pseudo_zap": "Benjamin_Bru",
@@ -36,7 +45,7 @@
                 "prenoms_membres": "Corentin, Gael, Ken, Louis, Maxime ",
                 "style_musique": "Rock, Metal",
                 "phrase_accroche": null,
-                "description": "Gung-Ho (ex-Headbangers) [Rock/Métal] veut dire littéralement plein d'énergie ! Le groupe offre une expérience qui revient à l'essence même du rock, avec de la sueur, du gros son et du chi à revendre !"
+                "description": "Gung-Ho! [Rock/Métal] veut dire littéralement plein d'énergie ! Le groupe offre une expérience qui revient à l'essence même du rock, avec de la sueur, du gros son et du chi à revendre !"
             },
             {
                 "intitule_long": "Mirage",
@@ -209,7 +218,7 @@
                 "intitule_long": "Bad Groove O'Clock",
                 "intitule_court": "BGOC",
                 "referent_pseudo_zap": "Naya_A",
-                "prenoms_membres": "Abhishek, Aubin, Guilherme, Juan-Manuel, Nathalie ",
+                "prenoms_membres": "Abhishek, Alizée, Aubin, Dorian, Guilherme, Juan-Manuel, Nathalie ",
                 "style_musique": "Funk, Soul, Groove",
                 "phrase_accroche": null,
                 "description": "Nous sommes un groupe de cover funk/soul formé via l'association et dont l'objectif est de se réunir pour le plaisir de groover ensemble, et jouer sur scène quand l'occasion se présentera!"
@@ -218,7 +227,7 @@
                 "intitule_long": "Funkiwi",
                 "intitule_court": "Funkiwi",
                 "referent_pseudo_zap": "PierreHenri_Nod",
-                "prenoms_membres": "Benoît, Corentin, Pierre-Henri, Sondes",
+                "prenoms_membres": "Benoît, Corentin, Pierre-Henri, Romain, Sondes",
                 "style_musique": "Funk, Groove, Soul",
                 "phrase_accroche": null,
                 "description": null
@@ -236,15 +245,6 @@
         "discord_presentation_url": null,
         "recrutement_permanent": false,
         "lineups": [
-            {
-                "intitule_long": "BORN",
-                "intitule_court": "BORN",
-                "referent_pseudo_zap": "Antonin_Mau",
-                "prenoms_membres": "Antonin, Jean-Michel, Migad, Thibault",
-                "style_musique": "Metal",
-                "phrase_accroche": null,
-                "description": "Du Métal saupoudré de passion !\n\nNous sommes en recherche d'un bassiste motvé et compétent.\nhttps://discord.com/channels/1038909359712895058/1360548525187928175"
-            },
             {
                 "intitule_long": "Wonder Michel",
                 "intitule_court": "WonderMichel",
@@ -327,6 +327,15 @@
                 "description": "Hi Five ! Let's groove !"
             },
             {
+                "intitule_long": "Grace Project",
+                "intitule_court": "Grace",
+                "referent_pseudo_zap": "Renaud_Mef",
+                "prenoms_membres": "Alex, Antoine, Bruno, Jordan, Marie-Pierre, Paul, Renaud",
+                "style_musique": "Rock",
+                "phrase_accroche": null,
+                "description": "Formation de 7 musiciens proposant un hommage fidèle à l’album « Grace » de Jeff Buckley "
+            },
+            {
                 "intitule_long": "Strawberry Jam",
                 "intitule_court": "🍓 Jam",
                 "referent_pseudo_zap": "Sarah_Bor",
@@ -388,7 +397,7 @@
                 "intitule_long": "Deep Blues",
                 "intitule_court": "DeepBlues",
                 "referent_pseudo_zap": "Philippe_Bar",
-                "prenoms_membres": "Arnaud, Carole, Tuan, philippe",
+                "prenoms_membres": "Arnaud, Fabrice , Jehiel, Pascal, michel, philippe",
                 "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": "\nConcept : travailler des standards du blues avec 4 ou 5 morceaux maximum par session ; morceaux qui peuvent être les mêmes d'une session sur l'autre si nécessaire. Favoriser l’improvisation lors de JAM une fois que les morceaux seront maîtrisés.\n\n🎶 Styles abordés : Blues @style-blues . Chicago blues, Memphis blues, Delta blues (par exemple : Little Walter, Muddy Waters, Howlin Wolf, John lee Hoocker, B. B. King, Sonny Terry, etc…). Mais aussi plus contemporain avec des artistes comme Paul Butterfield, Charlie Musselwhite, Rolling Stones, David Bowie, Eric Clapton. Et également des artistes français comme Paul Personne, Bill Deraime.\n"
@@ -459,27 +468,5 @@
         "discord_presentation_url": null,
         "recrutement_permanent": true,
         "lineups": []
-    },
-    "recN6SdfFedCUxKhS": {
-        "intitule": "Big Band Jazz",
-        "intitule_court": null,
-        "pseudo_zap": [
-            "Didier_Fru"
-        ],
-        "jam_description": "🎯 But : travailler un répertoire Jazz traditionnel qui va de Count Basie à Charles Mingus\n\n✅ Pré-requis :  \n- intermédiaire-avancés et avancés\n- Lecture de partitions\n🎶 Styles abordés : Jazz swing\n\n🔗 Lineup : batterie, basse/ contre basse, piano, guitare\n4 saxos barithon ténor alto & soprano \n1 a 2 trompette \n1 a 2 trombone\nFlûte et clarinette\nEn chant on réfléchît mais on peut aussi avoir des musiciens qui chantent \n\n🗺️ Lieu : à définir (Paris Sud / Paris centre)\n\n🕰️ Fréquence : toutes les 2 semaines le mardi soir\n",
-        "illustration_url": "/img/collectifs/recN6SdfFedCUxKhS.jpg",
-        "discord_presentation_url": null,
-        "recrutement_permanent": true,
-        "lineups": [
-            {
-                "intitule_long": "Big Band Jazz 1",
-                "intitule_court": "BBJazz1",
-                "referent_pseudo_zap": "Didier_Fru",
-                "prenoms_membres": "Didier",
-                "style_musique": "Jazz",
-                "phrase_accroche": null,
-                "description": "En route vers le Big Band Jazz"
-            }
-        ]
     }
 }
