@@ -210,7 +210,7 @@
       if (e.key === 'Enter') {
         const filtered = filterEvents(allEvents, e.target.value);
         renderCalendar(filtered);
-        if (calendar) calendar.changeView('listMonth');
+        if (calendar) calendar.changeView('listYear');
         hidePopup();
         hideDayPopup();
         const countEl = document.getElementById('filtered-events-count');
@@ -253,10 +253,10 @@
         headerToolbar: {
           left: 'prev,next today',
           center: 'title',
-          right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth'
+          right: 'dayGridMonth,timeGridWeek,timeGridDay,listYear'
         },
         locale: 'fr',
-        locales: FullCalendar.globalLocales,       
+        locales: FullCalendar.globalLocales,
         firstDay: 1,
         height: 'auto',
         expandRows: true,
