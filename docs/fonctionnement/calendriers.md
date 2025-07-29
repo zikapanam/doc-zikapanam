@@ -16,6 +16,8 @@ keywords:
 
 # Tous les calendriers
 
+[Recherche sur notre calendrier](/docs/fonctionnement/recherche_calendrier)
+
 ## Agenda public : Concerts / Jams / Scènes Ouvertes
 
 ### Réseaux sociaux
