@@ -26,9 +26,17 @@
 <div id="event-day-list"></div>
 
 <script src="https://cdn.jsdelivr.net/npm/ical.js@1.4.0/build/ical.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/locales/fr.global.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.11/index.global.min.js"></script>
+
+<!-- FullCalendar core et locales -->
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.18/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.18/locales-all.global.min.js"></script>
+
+<!-- FullCalendar views -->
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.18/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/timegrid@6.1.18/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/list@6.1.18/index.global.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.18/index.global.min.js"></script>
 
 <script>
   const tipEl = document.getElementById('event-tip-overlay');
@@ -219,6 +227,12 @@
       renderCalendar(allEvents);
       hidePopup();
       hideDayPopup();
+      const countEl = document.getElementById('filtered-events-count');
+      if (countEl) {
+        countEl.textContent = "";
+      } else {
+        console.warn('Filtered events count element not found');
+      }        
     });
 
     let calendar = null;
@@ -242,14 +256,7 @@
           right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth'
         },
         locale: 'fr',
-        locales: FullCalendar.globalLocales,
-        buttonText: {
-          today: "ce jour",
-          month: "mois",
-          week: "semaine",
-          day: "jour",
-          list: "vue liste"
-        },        
+        locales: FullCalendar.globalLocales,       
         firstDay: 1,
         height: 'auto',
         expandRows: true,
