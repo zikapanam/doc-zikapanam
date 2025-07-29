@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="fr" charset="utf-8">
+
+    <head>
+          <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asso Zikapanam | Recherche dans notre Calendrier</title>
+  <link rel="stylesheet" href="/css/calendar.css">
+
+    </head>
+
+    <body>        
+
+<div id="calendar-controls">
+  <label>
+    🔍 Filtrer :
+    <input id="filter-input" type="text" placeholder="Mot clé">
+  </label>
+  <button id="reset-filter" type="button">❌</button>
+</div>
+
+<div id="event-tip-overlay"></div>
+<div id="calendar"></div>
+<div id="event-day-list"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/ical.js@1.4.0/build/ical.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.11/index.global.min.js"></script>
+
+<script>
+  const tipEl = document.getElementById('event-tip-overlay');
+  const dayListEl = document.getElementById("event-day-list");
+  
+  function hidePopup() {
+    tipEl.style.display = "none";
+  }
+
+  function hideDayPopup() {
+    dayListEl.style.display = "none";
+  }
+
+  
+  const event_colors = [{"color":"red","text_search":"[A]"},{"color":"lightgrey","text_search":"[IC]"},{"color":"lightgreen","text_search":"[IO]"},{"color":"lightgreen","text_search":"[ID]"},{"color":"lightblue","text_search":"Concert"},{"color":"lightblue","text_search":"JAM"}];
+  event_colors.push({color:"black", text_search: ""});
+  
+
+  document.addEventListener('DOMContentLoaded', async function() {
+    const calendarEl = document.getElementById('calendar');
+
+    const usePlugin = "ics";
+    const rawIcsUrl = "https://priv-calendar-zap.zikapanam.fr";
+    const language = "fr";
+
+        function showDayPopup(contentHtml, events) {
+      dayListEl.innerHTML = contentHtml;
+      dayListEl.style.display = "block";
+
+      const items = document.querySelectorAll("#event-day-list .event-item");
+      items.forEach((item, idx) => {
+        item.addEventListener("click", () => showEventDetail(events[idx]));
+      });
+    }
+
+    function linkify(text) {
+      return text.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank">$1</a>');
+    }
+
+    function formatEventDate(date) {
+      return date.toLocaleDateString('fr', {
+        weekday: 'long',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      });
+    }
+
+    function showEventDetail(event) {
+      let description = event.description || "Aucune description.";
+      let coverUrl = null;
+
+      const cartoucheMatch = description.match(/\+\+\+([\s\S]*?)\+\+\+/);
+      if (cartoucheMatch) {
+        const block = cartoucheMatch[1];
+        const coverMatch = block.match(/cover\s*=\s*["']([^"']+)["']/);
+        if (coverMatch) {
+          coverUrl = coverMatch[1];
+        }
+        description = description.replace(cartoucheMatch[0], '').trim();
+      }
+
+      const linkedDescription = linkify(description).replace(/\n/g, "<br>");
+
+      const coverHtml = coverUrl
+        ? `<img src="${coverUrl}" alt="Image de couverture" style="max-width:100%; border-radius:6px; margin-bottom:1rem;">`
+        : "";
+
+      const title = event.title || "Sans titre";
+      const location = event.location || "Voir description";
+      const time = event.allDay
+        ? "Toute la journée"
+        : `${event.start.toLocaleTimeString(language, { hour: '2-digit', minute: '2-digit' })}${
+            event.end ? ' – ' + event.end.toLocaleTimeString(language, { hour: '2-digit', minute: '2-digit' }) : ''
+          }`;
+
+      const colorDot = event.color
+        ? `<span style="display:inline-block; width:10px; height:10px; background-color:${event.color}; border-radius:50%; margin-right:8px;"></span>`
+        : "";
+
+      const urlHtml = event.url
+        ? `<p><strong>Lien :</strong> <a href="${event.url}" target="_blank">${event.url}</a></p>`
+        : "";
+      tipEl.className = "event-modal";
+      tipEl.style.backgroundColor = event.color || "white";
+      tipEl.innerHTML = `
+        ${coverHtml}<br>
+        <button onclick="document.getElementById('event-tip-overlay').style.display='none'" style="margin-top:1rem;">Fermer</button>
+        <h3>${colorDot}<span class="event-time">${time}</span>, <span class="event-title">${title}</span></h3>
+        <strong>Date :</strong> ${formatEventDate(event.start)}, <strong>Localisation :</strong> ${location}<br>
+        <strong>Description :</strong> ${linkedDescription}<br>
+        ${urlHtml}
+      `;
+
+      tipEl.style.display = "block";
+    }
+
+
+    document.getElementById("event-tip-overlay").addEventListener("click", hidePopup);
+
+    function applyEventColors(events, event_colors) {
+      return events.map(event => {
+        const colorObj = event_colors.find(ec =>
+          event.title.toLowerCase().includes(ec.text_search.toLowerCase())
+        );
+        return colorObj ? { ...event, color: colorObj.color } : event;
+      });
+    }
+
+    function showEventsOfDay(date, events, lang) {
+      if (events.length === 0) {
+        hideDayPopup();
+        return;
+      }
+
+      let html = `<strong>📅 Événements du ${date.toLocaleDateString(lang)} :</strong><ul style="list-style: none; padding: 0;">`;
+
+      events.forEach(e => {
+        const time = e.allDay
+          ? "Toute la journée"
+          : `${e.start.toLocaleTimeString(lang, { hour: '2-digit', minute: '2-digit' })}${
+              e.end ? ' – ' + e.end.toLocaleTimeString(lang, { hour: '2-digit', minute: '2-digit' }) : ''
+            }`;
+        const title = e.title || "Sans titre";
+        const colorDot = e.color
+          ? `<span style="display:inline-block; width:10px; height:10px; background-color:${e.color}; border-radius:50%; margin-right:8px;"></span>`
+          : "";
+
+        html += `
+          <li class="event-item">
+            ${colorDot}<span class="event-time">${time}</span> – <span class="event-title">${title}</span>
+          </li>
+        `;
+      });
+
+      html += `</ul><button onclick="hideDayPopup()" style="margin-top:1rem;">Fermer</button>`;
+      showDayPopup(html, events);
+    }
+
+    function removeTomlBlock(text) {
+      if (!text) return "";
+      return text.replace(/\+\+\+[\s\S]*?\+\+\+/, "").trim();
+    }
+
+    function filterEvents(events, filterText) {
+      if (!filterText || filterText.trim() === "") return events;
+
+      const f = filterText.trim().toLowerCase();
+
+      return events.filter(e => {
+        const cleanedDescription = removeTomlBlock(e.description || "").toLowerCase();
+        const title = (e.title || "").toLowerCase();
+        const location = (e.location || "").toLowerCase();
+        const date = e.start?.toISOString().slice(0, 10);
+        const startTime = e.start?.toTimeString().slice(0, 5); // format HH:MM
+        const endTime = e.end?.toTimeString().slice(0, 5);     // format HH:MM
+
+        return (
+          title.includes(f) ||
+          cleanedDescription.includes(f) ||
+          location.includes(f) ||
+          (date && date.includes(f)) ||
+          (startTime && startTime.includes(f)) ||
+          (endTime && endTime.includes(f))
+        );
+      });
+    }
+
+
+    document.getElementById('filter-input').addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') {
+        const filtered = filterEvents(allEvents, e.target.value);
+        renderCalendar(filtered);
+        if (calendar) calendar.changeView('listMonth');
+        hidePopup();
+        hideDayPopup();
+      }
+    });
+
+    document.getElementById('reset-filter').addEventListener('click', function () {
+      document.getElementById('filter-input').value = "";
+      renderCalendar(allEvents);
+      hidePopup();
+      hideDayPopup();
+    });
+
+    let calendar = null;
+    let allEvents = [];
+
+    function renderCalendar(eventsToShow) {
+      if (calendar) {
+        calendar.destroy();
+      }
+
+      calendar = new FullCalendar.Calendar(calendarEl, {
+        
+        initialView: 'dayGridMonth',
+        headerToolbar: {
+          left: 'prev,next today',
+          center: 'title',
+          right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth'
+        },
+        
+        locale: language || 'fr',
+        firstDay: 1,
+        height: 'auto',
+        expandRows: true,
+        dayMaxEventRows: true,
+        dayMaxEvents: true,
+        events: eventsToShow.map(e => ({ ...e, extendedProps: { _original: e } })),
+        eventClick: function(info) {
+          const original = info.event.extendedProps._original || info.event;
+          showEventDetail(original);
+          info.jsEvent.preventDefault();
+        },
+        dateClick: function(info) {
+          const clickedDate = info.date;
+          const dayEvents = eventsToShow.filter(e =>
+            e.start.toDateString() === clickedDate.toDateString()
+          );
+          showEventsOfDay(clickedDate, dayEvents, language);
+        },
+        loading: function(isLoading) {
+          calendarEl.style.opacity = isLoading ? '0.5' : '1';
+        }
+      });
+
+      calendar.render();
+    }
+
+    if (usePlugin === "ics" && rawIcsUrl) {
+      const icsUrl = "https://corsproxy.io/?" + encodeURIComponent(encodeURI(rawIcsUrl));
+      try {
+        const response = await fetch(icsUrl);
+        if (!response.ok) throw new Error("Erreur réseau");
+
+        const icsText = await response.text();
+        const jcalData = ICAL.parse(icsText);
+        const comp = new ICAL.Component(jcalData);
+
+        
+        const vevents = comp.getAllSubcomponents('vevent');
+        
+
+        const events = vevents.map(vevent => {
+          const event = new ICAL.Event(vevent);
+          return {
+            title: event.summary || "",
+            start: event.startDate.toJSDate(),
+            end: event.endDate ? event.endDate.toJSDate() : null,
+            allDay: event.startDate.isDate,
+            url: event.component.getFirstPropertyValue("url") || null,
+            description: event.description || "",
+            location: event.location || "",
+          };
+        });
+
+        allEvents = applyEventColors(events, event_colors);
+        renderCalendar(allEvents);
+
+      } catch (err) {
+        console.error("Erreur de chargement :", err);
+        calendarEl.innerHTML = "<p>Erreur lors du chargement du calendrier.</p>";
+      }
+    } else {
+      calendarEl.innerHTML = "<p>Le calendrier n'est pas configuré ou le plugin n'est pas activé.</p>";
+    }
+  });
+
+  if (!window._eventEscapeListenerAdded) {
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") {
+        document.getElementById("event-tip-overlay").style.display = "none";
+        tipEl.style.display = "none";
+      }
+    });
+    window._eventEscapeListenerAdded = true;
+  }  
+</script>
+
+    </body>
+</html>
