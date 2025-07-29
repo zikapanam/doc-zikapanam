@@ -17,6 +17,8 @@
     <input id="filter-input" type="text" placeholder="Mot clé">
   </label>
   <button id="reset-filter" type="button">❌</button>
+  <div id="filtered-events-count" style="margin-left: 1rem; font-weight: bold;"></div>  
+  <p>Pensez à naviguer de mois en mois (flèches juste en dessous à gauche) et entre les vues liste / mois / semaine / jour (boutons de contrôle en juste en dessous à droite) pour obtenir un affichage approprié à vos besoins.</p>
 </div>
 
 <div id="event-tip-overlay"></div>
@@ -25,6 +27,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/ical.js@1.4.0/build/ical.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/locales/fr.global.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.11/index.global.min.js"></script>
 
 <script>
@@ -202,6 +205,12 @@
         if (calendar) calendar.changeView('listMonth');
         hidePopup();
         hideDayPopup();
+        const countEl = document.getElementById('filtered-events-count');
+        if (countEl) {
+          countEl.textContent = `${filtered.length} événement(s) trouvé(s)`;
+        } else {
+          console.warn('Filtered events count element not found');
+        }        
       }
     });
 
@@ -219,7 +228,11 @@
       if (calendar) {
         calendar.destroy();
       }
-
+      FullCalendar.globalLocales.forEach(locale => {
+        if (locale.code === 'fr') {
+          FullCalendar.globalLocales.push(locale);
+        }
+      });
       calendar = new FullCalendar.Calendar(calendarEl, {
         
         initialView: 'dayGridMonth',
@@ -228,8 +241,15 @@
           center: 'title',
           right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth'
         },
-        
-        locale: language || 'fr',
+        locale: 'fr',
+        locales: FullCalendar.globalLocales,
+        buttonText: {
+          today: "ce jour",
+          month: "mois",
+          week: "semaine",
+          day: "jour",
+          list: "vue liste"
+        },        
         firstDay: 1,
         height: 'auto',
         expandRows: true,
