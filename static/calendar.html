@@ -76,7 +76,7 @@
     }
 
     function linkify(text) {
-      return text.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank">$1</a>');
+      return text.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank">Lien Discord</a>');
     }
 
     function formatEventDate(date) {
@@ -122,7 +122,7 @@
         : "";
 
       const urlHtml = event.url
-        ? `<p><strong>Lien :</strong> <a href="${event.url}" target="_blank">${event.url}</a></p>`
+        ? `<p><strong>Lien</strong> : <a href="${event.url}" target="_blank">${event.ur}</a></p>`
         : "";
       tipEl.className = "event-modal";
       tipEl.style.backgroundColor = event.color || "white";
@@ -131,6 +131,7 @@
         <button onclick="document.getElementById('event-tip-overlay').style.display='none'" style="margin-top:1rem;">Fermer</button>
         <h3>${colorDot}<span class="event-time">${time}</span>, <span class="event-title">${title}</span></h3>
         <strong>Date :</strong> ${formatEventDate(event.start)}, <strong>Localisation :</strong> ${location}<br>
+        <p>(<a href="https://doc.zikapanam.fr/docs/rejoindre-l-asso/devenir-cotisant" target="_blank">Par ici pour s'inscrire à notre Discord !</a>)</p>
         <strong>Description :</strong> ${linkedDescription}<br>
         ${urlHtml}
       `;
