@@ -11,6 +11,7 @@
   overflow-y: auto;
   z-index: 9999;
   padding: 1rem; /* permet un peu d'espace sur mobile */
+  overscroll-behavior: contain;  
 }
 
 /* Fenêtre modale */
@@ -24,6 +25,8 @@
   z-index: 10000;
   animation: fadeIn 0.2s ease-in-out;
   box-sizing: border-box;
+  touch-action: none; /* empêche les glissements implicites sur mobile */
+  overscroll-behavior: contain; /* empêche la propagation du swipe à la page */
 }
 
 /* Animation d’apparition */
