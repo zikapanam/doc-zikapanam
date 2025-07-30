@@ -96,7 +96,7 @@
         if (coverMatch) {
           coverUrl = coverMatch[1];
         }
-        description = description.replace(cartoucheMatch[0], '').trim();
+        description = removeTomlBlock(description);
       }
 
       const linkedDescription = linkify(description).replace(/\n/g, "<br>");
@@ -178,13 +178,61 @@
 
     function removeTomlBlock(text) {
       if (!text) return "";
-      return text.replace(/\+\+\+[\s\S]*?\+\+\+/, "").trim();
+
+      const removeAccents = str =>
+        str.normalize("NFD").replace(/[\u0300-\u036f']/g, "");
+
+      const toHashtag = str =>
+        "#" + removeAccents(str.trim().toLowerCase().replace(/\s+/g, "-"));
+
+      // Extraire et supprimer le bloc TOML s'il est en tête
+      const match = text.match(/^\+\+\+([\s\S]*?)\+\+\+/);
+      let attributes = {};
+      let description = text;
+
+      if (match) {
+        const tomlContent = match[1];
+        description = text.slice(match[0].length).trim();
+
+        tomlContent.split('\n').forEach(line => {
+          const trimmed = line.trim();
+          if (!trimmed || trimmed.startsWith("#")) return;
+
+          const [key, rawValue] = trimmed.split("=", 2).map(s => s.trim());
+          if (!key || !rawValue || key === "cover") return;
+
+          try {
+            const value = JSON.parse(rawValue);
+            attributes[key] = value;
+          } catch {
+            attributes[key] = rawValue.replace(/^"|"$/g, '');
+          }
+        });
+      }
+
+      // Générer bloc hashtags
+      const hashtags = Object.entries(attributes).flatMap(([_, value]) => {
+        if (Array.isArray(value)) {
+          return value.map(v => toHashtag(v));
+        } else {
+          return toHashtag(value);
+        }
+      });
+
+      if (hashtags.length > 0) {
+        description += "\n\n" + hashtags.join(" ");
+      }
+
+      return description;
     }
 
     function filterEvents(events, filterText) {
       if (!filterText || filterText.trim() === "") return events;
 
-      const f = filterText.trim().toLowerCase();
+      const keywords = filterText
+        .trim()
+        .toLowerCase()
+        .split(/\s+/); // Séparer les mots-clés par les espaces
 
       return events.filter(e => {
         const cleanedDescription = removeTomlBlock(e.description || "").toLowerCase();
@@ -194,16 +242,17 @@
         const startTime = e.start?.toTimeString().slice(0, 5); // format HH:MM
         const endTime = e.end?.toTimeString().slice(0, 5);     // format HH:MM
 
-        return (
-          title.includes(f) ||
-          cleanedDescription.includes(f) ||
-          location.includes(f) ||
-          (date && date.includes(f)) ||
-          (startTime && startTime.includes(f)) ||
-          (endTime && endTime.includes(f))
+        return keywords.every(keyword => 
+          title.includes(keyword) ||
+          cleanedDescription.includes(keyword) ||
+          location.includes(keyword) ||
+          (date && date.includes(keyword)) ||
+          (startTime && startTime.includes(keyword)) ||
+          (endTime && endTime.includes(keyword))
         );
       });
     }
+
 
 
     document.getElementById('filter-input').addEventListener('keydown', function (e) {
