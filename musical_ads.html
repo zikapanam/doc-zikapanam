@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Petites annonces musicales</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      background: #f4f4f4;
+    }
+    h1 {
+      margin-bottom: 1rem;
+    }
+    #filter-input {
+      padding: 0.5rem;
+      font-size: 1rem;
+      width: 100%;
+      max-width: 400px;
+      margin-bottom: 1rem;
+    }
+    .item {
+      background: white;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .item:hover {
+      background: #eef;
+    }
+    .description {
+      margin-top: 1rem;
+      display: none;
+    }
+    .description a {
+      word-break: break-all;
+    }
+    .item.open .description {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎵 Petites annonces musicales</h1>
+
+  <input id="filter-input" type="text" placeholder="Filtrer par mots-clés (ex : rock guitare)">
+
+  <div id="results"></div>
+
+  <script>
+    async function fetchAds() {
+      const res = await fetch("https://musical-ads.zikapanam.fr");
+      return res.json();
+    }
+
+    function formatDate(isoString) {
+      const date = new Date(isoString);
+      const pad = n => n.toString().padStart(2, '0');
+      return `${pad(date.getDate())}/${pad(date.getMonth() + 1)}/${date.getFullYear()} ${pad(date.getHours())}:${pad(date.getMinutes())}`;
+    }
+
+    function renderList(data, keywords = []) {
+      const container = document.getElementById("results");
+      container.innerHTML = "";
+
+      const lowerKeywords = keywords.map(k => k.toLowerCase());
+
+      data
+        .filter(item => {
+          const content = (item.title + " " + item.description).toLowerCase();
+          return lowerKeywords.every(k => content.includes(k));
+        })
+        .forEach(item => {
+          const div = document.createElement("div");
+          div.className = "item";
+
+          div.innerHTML = `
+            <div><strong>${item.type}</strong> — Mise à jour le ${formatDate(item.lastModified)}</div>
+            <div><strong>${item.title || "(Sans titre)"}</strong></div>
+            <div class="description">
+              <p>${item.description}</p>
+              <p><a href="https://doc.zikapanam.fr/docs/rejoindre-l-asso/devenir-cotisant" target="_blank"/>Inscris-toi sur le Discord de Zikapanam (c'est gratuit !)</p>
+              <p><a href="${item.linkUrl}" target="_blank">Lien Discord</a></p>
+            </div>
+          `;
+
+          div.addEventListener("click", () => {
+            div.classList.toggle("open");
+          });
+
+          container.appendChild(div);
+        });
+    }
+
+    async function main() {
+      const data = await fetchAds();
+
+      renderList(data);
+
+      const input = document.getElementById("filter-input");
+      input.addEventListener("input", () => {
+        const keywords = input.value.trim().split(/\s+/).filter(Boolean);
+        renderList(data, keywords);
+      });
+    }
+
+    main();
+  </script>
+</body>
+</html>
