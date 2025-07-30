@@ -37,14 +37,14 @@
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.18/index.global.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/timegrid@6.1.18/index.global.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/list@6.1.18/index.global.min.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/interaction@6.1.18/index.global.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.18/index.global.min.js"></script>
 
 <script>
-  const overlay = document.getElementById('event-tip-overlay');
-  const tipEl = document.getElementById('event-tip');
-  const dayListEl = document.getElementById("event-day-list");
-  
+  let overlay = document.getElementById('event-tip-overlay');
+  let tipEl = document.getElementById('event-tip');
+  let dayListEl = document.getElementById("event-day-list");
+
   function hidePopup() {
     tipEl.style.display = "none";
   }
@@ -89,6 +89,7 @@
     }
 
     function showEventDetail(event) {
+      if (!overlay || !tipEl) return console.warn("Overlay non prêt");      
       let description = event.description || "Aucune description.";
       let coverUrl = null;
 
@@ -135,6 +136,7 @@
       `;
 
       overlay.style.display = "block";
+      tipEl.style.display = "block";
     }
 
 
@@ -382,8 +384,9 @@
   });
 
   if (!window._eventEscapeListenerAdded) {
-    const overlay = document.getElementById("event-tip-overlay");
-    const tipEl = document.getElementById("event-tip");
+    overlay = document.getElementById('event-tip-overlay');
+    tipEl = document.getElementById('event-tip');
+    dayListEl = document.getElementById("event-day-list");
 
     function hideOverlay() {
       if (overlay) overlay.style.display = "none";
