@@ -21,7 +21,9 @@
   <p>Pensez à naviguer de mois en mois (flèches juste en dessous à gauche) et entre les vues liste / mois / semaine / jour (boutons de contrôle en juste en dessous à droite) pour obtenir un affichage approprié à vos besoins.</p>
 </div>
 
-<div id="event-tip-overlay"></div>
+<div id="event-tip-overlay" style="display: none;">
+  <div id="event-tip" class="event-modal"></div>
+</div>
 <div id="calendar"></div>
 <div id="event-day-list"></div>
 
@@ -39,7 +41,8 @@
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.18/index.global.min.js"></script>
 
 <script>
-  const tipEl = document.getElementById('event-tip-overlay');
+  const overlay = document.getElementById('event-tip-overlay');
+  const tipEl = document.getElementById('event-tip');
   const dayListEl = document.getElementById("event-day-list");
   
   function hidePopup() {
@@ -131,7 +134,7 @@
         ${urlHtml}
       `;
 
-      tipEl.style.display = "block";
+      overlay.style.display = "block";
     }
 
 
@@ -183,7 +186,7 @@
         str.normalize("NFD").replace(/[\u0300-\u036f']/g, "");
 
       const toHashtag = str =>
-        "#" + removeAccents(str.trim().toLowerCase().replace(/\s+/g, "-"));
+        "#" + removeAccents(str.trim().toLowerCase().replace(/\s+/g, "_"));
 
       // Extraire et supprimer le bloc TOML s'il est en tête
       const match = text.match(/^\+\+\+([\s\S]*?)\+\+\+/);
@@ -339,7 +342,8 @@
     }
 
     if (usePlugin === "ics" && rawIcsUrl) {
-      const icsUrl = "https://corsproxy.io/?" + encodeURIComponent(encodeURI(rawIcsUrl));
+      //const icsUrl = "https://corsproxy.io/?" + encodeURIComponent(encodeURI(rawIcsUrl));
+      const icsUrl = rawIcsUrl;
       try {
         const response = await fetch(icsUrl);
         if (!response.ok) throw new Error("Erreur réseau");
@@ -378,14 +382,38 @@
   });
 
   if (!window._eventEscapeListenerAdded) {
+    const overlay = document.getElementById("event-tip-overlay");
+    const tipEl = document.getElementById("event-tip");
+
+    function hideOverlay() {
+      if (overlay) overlay.style.display = "none";
+    }
+
+    // Fermer avec la touche Escape
     document.addEventListener("keydown", function (e) {
       if (e.key === "Escape") {
-        document.getElementById("event-tip-overlay").style.display = "none";
-        tipEl.style.display = "none";
+        hideOverlay();
       }
     });
+
+    // Fermer si clic ou touch en dehors de la modale
+    function outsideClickOrTouch(e) {
+      if (
+        overlay &&
+        overlay.style.display !== "none" &&
+        tipEl &&
+        !tipEl.contains(e.target)
+      ) {
+        hideOverlay();
+      }
+    }
+
+    // Utilise pointerdown qui gère à la fois souris et tactile
+    document.addEventListener("pointerdown", outsideClickOrTouch);
+
     window._eventEscapeListenerAdded = true;
-  }  
+  }
+
 </script>
 
     </body>
