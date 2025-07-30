@@ -310,7 +310,7 @@
           listFuture: {
             type: 'list',
             duration: { years: 2 },
-            buttonText: 'À venir'
+            buttonText: 'À venir',
           }
         }, 
         initialView: 'listFuture',
@@ -318,7 +318,13 @@
           left: 'prev,next today',
           center: 'title',
           right: 'dayGridMonth,timeGridWeek,timeGridDay,listFuture'
-        },       
+        },    
+        listDayFormat: {
+          weekday: 'long',
+          day: 'numeric',
+          month: 'long',
+          year: 'numeric'
+        },           
         locale: 'fr',
         locales: FullCalendar.globalLocales,
         firstDay: 1,
