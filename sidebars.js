@@ -34,6 +34,7 @@ const sidebars = {
         'fonctionnement/discord',
         'fonctionnement/calendriers',
         'fonctionnement/recherche_calendrier',
+        'fonctionnement/petites_annonces_musicales',
         'fonctionnement/osm_map',
         'fonctionnement/qu-est-ce-qu-une-rencontre',
         'fonctionnement/participer-a-une-rencontre',
