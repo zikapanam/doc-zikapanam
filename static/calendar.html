@@ -76,9 +76,17 @@
     }
 
     function linkify(text) {
-      return text.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank">Lien Discord</a>');
+      return text.replace(/(https?:\/\/[^\s<]+)/g, (match) => {
+        if (match.includes("discord.com")) {
+          return `<a href="${match}" target="_blank">Lien Discord</a>`;
+        } else if (match.includes("keskonfai.fr")) {
+          return `<a href="${match}" target="_blank">Lien Keskonfai</a>`;
+        } else {
+          return match; // On ne modifie pas les autres liens
+        }
+      });
     }
-
+    
     function formatEventDate(date) {
       return date.toLocaleDateString('fr', {
         weekday: 'long',
