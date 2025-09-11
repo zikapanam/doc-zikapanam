@@ -85,37 +85,6 @@
             }
         ]
     },
-    "rec8JJaHyCNb99ub5": {
-        "intitule": "🎶 Collectif Akwaba",
-        "intitule_court": null,
-        "pseudo_zap": [
-            "Paul_Kac"
-        ],
-        "jam_description": "Le collectif Kosanga devient Akwaba et s’aggrandit !\n\n2 lineups à date :\n\nKosanga (afrobeat) et Kenté Groove (afrotrad)",
-        "illustration_url": null,
-        "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1092582664088850432/1092582664088850432",
-        "recrutement_permanent": false,
-        "lineups": [
-            {
-                "intitule_long": "Kosanga",
-                "intitule_court": "Ksg",
-                "referent_pseudo_zap": "Paul_Kac",
-                "prenoms_membres": "Alexandre, Ange, Arthur, Diaara, Jean, Marie-Aude , Paul, Paul Camille, Sophie ",
-                "style_musique": "Afrobeat",
-                "phrase_accroche": null,
-                "description": "Kosanga [Afrobeat] : une formation qui partagera avec vous une musique afrobeat qui met de bonne humeur et qui invite à l'ouverture ! "
-            },
-            {
-                "intitule_long": "Kenté Groove",
-                "intitule_court": "Kenté Groove",
-                "referent_pseudo_zap": "Xong_L**",
-                "prenoms_membres": "Carole, Emilie, Etan, Jordan, Marc, Paul, Serge, Xong",
-                "style_musique": "Afrobeat, Trad",
-                "phrase_accroche": null,
-                "description": "Kenté Groove joue un mix de musiques africaines plutôt traditionnelles (mandingue, cap-verdienne, rumba congolaise etc) et afro rock&blues anciennes."
-            }
-        ]
-    },
     "rec4NUFCrev9PePaT": {
         "intitule": "☎️ Collectif Repassez-moi le standard",
         "intitule_court": null,
@@ -206,15 +175,6 @@
                 "description": "Soulstice [Soul/Funk] : Avec leur look reconnaissable sur scène, cette formation soul/funk vous fera danser sur des standards soul et funk ! https://bento.me/soulstice-band"
             },
             {
-                "intitule_long": null,
-                "intitule_court": null,
-                "referent_pseudo_zap": "Mohamed_Nai",
-                "prenoms_membres": "",
-                "style_musique": "Funk",
-                "phrase_accroche": null,
-                "description": null
-            },
-            {
                 "intitule_long": "Bad Groove O'Clock",
                 "intitule_court": "BGOC",
                 "referent_pseudo_zap": "Naya_A",
@@ -246,6 +206,15 @@
         "recrutement_permanent": false,
         "lineups": [
             {
+                "intitule_long": "Green eggs & jam",
+                "intitule_court": "Eggs",
+                "referent_pseudo_zap": "Abhishek_Pal",
+                "prenoms_membres": "Abhishek, Alizée, Guilherme",
+                "style_musique": "Brésilien, Jazz",
+                "phrase_accroche": null,
+                "description": null
+            },
+            {
                 "intitule_long": "Wonder Michel",
                 "intitule_court": "WonderMichel",
                 "referent_pseudo_zap": "Enrique_Cab",
@@ -255,15 +224,6 @@
                 "description": "Musique VF qui balance pas mal.\n\nStyles abordés :  Variété et chanson Française, Pop Rock\n\nFréquence : tous les quinze jours les mercredis de 19H30 à 22H00"
             },
             {
-                "intitule_long": "PK35",
-                "intitule_court": "PK35",
-                "referent_pseudo_zap": "Éric_Par",
-                "prenoms_membres": "Asma, Chloé, Enrique, Francoise, Raph",
-                "style_musique": "Pop, Rock",
-                "phrase_accroche": null,
-                "description": "Plongez dans l’énergie vibrante du son pop rock de PK 35"
-            },
-            {
                 "intitule_long": "One Four Five",
                 "intitule_court": "1-4-5",
                 "referent_pseudo_zap": "Jack_Lou",
@@ -271,15 +231,6 @@
                 "style_musique": "Blues",
                 "phrase_accroche": null,
                 "description": "One Four Five [Blues] : Des standards blues revisités et des blues plus contemporains dans un mélange énergique et délicieux !"
-            },
-            {
-                "intitule_long": "Kicks",
-                "intitule_court": "Kicks",
-                "referent_pseudo_zap": "JeanJacques_Cad",
-                "prenoms_membres": "CHRISTOPHE, Ermias , Izabelle, Jean-Jacques, Karine ",
-                "style_musique": "Pop",
-                "phrase_accroche": null,
-                "description": "Des covers de tubes, d'Amy winehouse aux beatles. "
             },
             {
                 "intitule_long": "The Swamps",
@@ -343,15 +294,6 @@
                 "style_musique": "Pop, Groove",
                 "phrase_accroche": null,
                 "description": "Strawberry Jam est une formation Pop/Groove qui distille des reprises Pop avec des accents Groove pour faire remuer les popotins ❣️(Plus d'infos : https://bento.me/strawberry-jam-band )"
-            },
-            {
-                "intitule_long": "Pop Soul",
-                "intitule_court": "PopSoul",
-                "referent_pseudo_zap": "Tuan_Ngu",
-                "prenoms_membres": "Edward, Perceval, Tuan, Vincent",
-                "style_musique": "Jazz, Pop, Rock",
-                "phrase_accroche": null,
-                "description": "Linup en formation"
             },
             {
                 "intitule_long": "OLAPOP",
@@ -463,7 +405,7 @@
         "pseudo_zap": [
             "Bertrand_Bar"
         ],
-        "jam_description": "🎯 But : Improviser, construire des morceaux à la volée\nConcept : Faire évoluer un riff, en partant d’une ligne de basse, de guitare, batterie, inclure des sons électro ou d’autres instruments.\n \nL'objectif est d'arriver à en créer un morceau “live” de façon pyramidale (riff de base, évolution, retour au riff de base).\nEnregistrer (vidéo ou son) chaque séance pour en tirer quelque chose ou pas.\n\n\nLes musicien.ne.s peuvent fournir des riffs qu’ils ont à l’avance\nDes thématiques peuvent être proposées, exemple : “soirée motifs répétitifs à partir d’une gamme mode lydien”, “Ne jamais jouer la quinte” \n \n✅ Pré-requis : intermédiaire -avancé\n\n🎶 Styles abordés : Post-Rock, Rock psychédélique, rock progressif, stoner, sludge\n\n🔗 Lineup : batterie, basse, guitare, synthé/clavier électro, chant.\n\n🗺️ Lieu : à définir (Paris Sud / Montrouge / HF Studio)\n\n🕰️ Fréquence : toutes les 3 semaines le mercredi de 20h à 22h (hors congés scolaires sauf disponibilités) à compter du 01/02/2025",
+        "jam_description": "🎯 But : Improviser, construire des morceaux à la volée\nConcept : Faire évoluer un riff, en partant d’une ligne de basse, de guitare, batterie, inclure des sons électro ou d’autres instruments.\n \nL'objectif est d'arriver à en créer un morceau “live” de façon pyramidale (riff de base, évolution, retour au riff de base).\nEnregistrer (vidéo ou son) chaque séance pour en tirer quelque chose ou pas.\n\n\nLes musicien.ne.s peuvent fournir des riffs qu’ils ont à l’avance.\n \n✅ Pré-requis : intermédiaire -avancé\n\n🎶 Styles abordés : Post-Rock, Rock psychédélique, rock progressif, stoner, sludge ...\n\n🔗 Lineup : batterie, basse, guitare, synthé/clavier électro, chant.\n\n🗺️ Lieu : à définir (Paris Sud / Montrouge / HF Studio)\n\n🕰️ Fréquence : toutes les 3 semaines le mercredi de 20h à 22h (hors congés scolaires sauf disponibilités) à compter du 01/02/2025",
         "illustration_url": "/img/collectifs/rec98b7ennHbMgZZZ.jpg",
         "discord_presentation_url": null,
         "recrutement_permanent": true,
