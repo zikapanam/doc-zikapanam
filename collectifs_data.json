@@ -85,28 +85,6 @@
             }
         ]
     },
-    "rec8JJaHyCNb99ub5": {
-        "intitule": "🎶 Collectif Akwaba",
-        "intitule_court": null,
-        "pseudo_zap": [
-            "Paul_Kac"
-        ],
-        "jam_description": "Le collectif Kosanga devient Akwaba et s’aggrandit !\n\n2 lineups à date :\n\nKosanga (afrobeat) et Kenté Groove (afrotrad)",
-        "illustration_url": null,
-        "discord_presentation_url": "https://discordapp.com/channels/1038909359712895058/1092582664088850432/1092582664088850432",
-        "recrutement_permanent": false,
-        "lineups": [
-            {
-                "intitule_long": "Kenté Groove",
-                "intitule_court": "Kenté Groove",
-                "referent_pseudo_zap": "Xong_L**",
-                "prenoms_membres": "Carole, Emilie, Etan, Jordan, Marc, Paul, Serge, Xong",
-                "style_musique": "Afrobeat, Trad",
-                "phrase_accroche": null,
-                "description": "Kenté Groove joue un mix de musiques africaines plutôt traditionnelles (mandingue, cap-verdienne, rumba congolaise etc) et afro rock&blues anciennes."
-            }
-        ]
-    },
     "rec4NUFCrev9PePaT": {
         "intitule": "☎️ Collectif Repassez-moi le standard",
         "intitule_court": null,
@@ -227,6 +205,15 @@
         "discord_presentation_url": null,
         "recrutement_permanent": false,
         "lineups": [
+            {
+                "intitule_long": "Green eggs & jam",
+                "intitule_court": "Eggs",
+                "referent_pseudo_zap": "Abhishek_Pal",
+                "prenoms_membres": "Abhishek, Alizée, Guilherme",
+                "style_musique": "Brésilien, Jazz",
+                "phrase_accroche": null,
+                "description": null
+            },
             {
                 "intitule_long": "Wonder Michel",
                 "intitule_court": "WonderMichel",
