@@ -35,9 +35,9 @@ N'hésitez pas à consulter la documentation ci-dessous pour que les rouages de 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T9djMv31qE0?si=JM9zVnh1f9WqImHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### 24/07/2024 : C'est quoi le concept ?
+### 11/09/2025 : C'est quoi le concept ?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xWYKN-M5I-Y?si=T8gjhji0_VESOc_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://youtube.com/shorts/K6MhIjPpqIs?feature=shared" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Qui peut s'inscrire ?
 
