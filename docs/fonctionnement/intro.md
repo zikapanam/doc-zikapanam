@@ -37,7 +37,7 @@ N'hésitez pas à consulter la documentation ci-dessous pour que les rouages de 
 
 ### 11/09/2025 : C'est quoi le concept ?
 
-<iframe width="315" height="560" src="https://youtube.com/shorts/K6MhIjPpqIs?feature=shared" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/K6MhIjPpqIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Qui peut s'inscrire ?
 
