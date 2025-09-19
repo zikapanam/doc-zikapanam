@@ -22,11 +22,13 @@ function HomepageHeader() {
 📍 Paris & petite couronne<br/>
 🤝 Rejoins-nous<br/>
 	</p>
+  <p><iframe width="560" height="315" src="https://youtube.com/embed/dMLM8O9GN2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/fonctionnement/intro">
-            ➡️ Toutes les informations sur l'association
+            ➡️ Cliquez ici pour accéder à toutes les informations sur l'association
           </Link>
         </div>
       </div>
