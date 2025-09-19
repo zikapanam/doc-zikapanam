@@ -36,8 +36,8 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/fonctionnement/intro">
-              ➡️ Cliquez ici pour vous inscrire et/ou cotiser
+              to="/docs/rejoindre-l-asso/devenir-cotisant">
+              ➡️ Inscription
             </Link>
           </div>
         </p>
@@ -46,7 +46,7 @@ function HomepageHeader() {
             <Link
               className="button button--secondary button--lg"
               to="/docs/fonctionnement/intro">
-              ➡️ Cliquez ici pour plus d'informations sur l'association
+              ➡️ Plus d'infos
             </Link>
           </div>
         </p>
