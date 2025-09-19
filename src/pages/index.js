@@ -23,22 +23,33 @@ function HomepageHeader() {
           🤝 Rejoins-nous<br/>
         </p>
         <p>
-          <iframe width="560" height="315" src="https://youtube.com/embed/dMLM8O9GN2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe class="video-iframe"
+            src="https://youtube.com/embed/dMLM8O9GN2Y"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen>
+          </iframe>
         </p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/fonctionnement/intro">
-            ➡️ Cliquez ici pour vous inscrire et/ou cotiser
-          </Link>
-        </div>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/fonctionnement/intro">
-            ➡️ Cliquez ici pour plus d'informations sur l'association
-          </Link>
-        </div>
+        <p>
+          <div className={styles.buttons}>
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/fonctionnement/intro">
+              ➡️ Cliquez ici pour vous inscrire et/ou cotiser
+            </Link>
+          </div>
+        </p>
+        <p>
+          <div className={styles.buttons}>
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/fonctionnement/intro">
+              ➡️ Cliquez ici pour plus d'informations sur l'association
+            </Link>
+          </div>
+        </p>
       </div>
     </header>
   );
